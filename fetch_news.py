@@ -15,6 +15,9 @@ JST = timezone(timedelta(hours=9))
 MAX_PER_CAT = 8
 
 CATEGORIES = [
+    # 朝刊掲載記事は毎朝未明〜5時ごろ電子版に同時配信されるため、
+    # 「当日0〜7時台に配信された日経記事」を朝刊トピックスとして扱う
+    {"id": "asa",   "label": "けさの朝刊トピックス", "emoji": "🌅", "query": "site:nikkei.com when:1d", "morning_only": True, "max": 10},
     {"id": "top",   "label": "本日のトップ",   "emoji": "🗞",  "query": "site:nikkei.com when:1d"},
     {"id": "stock", "label": "株価",           "emoji": "📈", "query": "site:nikkei.com (株価 OR 日経平均 OR 株式市場) when:2d"},
     {"id": "fx",    "label": "為替",           "emoji": "💱", "query": "site:nikkei.com (円相場 OR 為替 OR 円安 OR 円高) when:2d"},
@@ -66,6 +69,15 @@ def fetch_feed(query: str) -> list[dict]:
     return items
 
 
+def is_morning_article(date_iso: str) -> bool:
+    """当日0:00〜7:59（JST）配信＝朝刊掲載とみなす。"""
+    if not date_iso:
+        return False
+    dt = datetime.fromisoformat(date_iso)
+    now = datetime.now(JST)
+    return dt.date() == now.date() and dt.hour < 8
+
+
 def main() -> None:
     seen_titles: set[str] = set()
     out_categories = []
@@ -75,6 +87,9 @@ def main() -> None:
         except Exception as e:  # 1カテゴリの失敗で全体を止めない
             print(f"[warn] {cat['id']}: {e}")
             items = []
+        if cat.get("morning_only"):
+            items = [it for it in items if is_morning_article(it["date"])]
+        max_items = cat.get("max", MAX_PER_CAT)
         picked = []
         for it in items:
             if not it["title"] or it["title"] in seen_titles:
@@ -83,7 +98,7 @@ def main() -> None:
                 continue
             picked.append(it)
             seen_titles.add(it["title"])
-            if len(picked) >= MAX_PER_CAT:
+            if len(picked) >= max_items:
                 break
         out_categories.append({**{k: cat[k] for k in ("id", "label", "emoji")}, "items": picked})
         print(f"[ok] {cat['id']}: {len(picked)}件")

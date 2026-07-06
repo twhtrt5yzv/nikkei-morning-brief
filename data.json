@@ -1,6 +1,73 @@
 {
- "updated": "2026-07-06T23:06:19+09:00",
+ "updated": "2026-07-06T23:24:49+09:00",
  "categories": [
+  {
+   "id": "asa",
+   "label": "けさの朝刊トピックス",
+   "emoji": "🌅",
+   "items": [
+    {
+     "title": "キオクシア社長が「メモリー首位奪還宣言」 株主総会で見せた変貌",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hR1Y2Nmp3bGVyRWdNUzdUYlBtUkdOUDRLYzBvTzZ0cHJXYktLa2FZSWU4eGhablBpOXNtQ3VfMnA3dUVzTUlCZlVzVE83b2JlekdCaXUtQkc0VkU5QTQyQWFYYW5KMm5Ld1NCZA?oc=5",
+     "date": "2026-07-06T05:00:00+09:00"
+    },
+    {
+     "title": "ハーランド2ゴール、ノルウェーがブラジル下し8強 イングランドも勝利",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tbjFnU05wbmh0TkQyWmp5bjVzWjZoUXBEUlpIOFRtN19KdlBlRURIYW1Jd2tuVXNIZmtsdkdsWlpQYTdpMXBfVnBfb0FLTURfRWlQMXYwQ0YxTDZBSWtqQzRENE82Wjc0VmxmXw?oc=5",
+     "date": "2026-07-06T05:08:24+09:00"
+    },
+    {
+     "title": "NVIDIAのCEOも待ちわびる「量子AI」 究極知は夢の技術か脅威か",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SQlZhVVRIZ2NLZDhwRkZ5SV9xM0FrR0RWanBTWjkxeFVIYnpXYTV2ZldzWm9Vb1d6bmtMY2tFUVhpTWVkTHVfZDNlc2hEVG1zbDdyV3FUeE1HMWd3TWkyM1YzLWxNT3dhd25kUg?oc=5",
+     "date": "2026-07-06T02:00:00+09:00"
+    },
+    {
+     "title": "公文、アタマプラス買収 AI活用の新興、全株式取得 塾運営効率化や教材開発",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sLVAyLUo3N0ZUaF9YVjBhOFF4U0hzZkpPVjJHREk5cklVQWlnd2NXSEI3UXd3Q1FhNGlmRkJDMGxOQm1uenl6dEJuUGc3TnRCX181RWRSSGt2dHVCQ1FDQnUtQ2ZFR3NrOEZWcQ?oc=5",
+     "date": "2026-07-06T02:00:00+09:00"
+    },
+    {
+     "title": "東証が過去最大のシステム増強、半導体高騰や調達難が決め手",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02YWpNc29MXy1iZllOVDZ1LU9xa1BoZzZ1bm5jbFJmaWRzdXVSek8yVmRMRjExTlZXQ0ZfclVabUE2amNtVTIzZVBQT3VnWHl3dmdHa0RWaFVRUlFSM2xhSlE1U2gxdkZLQ0Rwbg?oc=5",
+     "date": "2026-07-06T05:00:00+09:00"
+    },
+    {
+     "title": "カルテル疑惑のアイス価格横並び 特売が阻む「抜け駆け」値上げ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5VzlyNksyMUZsLTJvS0RIWFFyb3FyNTU0enJVQlVha0hwZjNVS003X3F4SXRSZ1BYTHg5SE9YeE5NRkJ5UVhZTXpNVkx0SC1QUWx3YkNvdWlKX3NOMF9CM0JnUHFPSG8xQWZ5UA?oc=5",
+     "date": "2026-07-06T05:00:00+09:00"
+    },
+    {
+     "title": "都心6区中古マンション、広がる評価格差 選別がより重要に",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90QUFHRVB3anhmcHVzN0NINV9fSDJxbDdTYlloYUZoMWF1UXpFbjVTTTRiX0VMaExHYUJubWNJS0NPYzl1YzloN2dCZTlWdllFRkxsNmhNNHpONHVKcC04R3J5WVVUS0E1S0RSWA?oc=5",
+     "date": "2026-07-06T04:00:00+09:00"
+    },
+    {
+     "title": "フィンエアーCEO、福岡・新千歳に再就航検討 ロシア上空の飛行再開後",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kNDJucU9Ga0ZPWEF0UUxEbHNLVWxFN1JHZkFOVGZWcWtOdWRjUTRQTWFGMFRRQUZZTV9FXzNoX1FkU3paY0ExWm1zVWVLc0ppU0ViNHhJSFZzeHR1SkN1Z2tJYjVQMlF3TVNOaQ?oc=5",
+     "date": "2026-07-06T02:00:00+09:00"
+    },
+    {
+     "title": "ミセスも来るSAGAアリーナ、年間来場者は県人口の半分 地価押し上げ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aaFdvTUdJSmMxSW81bDAzREVIVktlcUxCY05KMVJFeW1COGRYNjdyNXZVdmdmUWNMandSNjYxV283NmY0NGI2aTNmWXpiTmtmaXJBU1B1NDBEY3ZtWmhmaHBvXzVjNkdNeG80UA?oc=5",
+     "date": "2026-07-06T05:00:00+09:00"
+    },
+    {
+     "title": "酷暑日から「社員を守れ」 大林組やヤクルトレディ、朝型にシフト",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRXNVQUtEaDMyOEFubzdjSVo5N0ZTelVKSWJJb1Iza0ZPYTJNeUZmZjhjZUgtaW5EYnBiQnlnSjBBOWRYRWJjQTVKNUVQaFR3NnllV3ZHa2V0cXBwZlZSUndfd3M0T2EtNElBdA?oc=5",
+     "date": "2026-07-06T02:00:00+09:00"
+    }
+   ]
+  },
   {
    "id": "top",
    "label": "本日のトップ",
@@ -37,12 +104,6 @@
      "date": "2026-07-06T09:30:37+09:00"
     },
     {
-     "title": "キオクシア社長が「メモリー首位奪還宣言」 株主総会で見せた変貌",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hR1Y2Nmp3bGVyRWdNUzdUYlBtUkdOUDRLYzBvTzZ0cHJXYktLa2FZSWU4eGhablBpOXNtQ3VfMnA3dUVzTUlCZlVzVE83b2JlekdCaXUtQkc0VkU5QTQyQWFYYW5KMm5Ld1NCZA?oc=5",
-     "date": "2026-07-06T05:00:00+09:00"
-    },
-    {
      "title": "書店の4割が赤字、市場規模は10年で2割減 帝国データ調査",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15am5aeVc0SHBDX3JPX002RFNYTlNORDBwWGlMekg5M2hmcUt1aTB2blc4NFdDWE9BUEQyaGN2SzkwZjNRTTh1YnNzbWtHWFdaOHFTWFpoTXc1X2RMSzhhZzUyczd6ZU1OMjFGZQ?oc=5",
@@ -53,6 +114,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nb2pGMUVyLUpCU3RMWkVOQ1RPa3FoeXhqaGFBRHpIVzg4ejI5dWFod29FOXJqTk5MazQ1eDE0d3pBSGRVemJQQmxRenRUNUhtXzFLUXJOSEdLT1ZYWUxVRzRiSkxoNndWaWxjNA?oc=5",
      "date": "2026-07-06T14:39:36+09:00"
+    },
+    {
+     "title": "京急株、旧村上ファンド系らが買い増し 保有比率9.14%に",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYUFBBenpaNkhQS2kwRGNuajczM29GTnctMUEyTDlXMkpoT2xsOFZ2UlJfTy11Y3NoNmZYeVRUaEtLci1EeldoUUdnSGJ0OF85YlBlblRoeVMwdWYwa01lZFZfU0FFRU05eFp5Ug?oc=5",
+     "date": "2026-07-06T17:48:08+09:00"
     }
    ]
   },
