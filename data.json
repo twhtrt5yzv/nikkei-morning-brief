@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T05:15:26+09:00",
+ "updated": "2026-07-07T07:58:10+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,10 +7,52 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "スペイン5試合連続無失点 ポルトガル下し準々決勝へ サッカーW杯",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1VmV6cmFIWVRDUC1JMWNKcjFOUWtOVThMWDZleVBTVUJxWnViTGhiZlIwSlVLZlVnVGNhM3c4TmIzWVZRUlRGYW1JU082QXZPcWdFeDVJX29USUU4QThKU0VyeUttLWRBTzRHRw?oc=5",
+     "date": "2026-07-07T05:15:29+09:00"
+    },
+    {
+     "title": "フィンテック特許で中国首位、米国突き放す 金融覇権にらみ出願10倍",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNFA0eFZaank2cUZfdFNUU0tDSFlUSGk4TGFNb2kwOWJ5ejR3VDVTWjR5SzU5R1BZNFFEaXd2emNMZk1WLU96Ui0wRGxKYVBpM3VIaUNFREp3ZjFUVm5UTEVkd3RtRjAwdVhXVA?oc=5",
+     "date": "2026-07-07T02:00:00+09:00"
+    },
+    {
      "title": "トランプ氏「W杯の米選手欠場は不公平」 処分見直しの要請認める",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtbVJVbExQbDJMVXAxeHR0UDlobUFadWNlS2tnX0E2NXJNdGRkcXUtcXh0VWxWY2J3ZjJyS3FtSjIwbkNZT3BLRUVGbU1rakJYZ3lwV3pUY1ZTQWRVT1ptQW1GMEZUVWVEOFF4Yg?oc=5",
      "date": "2026-07-07T03:41:58+09:00"
+    },
+    {
+     "title": "使用済み核燃料「満杯」迫る 関電は窮余の輸出、国内再処理先見えず",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SWGhJNXh3XzZ2SFQ1SmRKdUVZNFVBaXQydUx3UEVVbkN4U0RqOTV3ZnJJbEdkRTVRZUJhTXFZMUNxZFVITFdldzdwR19QOXlkM3lDRDE1ZG1Qb1RuYzFSemJsWXYyN0REdEFTQg?oc=5",
+     "date": "2026-07-07T05:00:00+09:00"
+    },
+    {
+     "title": "マルウエア感染端末を特定 政府、官民でIoT悪用のサイバー対策",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtM2xSdXJ0RzdZVFBDbXFvaVVJSG9LeFY3N18zSjlRQS1JLXh4dXowWlRScFE0bDhaZ2J5RVpRdTRIM3JxM1ZHbk84cElHME4wWWRHbXYzLURlenpnaGZ0X1RLMEozSG1nUHV2Tg?oc=5",
+     "date": "2026-07-07T02:00:00+09:00"
+    },
+    {
+     "title": "熱を帯びる有人月探査 私たちは月に何を求めているのか",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pcHRqa0FKNXRCeW5YdVhFSEF4dHlubGZ0Unl6VHRoNHlUOXNhbllKSzR3OGpXUW9OVDFtbzc3NkhvYzhHRTdKR0VtTkVONHlZT0hYNy15bU5kTGZNUUJLUFdoRXpIV2FJWTJfRQ?oc=5",
+     "date": "2026-07-07T05:00:00+09:00"
+    },
+    {
+     "title": "NBA八村塁、クリッパーズと契約へ 2年総額45億円",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGdjFfczJjN2Z3d1U1dVdmQkIxMDJXRElUWWZUemFBQW1mLVFPU0R3RUllcXJmOWxKbnpndHVwX2NKTUFoQmR4b0RSbjRqejZfaFZlTl8yQ1hhSzRRWmttbG8zZFFEZnFLbDVZRg?oc=5",
+     "date": "2026-07-07T01:34:29+09:00"
+    },
+    {
+     "title": "編集者の視点 「米国でPPAコストに上昇懸念」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56ZnlCZ0I4TERndjFnS3Y4VW9LSmVPX0Nwdm9VSlFYWXNlY0t1dWJLTE5FVFZzWk5hcUY2QzBnMTRJeVFfUEd2UWFKNGlQMnNTV25ZUW4wbEllcUI2OE5UV0VWTUhCamlyMm93RHR1UnlHand6MkFr?oc=5",
+     "date": "2026-07-07T05:00:00+09:00"
     },
     {
      "title": "プレスリリースのニュース一覧",
@@ -19,52 +61,10 @@
      "date": "2026-07-07T00:00:00+09:00"
     },
     {
-     "title": "「ミツエイ」のニュース・最新情報",
+     "title": "基龍のニュース・発言など最新記事",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92bmlLdkswTjZENlZZRGRHNnMySVpCNDhfQ093elNmUlpvNk4xV0xPZUxVcTg0RDNvX0JpTWdKdllPYXNSNENmNFR5elY5ZjJLZ1E?oc=5",
-     "date": "2026-07-07T03:30:53+09:00"
-    },
-    {
-     "title": "挫折乗り越えた旧御三家、手にした世界への挑戦権",
-     "source": "NIKKEI Financial",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkdKY0NHR3lieDRfT0JPenAtemd2WnA3UkdVWHEtN1FwZWtScC05bGllN1ZuQzR0UlVDbW52alY3TWlWNVZuWUJLWEgtVGd5NVk5aGtxV0VaRXd1Qkl4dWpTc2RqVlJXZFIyXzF4aE9QdmlpYUFMTWQxVXN5SXJ5X3A1cGR5U0hUMjJNZWtONm51ZFdzVG5TZg?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
-    },
-    {
-     "title": "AI利用で社員1人月1000万円？ 爆増コストにおののく企業、必要な対処とは",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXpXT1oxcnZ5dWk5TS11SUFUZGNEVzB2TWFVS3NzWmVOOFBEdzVSMmdrV1R3QUNiODQ5bDdkSDZVM0RDekV4SzFyemhyN3dOR0poZTJaMGEzemxXbkhzTkg3RERsZFJsN3pXRXpvSl9hMEhaVE5aNFV2bVozZjdkbDlrYzl3WXlCamtfSjh4MU9WZkxRd2F6Nml2LTdGNkk?oc=5",
-     "date": "2026-07-07T05:00:03+09:00"
-    },
-    {
-     "title": "中国･百度､E2E特許に先駆性 華為の開発担うカナダ人材",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamxTZWx3S2JtLVdPNkR1RDBKNEVXMWI3NEJnczVKcVJVOXo5ME5OQk5iWE9PeGcyUFRfeF91TFBBc1VDMGM3MUEzaXpkX2VLMnk2QVcyMlEtR08xNmpsQ3R5QkNsaVRkY09zdW9ObzBxNFVjalQyQ3ZKODRmWERRajh3Zld2NmZ6bTFXQjJwc056MlVJSDFEeEtQMFJUQmlfRV8zNA?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
-    },
-    {
-     "title": "編集者の視点 「中国から世界へ輸出 日産の賭け」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXV1NndDZTdqeXRKNUMxa2xSR0xyR1lodEVISmFsTkxFVHNnaFZPUnI3d1c5eENhclNGc0NwODdNS1A3dWpCeHdVaHNCQU0tV2Y5dHRKQmdXZ21mZzBVemNvLTYySFVhNnFGNEZ2UXYxQ29ZWmdVcjR1ZGhKek5takQ5NEgwSVp3RGd6Vm92WUo5a0E1RVJwYUR4NEJMNzRfVzJiSA?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
-    },
-    {
-     "title": "【特許】信越化学、粉体の被覆率算出に機械学習 高精度",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdURBUW1TZFR4TDF3Y082cGRYWElucjl3aHhUSWZXTnRuU3NMR2VaMzBKZFQ4dUJVa2dNNHlrZHktblcyNlpwcHZ6YXhJMGhwaExKbEt5cEJUVVhXSmpDdUtSTEZObzVZR0htbDRDSUhlX2s3VjFYcWVuaVFSSmJfRnFBanRpRTdJZGUyTGI4SWJWbFlIRFFfSnIwNHhCSUJOcjgyaHNQcGRURG5u?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
-    },
-    {
-     "title": "輸入車販売、円安で1〜6月4%減 欧州勢｢非常に厳しい｣",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XY21uMWd6UEtZODlrMXhzYVdUNUhVQTZYZlBrd2hBd0ZoNGtRRzVZWEZzR0EzM25Rb0xlZ2g4dVJZdDM1UkJhQ2NvMTVYbUtKUzBuVWR5dkExdUl0a2tnVDJSUk0xUEtXV1djeWN1MUVmelNLVWVhUXFRZndwZFE?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
-    },
-    {
-     "title": "Tokyo､テスラ･モデル3が世界最安 都の補助で｢294万円｣",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkF0N0EwZjFrZ3ZzX2tRT3d5UzFKV2VQZWhXWkVsbU8zNTR0cS15OXVEcTBiZVhDXzI4ZXFNcXJfZjFnTWs2dHBwRDIwUFF0aW5CWGdLTXBkQmxCR2V2dE9CQWpNU195bHB0ekJnZmUyYUtXV1NyUThpX2JnR0xLLVVXWXU4SUYxYXFvQWNiMWxabWlaVHhUYUJqeFNWVjhseF9GZA?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VMmNPZHk3NjM5WDhuQVM4YWlod1hCdThQc2NBVWFVT3VCZUpCMEJzaTdXMnlFVUQyYjlXVks4YVhGV3dUc3RnVmNtNndNOGZienBCZzQxUVJVQlZxQmc?oc=5",
+     "date": "2026-07-07T05:41:12+09:00"
     }
    ]
   },
@@ -153,6 +153,12 @@
      "date": "2026-07-06T15:55:24+09:00"
     },
     {
+     "title": "信越化学工業株価反発 ウエハー不足懸念「長期契約交渉優位」の見方",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNM0xMVG1VbExmNDdKVUVQRFhqcU00RGtiWjR6ZlVRNDVhZUtpZnpwdE40R29wZ0ZMUFhsaExqWm5aU29zZzJGTS0yRVc0R2FBOGQycl9Pc0VCbUFvZUV6eW9wZlZLajIxakFkRA?oc=5",
+     "date": "2026-07-06T12:00:26+09:00"
+    },
+    {
      "title": "霞ヶ関キャピタルの株価、大幅反落 3〜5月期の営業益97%減",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpbE1ycWtWWFlzMExES0NMZ2lwa01VM3I3VnpYZmhETnI4OEJaSHNBcjE5SEhVVW9Id0VoWDVrdVhUODF6dWEzNzZEb0FmeS1fd1hzZGVVakJ1bFBDZHFCaUpkcnQ5M0h6RFJQWA?oc=5",
@@ -169,12 +175,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44NTJ3UG96WUtnWXFPbGpHdXRYQVh5Ml9yZHA0TGhHLVF5bGJ6WC1nOTQ1LUdKc1BXYmNFeVJSbC1lQVpRcEkyUnVOMzBaLVNZVXQyNkFVQ3ZYbDhZbFNtLUJGLUN6cnlRY1pGRQ?oc=5",
      "date": "2026-07-06T13:47:00+09:00"
-    },
-    {
-     "title": "信越化学工業株価反発 ウエハー不足懸念「長期契約交渉優位」の見方",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNM0xMVG1VbExmNDdKVUVQRFhqcU00RGtiWjR6ZlVRNDVhZUtpZnpwdE40R29wZ0ZMUFhsaExqWm5aU29zZzJGTS0yRVc0R2FBOGQycl9Pc0VCbUFvZUV6eW9wZlZLajIxakFkRA?oc=5",
-     "date": "2026-07-06T12:00:26+09:00"
     }
    ]
   },
@@ -196,16 +196,16 @@
      "date": "2026-07-06T05:00:00+09:00"
     },
     {
-     "title": "日経平均株価、小幅に反落 終値は6円安の6万9737円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4TDl3d1Z2R1FoNEI3RGhPaEFEV2VVMkpJeWdvdGE5YWg1N2IzOHR4czY3N3BDSGRMVWJxeFFkSlczekJwQm9WaHZJWWZYY0hybUx1dWxlMHVyMGVyclhfNGp6bGgtUmgwV0RtLQ?oc=5",
-     "date": "2026-07-06T09:07:21+09:00"
-    },
-    {
      "title": "円安の行方左右 為替介入の効果減殺するFX「巨額円売り戻し」",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMUXM4SnJYMGNXc0RwRXlkTmJ0eXBseExzY1FMUkhEUWNra3h0ZE1adE1FX0hPQkNTakVUdEUyaVJmUHU0cjk2YXBLR293VU9fTW5Vcy0tdUk1a19CRzhROEVqd245NTBYWTNDVA?oc=5",
      "date": "2026-07-05T11:00:00+09:00"
+    },
+    {
+     "title": "日経平均株価、小幅に反落 終値は6円安の6万9737円",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4TDl3d1Z2R1FoNEI3RGhPaEFEV2VVMkpJeWdvdGE5YWg1N2IzOHR4czY3N3BDSGRMVWJxeFFkSlczekJwQm9WaHZJWWZYY0hybUx1dWxlMHVyMGVyclhfNGp6bGgtUmgwV0RtLQ?oc=5",
+     "date": "2026-07-06T09:07:21+09:00"
     },
     {
      "title": "中古車競売価格、6月6.9%高 円安で海外需要増",
@@ -214,22 +214,22 @@
      "date": "2026-07-06T18:59:58+09:00"
     },
     {
-     "title": "外為8時30分 円相場、下落し161円台半ば 対ユーロも下落",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82STExb1dEdVlxX3NuMUV2cWVTaVVvbTRMay1icG5ta1VpN1F0RHNwS2pKTm9zY3o2TE1GaE1IaFY0bklJR3JJLTdIUEJDYUQxX3JHalZ0b0p2SFFWeFlER1hwZl90YVdnNFhzZQ?oc=5",
-     "date": "2026-07-06T09:01:58+09:00"
-    },
-    {
      "title": "東証前引け 日経平均反落、824円安 AI関連に売り",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YUmVvbkdsUWNqZkMxczRZZXplTUNzQmlZallYV3MxNXFqZzJNaFBqMnl2TGlBS0VoWFdJZ095UDJUeENreDBlWVk0NHhGR0dCT1d5YV9YajRuUmNNOTFSMkJBajRJaXBRRW5Saw?oc=5",
      "date": "2026-07-06T11:48:46+09:00"
     },
     {
-     "title": "ロンドン外為6日 ユーロ、対ドルで下落 円相場は162円台前半",
+     "title": "外為8時30分 円相場、下落し161円台半ば 対ユーロも下落",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8teHZGWC1jclltUXozZDVfZGQzcDlSRGlUQlZDUzVfcl9neFFHSkNwbVJ4QkY5NjU4VGUza2U2dXgycWwwNXFJTnQyV3hMbVRnYV9IR2EyRng4YzExV2JSdjZWRGZpNWcweUVKZg?oc=5",
-     "date": "2026-07-07T00:42:33+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82STExb1dEdVlxX3NuMUV2cWVTaVVvbTRMay1icG5ta1VpN1F0RHNwS2pKTm9zY3o2TE1GaE1IaFY0bklJR3JJLTdIUEJDYUQxX3JHalZ0b0p2SFFWeFlER1hwZl90YVdnNFhzZQ?oc=5",
+     "date": "2026-07-06T09:01:58+09:00"
+    },
+    {
+     "title": "NY円相場、続落 1ドル=162円00〜10銭 日米金利差意識した円売り",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcEZKTUtmRnBHMDY2d1ZCNFJYd3JaN085aGhEYUxwblo0a1lRTHppaUYtZjRTUS1xVV9oaGlkbVJ4NXlSVGdMS3puVzFfTlVEME4xR1F5eVk3VFlQd0FpN1NSSmZlSmE2aWE0MA?oc=5",
+     "date": "2026-07-07T06:54:37+09:00"
     }
    ]
   },
@@ -263,6 +263,12 @@
      "date": "2026-07-06T15:19:17+09:00"
     },
     {
+     "title": "（官公庁人事）日銀",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlh6NXY4Z3ZFa2Q3eWpnTC0yVHEzN05LSGE1ZlVFMnJuN093RHo2WnZSbkRqLVFjanhBRzRGb2ViT0c1V0t5UlBZeWplaDcxdkhNbVNVSHBiWFB1SVRZQkxrQVdBb0VvVXFpNDMxWXRNdEhfOHJ6UGQyN2RlR2xiTVlzdHBXUFpEQzZMM21UV3RBeFhZOXk4QmtRWmE2eE9MWHc?oc=5",
+     "date": "2026-07-07T02:05:28+09:00"
+    },
+    {
      "title": "5年積金、子どもがいれば金利1.5% 帯広信金が創業110周年記念",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WRlAxaGNIemRzZXIwdEkzNFpSZGY1TUZLZUFjTExmVHdXOXZFMnc3ZkxvOUVCWkZBcVpMMml1cjhuZUJIY2dZazAyNDhrOGsyNHM1QUdTaHJDM3J6dVZ0dGZ5bUwtTFdNNDRkMg?oc=5",
@@ -273,12 +279,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQXzJhbVpKQjM2WG1leGczZzc0YTNmRmVlR2ZxSnZMbmpFR3R3dGJ6dlI5VV9RREE0WVFPZ25RNmZzcmRSWWNvVDRWSGZseDlmdVNBaGdod05zeDlfQW1jM2tfd3hNY1E1TlExbA?oc=5",
      "date": "2026-07-06T15:48:36+09:00"
-    },
-    {
-     "title": "（官公庁人事）日銀",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzhaTmp6Y3BTNGgyRjRWeUo2RS03WFFBSEFUUUVWMzdpazd3ODBVbEdCVW1xd2dpVWNzdDhWb0ZfT1ZIYnY3Z3ZlS0EzcW13ZFRraHl4UVplbUprWFljeEF3TWxYdTFmYzlBbF94by13dlNycWhNaGtydEpHOVBZNDVjc0g0OXFGU0laQXJQcU9DaDRMaFZLU1FWN1VtQXBEZEZBZFhPSFY?oc=5",
-     "date": "2026-07-07T02:05:28+09:00"
     },
     {
      "title": "債券11時 長期金利、2.790%に上昇 財政や日銀後手の警戒続く",
@@ -292,56 +292,7 @@
    "id": "fcy",
    "label": "外貨・ドル建て",
    "emoji": "💵",
-   "items": [
-    {
-     "title": "外為17時 円相場、3日ぶり反落 162円台前半 日米金利差の拡大観測で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kQXR0eUliazFiQjUzekVYQUJDVFlwZUlxWGVfbzNWVzdqOS1JaUI3QU9BQmpyZnBicTdLLUI1bFZ0RVJjRjBXdEtOaXNtSlZaWlRYdEZDd3F4Ul96bTZjc0EybEJYZC1pOFBvbQ?oc=5",
-     "date": "2026-07-06T17:22:25+09:00"
-    },
-    {
-     "title": "株高だからこそ債券投資 変動に耐えるポートフォリオ構築を",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jRDdtc3lJRTdRdnJDTEJkV2tZZ3BtX2k5WVpSendrdHF0NGxnYUJ6STRmQWJvWk9RandubDdXaUQ5U01HSVFQcWh4eXdOREI2YTcyN3ZvNXV6ZUs4NXIwSkVkWktSWTRRRmJTYkdSTDIxSS1WVHpYOW1QLVhpUQ?oc=5",
-     "date": "2026-07-07T05:00:00+09:00"
-    },
-    {
-     "title": "FRBウォーシュ氏、膨張バランスシートどう縮小 思想か現実路線か",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kV0tIbkUyYzRSSVlNWXJjRVcwZGhVbVlxS2djRWd4aUlaOWJaTWt6cVluX3lCM1J5VXBrX0phOWNYbWd6S3UxRG5IZ2Zaakd1WldkYjZuSDZ0c3BqTzNyNXNNeVA2ckRReDdWVEVsSU9LYk9jR19v?oc=5",
-     "date": "2026-07-06T00:00:00+09:00"
-    },
-    {
-     "title": "外為14時 円相場、161円台後半に下げ拡大",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXRoaElPN0NLeVplMkc2LVluUTRKdGZHTG1CcVNQOUtza29kT1JtWWNPeHMtdFowNDdYa2VKT2Z1UENoLWlsMEJPZHRjTFVhWGtDWWZkb0tiaWlxT2c3OUc0emFWaTRXVEtFeU9pSjFIV1hTejV5YmFtZEY0WTlZVUhUOHF2c2xoUC1BNDFCVW50NkpZVDFZSFRWRnZhTE90ZXc?oc=5",
-     "date": "2026-07-06T14:14:00+09:00"
-    },
-    {
-     "title": "39年半ぶり円安、なぜ止まらない？ 通貨の需給と金利差…為替変動の基本をチェック",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZ3dkw1cm5nVnZJODBzNUp2QjlUUGxxa3FrUVdUV01vTi1mSjhSLVAyQThGNEpOWGxpZ00teENXMWQzWjdDNVNhcVFSOU9GaFNGN0lGc2pFZWh3cmE0OVN1T2pQeE9xMENUbi1ycHdEUWpoSVNWcERMOWU5VlNqeWtHWllvdjdodW84U3NLTngwVW5MaW42U05scnBNQWVDeWk0?oc=5",
-     "date": "2026-07-06T05:00:03+09:00"
-    },
-    {
-     "title": "QUICK月次調査〈債券〉",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeG9RbnBrS01nUjFzSzN2NEljcWRyR2JSeGhUY2czU2I2d2FtYWdjalByOVI5bWp3VnlJc2ZUbXE2SVliMW01bUpxSURIT1NScE04NTlvNnVqbG52X25nU2VoZDFQcHJVWUYwdg?oc=5",
-     "date": "2026-07-04T14:30:00+09:00"
-    },
-    {
-     "title": "NEC、CO2減でローン金利優遇 供給網支援、三井住友銀と連携",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDVOU2ZwYU5ybE85M295NHNicDZkSGRNLVJ0amVGV09Vc2F2a1JteEVBWkFMQWJYSTVTREtFV1FqcHZ0X0RNNkFwVWNPczdZQUxXM2k0UVJZaWNWTWVROFJuNU9OUllkdXRpY1hrRDlLQlNsNnZFVkRBNFE0Z0k4dlhMamRreDlsdnBWRnVCZHpTdnlrQ2JzVjZlRTlFZ2toY3E4dmF3?oc=5",
-     "date": "2026-07-06T02:13:46+09:00"
-    },
-    {
-     "title": "〈為替〉円、対ドルで下落",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qQThHWm9mNGZBOFhtTnMzemdWLVBLUXR5alRkU2szT201SW5fZndQUHJPMlgzazdhemVmS2NMUTVJaUpDdnZXQ1RGekRla0dNcXZWN2dEUTVmUjdPemMxZUZHRUptaGdZQmgtSA?oc=5",
-     "date": "2026-07-06T14:30:00+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "yen",
