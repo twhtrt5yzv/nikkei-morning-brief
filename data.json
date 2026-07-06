@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T23:24:49+09:00",
+ "updated": "2026-07-06T23:41:55+09:00",
  "categories": [
   {
    "id": "asa",
@@ -196,6 +196,12 @@
      "date": "2026-07-06T05:00:00+09:00"
     },
     {
+     "title": "中古車競売価格、6月6.9%高 円安で海外需要増",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhUnpfeUFOcWR2LWZJNUJIM1hKV201WVRIUktnWkpnT1N1VlZ6TF9jU0ZYWXhQeWtYNDJDc2syeDdYUXRKa1lTWHB4eVVsUVc5N252b3ZpekI0QmpuWDRZMTU4eS1wN0RGbmEyVg?oc=5",
+     "date": "2026-07-06T18:59:58+09:00"
+    },
+    {
      "title": "円安の行方左右 為替介入の効果減殺するFX「巨額円売り戻し」",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMUXM4SnJYMGNXc0RwRXlkTmJ0eXBseExzY1FMUkhEUWNra3h0ZE1adE1FX0hPQkNTakVUdEUyaVJmUHU0cjk2YXBLR293VU9fTW5Vcy0tdUk1a19CRzhROEVqd245NTBYWTNDVA?oc=5",
@@ -214,22 +220,16 @@
      "date": "2026-07-06T05:00:03+09:00"
     },
     {
-     "title": "日経平均前引け 反落 824円安の6万8919円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80dHFLWktOQUZDZGY3ODlfOWV2aEF3R25QZzJLUVAwZ2NyZ1R3WDhYbnFoME9PMktrLUhrNkVzT3o2NjBCVHlIODBIdVpWVFVPdExnYTZOYWF1NGhWOFFGVmM0Z3Jwbk50ekV4OA?oc=5",
-     "date": "2026-07-06T11:37:04+09:00"
-    },
-    {
-     "title": "中古車競売価格、6月6.9%高 円安で海外需要増",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhUnpfeUFOcWR2LWZJNUJIM1hKV201WVRIUktnWkpnT1N1VlZ6TF9jU0ZYWXhQeWtYNDJDc2syeDdYUXRKa1lTWHB4eVVsUVc5N252b3ZpekI0QmpuWDRZMTU4eS1wN0RGbmEyVg?oc=5",
-     "date": "2026-07-06T18:59:58+09:00"
-    },
-    {
      "title": "外為17時 円相場、3日ぶり反落 162円台前半 日米金利差の拡大観測で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kQXR0eUliazFiQjUzekVYQUJDVFlwZUlxWGVfbzNWVzdqOS1JaUI3QU9BQmpyZnBicTdLLUI1bFZ0RVJjRjBXdEtOaXNtSlZaWlRYdEZDd3F4Ul96bTZjc0EybEJYZC1pOFBvbQ?oc=5",
      "date": "2026-07-06T17:22:25+09:00"
+    },
+    {
+     "title": "外為10時 円相場、軟調 161円台半ば 中値「ややドル買い優勢」の声",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ia3AzSmtHVlNLV3d6dFQzNy05OUdUSzc1SU1xbUVGMTRtUzVhVGdVQy1reC1HWHpPSEktdno0dzJrbmZRT2NldzUzdE5BOWJGMUZwcjY5YkJ2aERoVDJkWVlJLWp4S0dKcjZNZw?oc=5",
+     "date": "2026-07-06T10:26:46+09:00"
     }
    ]
   },
@@ -349,12 +349,6 @@
    "emoji": "🛡",
    "items": [
     {
-     "title": "非投資家に気づきをもたらす生命保険会社の対面接点",
-     "source": "nri.com",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84ZnQ0TVcxWVhaOEZGdEc0STVuXzB3dnhFUUxSWUhZekVvUUlXcVUtSXpHOGh4cUhDN04zQkhCTS1kNTUzNXdSUGNHZ1h2d3ZJN3dGT3h6Z1J4LTRVa1Q3eGJfa1I3ZS1YMS1BeC1rNDNta0NDTnR4Vg?oc=5",
-     "date": "2026-07-06T10:30:00+09:00"
-    },
-    {
      "title": "「円建て社債ETF」が初登場 社債投信は増えるのか",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HNDl3RkM3bzFXSGVmaTROQmw1cGJSU2t0ZEZzUlFOaXBfaU1rTTFyRDhIMGd5VlA5LVMxSFZ5R0ZBM0dwSDZyVjdQODh0Q2FENUk4RDAtSW8zMGJyVkVMakpvYk8tbzVLZV9jNQ?oc=5",
@@ -395,6 +389,12 @@
      "source": "PR TIMES",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsX29MYzhnNnoxN3hzUDVqUmJqQTROSEt6ZTVRMzZkOHNZOWZrMG40cDlXdjBJVlNYTDlGNHhCNzM0LXpJQ3JwQkFVbDhqamJrODFLeUx2Z2RDSTFkeDZhNFgxd3RjejgxbGc?oc=5",
      "date": "2026-06-30T14:37:52+09:00"
+    },
+    {
+     "title": "《明治安田生命保険相互会社 岡山支社 岡山第一マーケット開発室》地元・岡山で長く働き続けながら、自分らしくキャリアが築ける環境。",
+     "source": "Webタウン情報おかやま",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra3RLenFmQVlwUjdDM1J6Vk84eGRYUDJkYllkQmlCX0dXeHc2VHNmdzFlVDVHQVRDWnA4QU9XWjZ6dEhScU5sSnQycHg3SXN3d0dVV2NIRGozdw?oc=5",
+     "date": "2026-06-30T00:03:00+09:00"
     }
    ]
   }
