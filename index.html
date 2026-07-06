@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="日経ブリーフ">
+<title>日経モーニングブリーフ</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --ink: #1a2433;
+    --sub: #6b7686;
+    --accent: #0b3d91;
+    --accent-light: #e8eef9;
+    --line: #e2e7ee;
+    --ok: #0a7d4f;
+    --radius: 12px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.6;
+    padding-bottom: 90px;
+  }
+  header {
+    background: var(--accent);
+    color: #fff;
+    padding: calc(14px + env(safe-area-inset-top)) 16px 12px;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    box-shadow: 0 2px 8px rgba(0,0,0,.15);
+  }
+  header h1 { font-size: 17px; font-weight: 700; letter-spacing: .02em; }
+  header .date { font-size: 12px; opacity: .85; margin-top: 2px; }
+  main { max-width: 760px; margin: 0 auto; padding: 14px 12px; }
+
+  .toolbar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  .toolbar button {
+    flex: 1;
+    min-width: 130px;
+    padding: 10px 12px;
+    border-radius: var(--radius);
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--card);
+    color: var(--accent);
+    border: 1px solid var(--line);
+  }
+  .toolbar button.primary { background: var(--accent); color: #fff; border: none; }
+  .toolbar button:active { opacity: .8; }
+
+  .searchbox {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 14px;
+  }
+  .searchbox input {
+    flex: 1;
+    padding: 10px 12px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    font-size: 15px;
+    background: var(--card);
+  }
+  .searchbox button {
+    padding: 10px 16px;
+    border: none;
+    border-radius: var(--radius);
+    background: var(--accent);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  section.cat { margin-bottom: 18px; }
+  .cat-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    padding: 0 2px;
+  }
+  .cat-head h2 {
+    font-size: 15px;
+    color: var(--accent);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .cat-head h2 .count {
+    font-size: 11px;
+    background: var(--accent-light);
+    color: var(--accent);
+    border-radius: 10px;
+    padding: 1px 8px;
+    font-weight: 600;
+  }
+  .cat-head a.gnews {
+    font-size: 11px;
+    color: var(--sub);
+    text-decoration: none;
+  }
+
+  .card {
+    background: var(--card);
+    border-radius: var(--radius);
+    border: 1px solid var(--line);
+    overflow: hidden;
+  }
+  .article {
+    display: flex;
+    gap: 10px;
+    padding: 12px;
+    border-bottom: 1px solid var(--line);
+    align-items: flex-start;
+  }
+  .article:last-child { border-bottom: none; }
+  .article input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin-top: 3px;
+    accent-color: var(--accent);
+    flex-shrink: 0;
+  }
+  .article .body { flex: 1; min-width: 0; }
+  .article .title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--ink);
+    text-decoration: none;
+    display: block;
+  }
+  .article .title:hover { color: var(--accent); }
+  .article .meta {
+    font-size: 11px;
+    color: var(--sub);
+    margin-top: 3px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .article .meta .src { color: var(--accent); font-weight: 600; }
+  .article .comment {
+    display: none;
+    width: 100%;
+    margin-top: 8px;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: 13px;
+    font-family: inherit;
+    background: #fafbfd;
+    resize: vertical;
+    min-height: 36px;
+  }
+  .article.checked { background: #f4f8ff; }
+  .article.checked .comment { display: block; }
+
+  .empty, .loading {
+    padding: 18px;
+    text-align: center;
+    color: var(--sub);
+    font-size: 13px;
+  }
+  .spinner {
+    display: inline-block;
+    width: 16px; height: 16px;
+    border: 2px solid var(--line);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+    vertical-align: -3px;
+    margin-right: 6px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* 生成バー（下部固定） */
+  .genbar {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: var(--card);
+    border-top: 1px solid var(--line);
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    z-index: 30;
+    box-shadow: 0 -2px 10px rgba(0,0,0,.08);
+  }
+  .genbar .sel-count { font-size: 13px; color: var(--sub); white-space: nowrap; }
+  .genbar .sel-count b { color: var(--accent); font-size: 16px; }
+  .genbar button {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: var(--radius);
+    background: var(--accent);
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .genbar button:disabled { background: #b9c3d3; }
+
+  /* モーダル */
+  .modal-bg {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(15,25,40,.55);
+    z-index: 50;
+    padding: 16px;
+    overflow-y: auto;
+  }
+  .modal-bg.show { display: block; }
+  .modal {
+    max-width: 680px;
+    margin: 20px auto;
+    background: var(--card);
+    border-radius: 14px;
+    padding: 16px;
+  }
+  .modal h3 { font-size: 16px; color: var(--accent); margin-bottom: 10px; }
+  .modal textarea#output {
+    width: 100%;
+    height: 46vh;
+    padding: 12px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    font-size: 13px;
+    font-family: inherit;
+    line-height: 1.7;
+    resize: vertical;
+  }
+  .modal .opts {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin: 10px 0;
+    font-size: 13px;
+    color: var(--sub);
+  }
+  .modal .opts label { display: flex; align-items: center; gap: 5px; cursor: pointer; }
+  .modal .btns { display: flex; gap: 8px; margin-top: 10px; }
+  .modal .btns button {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .btn-copy { background: var(--accent); color: #fff; }
+  .btn-copy.done { background: var(--ok); }
+  .btn-close { background: var(--accent-light); color: var(--accent); }
+
+  /* 設定 */
+  details.settings {
+    margin: 4px 0 14px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+  details.settings summary { cursor: pointer; color: var(--accent); font-weight: 600; }
+  details.settings label { display: block; margin-top: 10px; color: var(--sub); font-size: 12px; }
+  details.settings textarea {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: 13px;
+    font-family: inherit;
+    margin-top: 3px;
+    resize: vertical;
+  }
+  .note { font-size: 11px; color: var(--sub); margin-top: 6px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📰 日経モーニングブリーフ</h1>
+  <div class="date"><span id="todayLabel"></span>　<span id="updatedLabel"></span></div>
+</header>
+
+<main>
+  <div class="toolbar">
+    <button class="primary" id="btnReload">🔄 再読み込み</button>
+    <button id="btnClear">選択をクリア</button>
+  </div>
+
+  <div class="searchbox">
+    <input type="text" id="kwInput" placeholder="キーワードで絞り込み（例：日銀、NISA、相続）" enterkeyhint="search">
+    <button id="btnKw">検索</button>
+  </div>
+
+  <details class="settings">
+    <summary>⚙️ 連携文の挨拶・締めを編集</summary>
+    <label>冒頭の挨拶
+      <textarea id="greetText" rows="2"></textarea>
+    </label>
+    <label>締めの一言
+      <textarea id="closeText" rows="2"></textarea>
+    </label>
+    <div class="note">内容は端末に保存され、次回以降も引き継がれます。</div>
+  </details>
+
+  <div id="sections"></div>
+
+  <p class="note">※ 記事は毎朝5:30と7:45（日本時間）に自動更新されます。見出し・リンクはGoogleニュース経由で取得しており、本文の閲覧には日経電子版の契約が必要な場合があります。</p>
+</main>
+
+<div class="genbar">
+  <span class="sel-count">選択中 <b id="selCount">0</b> 件</span>
+  <button id="btnGen" disabled>📝 連携文を作成</button>
+</div>
+
+<div class="modal-bg" id="modalBg">
+  <div class="modal">
+    <h3>連携文プレビュー</h3>
+    <div class="opts">
+      <label><input type="checkbox" id="optUrl" checked> 記事URLを含める</label>
+      <label><input type="checkbox" id="optCat" checked> カテゴリ見出しを付ける</label>
+    </div>
+    <textarea id="output"></textarea>
+    <div class="btns">
+      <button class="btn-copy" id="btnCopy">📋 コピーする</button>
+      <button class="btn-close" id="btnCloseModal">閉じる</button>
+    </div>
+  </div>
+</div>
+
+<script>
+"use strict";
+
+const DEFAULT_GREET = "おはようございます。\n本日の日経トピックスを共有します。";
+const DEFAULT_CLOSE = "本日もよろしくお願いいたします。";
+
+/* ================= 状態 ================= */
+// key -> { title, link, source, date, cat, comment, checked }
+const articles = new Map();
+let loadedCategories = [];
+
+/* ================= ユーティリティ ================= */
+const $ = sel => document.querySelector(sel);
+const WEEKDAYS = ["日","月","火","水","木","金","土"];
+
+function todayLabel() {
+  const d = new Date();
+  return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${WEEKDAYS[d.getDay()]}）`;
+}
+function shortDate() {
+  const d = new Date();
+  return `${d.getMonth()+1}/${d.getDate()}（${WEEKDAYS[d.getDay()]}）`;
+}
+function fmtTime(dateStr) {
+  const d = new Date(dateStr);
+  if (isNaN(d)) return "";
+  const now = new Date();
+  const sameDay = d.toDateString() === now.toDateString();
+  const hh = String(d.getHours()).padStart(2,"0");
+  const mm = String(d.getMinutes()).padStart(2,"0");
+  if (sameDay) return `本日 ${hh}:${mm}`;
+  return `${d.getMonth()+1}/${d.getDate()} ${hh}:${mm}`;
+}
+function esc(s) {
+  const div = document.createElement("div");
+  div.textContent = s ?? "";
+  return div.innerHTML;
+}
+function gnewsSearchUrl(kw) {
+  return "https://news.google.com/search?q=" + encodeURIComponent("site:nikkei.com " + kw) + "&hl=ja&gl=JP&ceid=JP:ja";
+}
+
+/* ================= 描画 ================= */
+function sectionHtml(cat, extraLink) {
+  return `
+    <div class="cat-head">
+      <h2>${cat.emoji} ${esc(cat.label)} <span class="count" id="count-${cat.id}"></span></h2>
+      ${extraLink || ""}
+    </div>
+    <div class="card" id="list-${cat.id}"></div>`;
+}
+
+function renderList(cat, items) {
+  const list = $("#list-" + cat.id);
+  const count = $("#count-" + cat.id);
+  if (!items.length) {
+    list.innerHTML = `<div class="empty">該当する記事がありません</div>`;
+    count.textContent = "0件";
+    return;
+  }
+  count.textContent = items.length + "件";
+  list.innerHTML = "";
+  for (const item of items) {
+    const key = item.cat + "::" + item.link;
+    if (!articles.has(key)) {
+      articles.set(key, { ...item, comment: "", checked: false });
+    }
+    const a = articles.get(key);
+    const row = document.createElement("div");
+    row.className = "article" + (a.checked ? " checked" : "");
+    row.innerHTML = `
+      <input type="checkbox" ${a.checked ? "checked" : ""} aria-label="記事を選択">
+      <div class="body">
+        <a class="title" href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+        <div class="meta">
+          <span class="src">${esc(a.source || "—")}</span>
+          <span>${esc(fmtTime(a.date))}</span>
+        </div>
+        <textarea class="comment" placeholder="ひとことコメント（任意）— 連携文に反映されます">${esc(a.comment)}</textarea>
+      </div>`;
+    row.querySelector("input").addEventListener("change", e => {
+      a.checked = e.target.checked;
+      row.classList.toggle("checked", a.checked);
+      updateSelCount();
+    });
+    row.querySelector(".comment").addEventListener("input", e => { a.comment = e.target.value; });
+    list.appendChild(row);
+  }
+}
+
+function updateSelCount() {
+  const n = [...articles.values()].filter(a => a.checked).length;
+  $("#selCount").textContent = n;
+  $("#btnGen").disabled = n === 0;
+}
+
+/* ================= データ読み込み ================= */
+async function loadAll() {
+  const wrap = $("#sections");
+  wrap.innerHTML = `<div class="card"><div class="loading"><span class="spinner"></span>読み込み中…</div></div>`;
+  articles.clear();
+  updateSelCount();
+  try {
+    const res = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    loadedCategories = data.categories || [];
+
+    const upd = new Date(data.updated);
+    $("#updatedLabel").textContent = isNaN(upd) ? "" :
+      `（記事更新 ${upd.getMonth()+1}/${upd.getDate()} ${String(upd.getHours()).padStart(2,"0")}:${String(upd.getMinutes()).padStart(2,"0")}）`;
+
+    wrap.innerHTML = "";
+    for (const cat of loadedCategories) {
+      const sec = document.createElement("section");
+      sec.className = "cat";
+      sec.innerHTML = sectionHtml(cat);
+      wrap.appendChild(sec);
+      renderList(cat, cat.items.map(it => ({ ...it, cat: cat.label })));
+    }
+  } catch (e) {
+    wrap.innerHTML = `<div class="card"><div class="empty">記事データを読み込めませんでした（${esc(e.message)}）<br>通信環境をご確認のうえ、再読み込みしてください。</div></div>`;
+  }
+}
+
+/* ================= キーワード絞り込み ================= */
+function searchKeyword(kw) {
+  const id = "kw-" + Date.now();
+  const cat = { id, label: `検索：${kw}`, emoji: "🔍" };
+  const hits = [];
+  const seen = new Set();
+  for (const c of loadedCategories) {
+    for (const it of c.items) {
+      if (it.title.includes(kw) && !seen.has(it.title)) {
+        hits.push({ ...it, cat: `検索：${kw}` });
+        seen.add(it.title);
+      }
+    }
+  }
+  const sec = document.createElement("section");
+  sec.className = "cat";
+  sec.innerHTML = sectionHtml(cat,
+    `<a class="gnews" href="${esc(gnewsSearchUrl(kw))}" target="_blank" rel="noopener">Googleニュースで検索 ↗</a>`);
+  $("#sections").prepend(sec);
+  renderList(cat, hits);
+  if (!hits.length) {
+    $("#list-" + cat.id).innerHTML =
+      `<div class="empty">取得済み記事に「${esc(kw)}」を含むものはありません。<br>右上の「Googleニュースで検索」から最新記事を確認できます。</div>`;
+  }
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+/* ================= 連携文生成 ================= */
+function buildOutput() {
+  const withUrl = $("#optUrl").checked;
+  const withCat = $("#optCat").checked;
+  const selected = [...articles.values()].filter(a => a.checked);
+
+  const lines = [];
+  lines.push(`【日経モーニングトピックス】${shortDate()}`);
+  lines.push("");
+  const greet = $("#greetText").value.trim();
+  if (greet) { lines.push(greet); lines.push(""); }
+
+  if (withCat) {
+    const byCat = new Map();
+    for (const a of selected) {
+      if (!byCat.has(a.cat)) byCat.set(a.cat, []);
+      byCat.get(a.cat).push(a);
+    }
+    for (const [cat, list] of byCat) {
+      lines.push(`▼${cat}`);
+      for (const a of list) pushArticle(lines, a, withUrl);
+      lines.push("");
+    }
+  } else {
+    for (const a of selected) pushArticle(lines, a, withUrl);
+    lines.push("");
+  }
+
+  const close = $("#closeText").value.trim();
+  if (close) lines.push(close);
+  return lines.join("\n").replace(/\n{3,}/g, "\n\n").trim();
+}
+
+function pushArticle(lines, a, withUrl) {
+  lines.push(`・${a.title}`);
+  if (a.comment.trim()) lines.push(`　→ ${a.comment.trim()}`);
+  if (withUrl && a.link) lines.push(`　${a.link}`);
+}
+
+/* ================= イベント ================= */
+$("#btnReload").addEventListener("click", loadAll);
+$("#btnClear").addEventListener("click", () => {
+  for (const a of articles.values()) { a.checked = false; a.comment = ""; }
+  document.querySelectorAll(".article").forEach(el => {
+    el.classList.remove("checked");
+    el.querySelector("input").checked = false;
+    el.querySelector(".comment").value = "";
+  });
+  updateSelCount();
+});
+$("#btnKw").addEventListener("click", () => {
+  const kw = $("#kwInput").value.trim();
+  if (kw) { searchKeyword(kw); $("#kwInput").value = ""; }
+});
+$("#kwInput").addEventListener("keydown", e => {
+  if (e.key === "Enter") { e.preventDefault(); $("#btnKw").click(); }
+});
+$("#btnGen").addEventListener("click", () => {
+  $("#output").value = buildOutput();
+  $("#modalBg").classList.add("show");
+});
+$("#optUrl").addEventListener("change", () => { $("#output").value = buildOutput(); });
+$("#optCat").addEventListener("change", () => { $("#output").value = buildOutput(); });
+$("#btnCloseModal").addEventListener("click", () => $("#modalBg").classList.remove("show"));
+$("#modalBg").addEventListener("click", e => {
+  if (e.target === $("#modalBg")) $("#modalBg").classList.remove("show");
+});
+$("#btnCopy").addEventListener("click", async () => {
+  const btn = $("#btnCopy");
+  try {
+    await navigator.clipboard.writeText($("#output").value);
+  } catch {
+    $("#output").select();
+    document.execCommand("copy");
+  }
+  btn.textContent = "✅ コピーしました";
+  btn.classList.add("done");
+  setTimeout(() => { btn.textContent = "📋 コピーする"; btn.classList.remove("done"); }, 2000);
+});
+
+/* 挨拶・締めの保存 */
+for (const [id, def, key] of [["greetText", DEFAULT_GREET, "nmb_greet"], ["closeText", DEFAULT_CLOSE, "nmb_close"]]) {
+  const el = document.getElementById(id);
+  el.value = localStorage.getItem(key) ?? def;
+  el.addEventListener("input", () => localStorage.setItem(key, el.value));
+}
+
+/* ================= 起動 ================= */
+$("#todayLabel").textContent = todayLabel();
+loadAll();
+</script>
+</body>
+</html>
