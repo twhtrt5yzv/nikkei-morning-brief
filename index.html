@@ -292,6 +292,41 @@
     resize: vertical;
   }
   .note { font-size: 11px; color: var(--sub); margin-top: 6px; }
+
+  /* AIダイジェスト */
+  .digest { padding: 14px; font-size: 13.5px; }
+  .digest h3 {
+    color: var(--accent);
+    font-size: 14.5px;
+    margin: 16px 0 6px;
+    border-left: 3px solid var(--accent);
+    padding-left: 8px;
+  }
+  .digest section:first-of-type h3 { margin-top: 4px; }
+  .digest h4 { font-size: 13px; margin: 10px 0 4px; color: var(--ink); }
+  .digest p { margin: 6px 0; }
+  .digest ul { padding-left: 20px; margin: 6px 0; }
+  .digest li { margin: 3px 0; }
+  .digest table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 8px 0;
+    font-size: 12.5px;
+  }
+  .digest th, .digest td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+  .digest th { background: var(--accent-light); color: var(--accent); white-space: nowrap; }
+  .digest .digest-date { color: var(--sub); font-size: 11.5px; margin: 0 0 4px; }
+  .digest-copy {
+    padding: 6px 14px;
+    border: none;
+    border-radius: 10px;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .digest-copy.done { background: var(--ok); color: #fff; }
 </style>
 </head>
 <body>
@@ -321,6 +356,14 @@
     </label>
     <div class="note">内容は端末に保存され、次回以降も引き継がれます。</div>
   </details>
+
+  <section class="cat" id="digestSec" style="display:none">
+    <div class="cat-head">
+      <h2>🧠 本日のダイジェスト＆営業トーク <span class="count" id="digestTime"></span></h2>
+      <button class="digest-copy" id="btnDigestCopy">📋 コピー</button>
+    </div>
+    <div class="card"><div class="digest" id="digestBody"></div></div>
+  </section>
 
   <div id="sections"></div>
 
@@ -472,6 +515,38 @@ async function loadAll() {
   }
 }
 
+/* ================= AIダイジェスト ================= */
+async function loadDigest() {
+  try {
+    const res = await fetch("digest.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) return;
+    const d = await res.json();
+    if (!d.html) return;
+    $("#digestBody").innerHTML = d.html;
+    const g = new Date(d.generated);
+    $("#digestTime").textContent = isNaN(g) ? "" :
+      `${g.getMonth()+1}/${g.getDate()} ${String(g.getHours()).padStart(2,"0")}:${String(g.getMinutes()).padStart(2,"0")} 生成`;
+    $("#digestSec").style.display = "";
+  } catch { /* digest.jsonが無い間は非表示のまま */ }
+}
+$("#btnDigestCopy").addEventListener("click", async () => {
+  const btn = $("#btnDigestCopy");
+  const text = $("#digestBody").innerText.trim();
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand("copy");
+    ta.remove();
+  }
+  btn.textContent = "✅ コピー済";
+  btn.classList.add("done");
+  setTimeout(() => { btn.textContent = "📋 コピー"; btn.classList.remove("done"); }, 2000);
+});
+
 /* ================= キーワード絞り込み ================= */
 function searchKeyword(kw) {
   const id = "kw-" + Date.now();
@@ -539,7 +614,7 @@ function pushArticle(lines, a, withUrl) {
 }
 
 /* ================= イベント ================= */
-$("#btnReload").addEventListener("click", loadAll);
+$("#btnReload").addEventListener("click", () => { loadAll(); loadDigest(); });
 $("#btnClear").addEventListener("click", () => {
   for (const a of articles.values()) { a.checked = false; a.comment = ""; }
   document.querySelectorAll(".article").forEach(el => {
@@ -589,6 +664,7 @@ for (const [id, def, key] of [["greetText", DEFAULT_GREET, "nmb_greet"], ["close
 /* ================= 起動 ================= */
 $("#todayLabel").textContent = todayLabel();
 loadAll();
+loadDigest();
 </script>
 </body>
 </html>
