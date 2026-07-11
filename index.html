@@ -313,6 +313,16 @@
     margin: 8px 0;
     font-size: 12.5px;
   }
+  /* スマホ幅では指標テーブルを横スクロール可能に */
+  @media (max-width: 600px) {
+    .digest table {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .digest td { min-width: 130px; }
+    .digest td:first-child, .digest th:first-child { min-width: 70px; }
+  }
   .digest th, .digest td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
   .digest th { background: var(--accent-light); color: var(--accent); white-space: nowrap; }
   .digest .digest-date { color: var(--sub); font-size: 11.5px; margin: 0 0 4px; }
