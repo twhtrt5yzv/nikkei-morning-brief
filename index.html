@@ -337,6 +337,28 @@
     cursor: pointer;
   }
   .digest-copy.done { background: var(--ok); color: #fff; }
+
+  /* 提案資料リンク */
+  .shiryo-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px;
+    border-bottom: 1px solid var(--line);
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .shiryo-link:last-child { border-bottom: none; }
+  .shiryo-link:active { background: var(--accent-light); }
+  .shiryo-icon { font-size: 22px; flex-shrink: 0; }
+  .shiryo-body { flex: 1; font-size: 14px; line-height: 1.45; }
+  .shiryo-body small { color: var(--sub); font-size: 11.5px; }
+  .shiryo-open {
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 700;
+    white-space: nowrap;
+  }
 </style>
 </head>
 <body>
@@ -373,6 +395,26 @@
       <button class="digest-copy" id="btnDigestCopy">📋 コピー</button>
     </div>
     <div class="card"><div class="digest" id="digestBody"></div></div>
+  </section>
+
+  <section class="cat" id="shiryoSec" style="display:none">
+    <div class="cat-head">
+      <h2>📄 本日の提案資料（1枚もの） <span class="count" id="shiryoTime"></span></h2>
+    </div>
+    <div class="card">
+      <a class="shiryo-link" href="shiryo.html?doc=presentation" target="_blank" rel="noopener">
+        <span class="shiryo-icon">🎯</span>
+        <span class="shiryo-body"><strong>提案プレゼン</strong><br>
+        <small>けさのニュース → 課題 → 円建て平準払い終身（主軸）×米ドル建て（補完）のご提案</small></span>
+        <span class="shiryo-open">開く ›</span>
+      </a>
+      <a class="shiryo-link" href="shiryo.html?doc=mechanism" target="_blank" rel="noopener">
+        <span class="shiryo-icon">⚙️</span>
+        <span class="shiryo-body"><strong>メカニズム図解</strong><br>
+        <small>けさの経済の因果関係と、保険がどこで守りになるかを1枚で図解</small></span>
+        <span class="shiryo-open">開く ›</span>
+      </a>
+    </div>
   </section>
 
   <div id="sections"></div>
@@ -539,6 +581,18 @@ async function loadDigest() {
     $("#digestSec").style.display = "";
   } catch { /* digest.jsonが無い間は非表示のまま */ }
 }
+async function loadShiryo() {
+  try {
+    const res = await fetch("shiryo.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) return;
+    const d = await res.json();
+    if (!d.presentation && !d.mechanism) return;
+    const g = new Date(d.generated);
+    $("#shiryoTime").textContent = isNaN(g) ? "" :
+      `${g.getMonth()+1}/${g.getDate()} ${String(g.getHours()).padStart(2,"0")}:${String(g.getMinutes()).padStart(2,"0")} 生成`;
+    $("#shiryoSec").style.display = "";
+  } catch { /* shiryo.jsonが無い間は非表示のまま */ }
+}
 $("#btnDigestCopy").addEventListener("click", async () => {
   const btn = $("#btnDigestCopy");
   const text = $("#digestBody").innerText.trim();
@@ -624,7 +678,7 @@ function pushArticle(lines, a, withUrl) {
 }
 
 /* ================= イベント ================= */
-$("#btnReload").addEventListener("click", () => { loadAll(); loadDigest(); });
+$("#btnReload").addEventListener("click", () => { loadAll(); loadDigest(); loadShiryo(); });
 $("#btnClear").addEventListener("click", () => {
   for (const a of articles.values()) { a.checked = false; a.comment = ""; }
   document.querySelectorAll(".article").forEach(el => {
@@ -675,6 +729,7 @@ for (const [id, def, key] of [["greetText", DEFAULT_GREET, "nmb_greet"], ["close
 $("#todayLabel").textContent = todayLabel();
 loadAll();
 loadDigest();
+loadShiryo();
 </script>
 </body>
 </html>

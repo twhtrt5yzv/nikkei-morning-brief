@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>本日の提案資料 | 日経モーニングブリーフ</title>
+<style>
+  :root {
+    --ink: #1a2433;
+    --sub: #6b7686;
+    --accent: #0b3d91;
+    --accent-light: #e8eef9;
+    --gold: #b8860b;
+    --gold-light: #fdf6e3;
+    --line: #dfe5ec;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+    background: #eef1f5;
+    color: var(--ink);
+    line-height: 1.55;
+    padding: 12px;
+  }
+  .topbar {
+    max-width: 860px;
+    margin: 0 auto 12px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .topbar button {
+    padding: 9px 16px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .topbar button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .topbar .spacer { flex: 1; }
+  .status { max-width: 860px; margin: 30px auto; text-align: center; color: var(--sub); font-size: 14px; }
+
+  /* ===== 1枚もの本体 ===== */
+  .sheet {
+    max-width: 860px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 14px;
+    padding: 34px 38px;
+    box-shadow: 0 3px 16px rgba(15,30,60,.10);
+  }
+  .sheet-date { color: var(--sub); font-size: 12px; text-align: right; }
+  .sheet-title {
+    font-size: 25px;
+    color: var(--accent);
+    line-height: 1.35;
+    margin: 4px 0 16px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--accent);
+  }
+  .sheet h3 {
+    font-size: 15px;
+    color: var(--accent);
+    margin: 20px 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .sheet h3::before { content: "■"; font-size: 11px; }
+  .hook {
+    background: var(--accent-light);
+    border-left: 5px solid var(--accent);
+    border-radius: 8px;
+    padding: 13px 16px;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .problem-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .box {
+    border: 1.5px solid var(--line);
+    border-radius: 10px;
+    padding: 12px;
+    font-size: 12.5px;
+    background: #fafbfd;
+  }
+  .box-title {
+    display: block;
+    font-weight: 700;
+    font-size: 13.5px;
+    color: #a33;
+    margin-bottom: 4px;
+  }
+  .plan-main, .plan-sub {
+    border-radius: 12px;
+    padding: 15px 18px;
+    margin: 10px 0;
+    position: relative;
+  }
+  .plan-main {
+    background: var(--accent-light);
+    border: 2.5px solid var(--accent);
+    font-size: 15px;
+  }
+  .plan-sub {
+    background: var(--gold-light);
+    border: 1.5px solid var(--gold);
+    font-size: 13.5px;
+    margin-left: 34px;
+  }
+  .plan-label {
+    display: inline-block;
+    font-size: 11.5px;
+    font-weight: 800;
+    color: #fff;
+    border-radius: 6px;
+    padding: 2px 10px;
+    margin-right: 9px;
+    vertical-align: 2px;
+  }
+  .plan-main .plan-label { background: var(--accent); }
+  .plan-sub .plan-label { background: var(--gold); }
+  .plan-main p, .plan-sub p { margin-top: 6px; font-weight: 400; }
+  .points {
+    margin-top: 14px;
+    border: 1.5px dashed var(--accent);
+    border-radius: 10px;
+    padding: 13px 16px;
+    font-size: 13px;
+  }
+  .points ul { padding-left: 20px; margin-top: 6px; }
+  .points li { margin: 4px 0; }
+  .cta {
+    margin-top: 16px;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 10px;
+    padding: 13px 16px;
+    font-size: 14.5px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .flow { margin: 6px 0; }
+  .flow-step {
+    border: 1.5px solid var(--line);
+    border-radius: 10px;
+    padding: 11px 15px;
+    font-size: 13.5px;
+    background: #fafbfd;
+  }
+  .flow-step.highlight {
+    background: #fdecec;
+    border-color: #c0392b;
+    font-weight: 600;
+  }
+  .flow-arrow {
+    text-align: center;
+    color: var(--accent);
+    font-size: 15px;
+    line-height: 1.4;
+  }
+  .note { margin-top: 14px; color: var(--sub); font-size: 12.5px; text-align: center; }
+
+  @media (max-width: 620px) {
+    .sheet { padding: 22px 18px; }
+    .sheet-title { font-size: 20px; }
+    .problem-grid { grid-template-columns: 1fr; }
+    .plan-sub { margin-left: 16px; }
+  }
+  @media print {
+    body { background: #fff; padding: 0; }
+    .topbar { display: none; }
+    .sheet { box-shadow: none; border-radius: 0; max-width: none; }
+  }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <button id="btnPres">🎯 提案プレゼン</button>
+  <button id="btnMech">⚙️ メカニズム図解</button>
+  <span class="spacer"></span>
+  <button onclick="window.print()">🖨 印刷 / PDF</button>
+</div>
+<div id="content" class="status">読み込み中…</div>
+
+<script>
+"use strict";
+let data = null;
+
+function show(doc) {
+  const el = document.getElementById("content");
+  const html = doc === "mechanism" ? data.mechanism : data.presentation;
+  if (!html) {
+    el.className = "status";
+    el.textContent = "この資料はまだ生成されていません";
+    return;
+  }
+  el.className = "";
+  el.innerHTML = html;
+  document.getElementById("btnPres").classList.toggle("active", doc !== "mechanism");
+  document.getElementById("btnMech").classList.toggle("active", doc === "mechanism");
+  history.replaceState(null, "", "?doc=" + (doc === "mechanism" ? "mechanism" : "presentation"));
+}
+
+document.getElementById("btnPres").addEventListener("click", () => show("presentation"));
+document.getElementById("btnMech").addEventListener("click", () => show("mechanism"));
+
+(async () => {
+  try {
+    const res = await fetch("shiryo.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    data = await res.json();
+    const doc = new URLSearchParams(location.search).get("doc") || "presentation";
+    show(doc);
+  } catch (e) {
+    document.getElementById("content").textContent =
+      "資料を読み込めませんでした（" + e.message + "）。毎朝の自動生成後に利用できます。";
+  }
+})();
+</script>
+</body>
+</html>
