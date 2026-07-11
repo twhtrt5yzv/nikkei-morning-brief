@@ -19,7 +19,7 @@ SOURCES = {
 }
 
 
-def clean(body: str) -> str | None:
+def clean(body):
     body = body.strip()
     body = re.sub(r"^```[a-z]*\s*", "", body)
     body = re.sub(r"\s*```$", "", body)
