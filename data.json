@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T05:15:10+09:00",
+ "updated": "2026-07-23T07:40:09+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,16 +7,46 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "M&A最高潮、外銀が東京の司令塔一新",
+     "source": "NIKKEI Financial",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0hMTW5vNzdhdlh4cVd5b3hmWllEYXVxTEV1MW0yNXB0aUg0eXBCQ2pvLVBlNXlaTFFjSk1lb2E0UW5OSWNEYXY1VEVMdjRFM2R6VjBqMkZXcWFmbkJ2U1RHbVhZemNqalAyc1RWMjFZZ3lJU2dIVWNybkpaOGR1dDNteHBWU1BXMGhXUndzdzdHUTht?oc=5",
+     "date": "2026-07-23T05:00:00+09:00"
+    },
+    {
+     "title": "米国株、ダウ小反落し6ドル安 原油高や金利上昇で 好収益は支え",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91ZWVEdnkyRU5iZzItcHVvY29rajVSRWJuR1VBbDV5ckEyV0xRUm9zcmowWnEtcGNaaGJva0lUR3VENUFFTVdEZ1ItRGFKZzNVWWpJVXBobzJGMldIYzJmWnZkZ0Z0eW02N0pzTg?oc=5",
+     "date": "2026-07-23T05:37:45+09:00"
+    },
+    {
      "title": "米投資家、円買い動けず 「割安」一致でも… 「財政政策の信頼低い」「直近で介入なく驚き」",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByZEpnRlhMOTJsZXNzRmljZXl4VTBvbUFHUGJKdUlsNHlvVGdZNG5tVGRsWW1JV0puZkhpQ3VER3dnRWJJaUpvTDdqeDZkY0RPY3FXVjFLamZpY1MxMUlibV9McFQ4eEpNU1RLNA?oc=5",
      "date": "2026-07-23T02:00:00+09:00"
     },
     {
-     "title": "M&A最高潮、外銀が東京の司令塔一新",
-     "source": "NIKKEI Financial",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3dxZnhPNGQxb0pmXzRGUUFibmN5aE5Pa0pwUnFHbHBjU2lCS2VoQWJ3bFZ1T001UnViU0RIMmhyaTBjVVZVWDExMlAwSk9GM1daa1ZPUGZxbFc5SXIzNE1ZUDJPbHV2eldaUVJ5enBuS3Y2aFNWaGZMM0lYcTlrZUxpOENvdVlseGJYX2M2MFdfRDdtaWpPMg?oc=5",
-     "date": "2026-07-23T05:00:00+09:00"
+     "title": "ロンドン外為22日 ユーロ、対ドルで横ばい圏 円相場は163円台前半",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vVGN6dEdJVU15Nms0SHcyTkhYdXZlRy1xbjFZUkQ2bnRLRjBFNDJVWDljdkdOZUhwY3VzanZKLTc2ZUM1VVphbUFTVTBPQ0ZHZGQ1WllrRTZRLXAwT1ZLdlBXWjdEUUlWRnFsSg?oc=5",
+     "date": "2026-07-23T00:55:16+09:00"
+    },
+    {
+     "title": "ディオール、エルメス…バカンスを彩るワードローブ",
+     "source": "THE NIKKEI MAGAZINE",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1MlFIMFYtOUlZTlJmdHB0WFRSVnh5MzhWNkQtcVc3RmlOZjl3S0F6N2hrclZXMHZXSHdqaFF6NFY2dUhIMl8waDRtallHRERxaTFKckYtN0p5MW5NZWF2cWdORlFZODVOOGNCbEgteS1JQQ?oc=5",
+     "date": "2026-07-23T05:06:36+09:00"
+    },
+    {
+     "title": "屋敷伸之九段対丸山忠久九段（1）本戦1回戦第1局",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZ1IyaTFDSU1XRW9YRVU2ZmpnOHZMYktXUDNGZlI2cElxV1BZQ3k1dG8xUm9EbHJwdzlzcjhITXdoSGpjeWtwOXFneHlkaVBCeGVtRFRfYWEwTWZ2NUZPeHBfRURGODdqb3hkVw?oc=5",
+     "date": "2026-07-23T02:00:00+09:00"
+    },
+    {
+     "title": "中国ムーンショットAI、評価額8兆円で資金調達 「Kimi」米国勢に肉薄",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDJwWVFGVTNTbDRVUVZ3WllYaVAtQkl3bUlwVGowZHdWbDVobzgybVJ0UGxEbW52cHUxUjRGd3VPaFNTTXR1TzNIR1d1RjN3bjFYUVhISEVELUs3OEwzQ0hlMmI4QzhJY1NhVHFBbmEzZnBQa3NmemwxUUx4cjR5bkt3b2dVQjVUNzMwTkNEVQ?oc=5",
+     "date": "2026-07-23T02:00:00+09:00"
     },
     {
      "title": "編集者の視点 ｢投資家、気候ブラックスワンリスク備え｣",
@@ -35,36 +65,6 @@
      "source": "NIKKEI Financial",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEJVRDRyNTJJN3A2S3ZJWXVyRWhncU1PQ05qc1VTdjM4NExpekQ3OXVOMjdXLS05b21DWndLR1R3ZGpFUTd5VERINEx5V1lwV2d2Rk11Ry1CQU5keF9GeUt4UFBDcEt5bkZqcUtVY25Fek9WMlVZb1hiTjFrajNyQ1F4TEY4Sm4yS2M4ck5lRThTWFEtVFhPSQ?oc=5",
      "date": "2026-07-23T05:00:00+09:00"
-    },
-    {
-     "title": "AIはズルをする 「OpenAI、開発中のAIが他社にサイバー攻撃」など3本をお届けします",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqYzdpTVZkbU9CY1JvMG1IVUt5bU1tcmVNNDhHb1BvaTE2QTZGQVBNbEV3WGdMeUdnZTlGNU5iYW85akY2cEdzUzc3RVJQMkxrRlBqM1hYVlctRkxDcWhmY004ZUpVLVAzRTJtN0dzQnJmdDVCT3Z2cXYxdG5HQQ?oc=5",
-     "date": "2026-07-23T05:00:02+09:00"
-    },
-    {
-     "title": "国会の会期延長とは 重要法案などの審議を続けるため、国会の会期を延ばすこと",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRU8tX2JSNlBQR0I2dU96Y3ZsRGFDc2dlendzSWN5VVl6WWhsRnZyaGRSc21qbklfaksyZXlJcG55SlJodnhUUHpSZ0RuVzdWMGNZQzZQNldoanBwOU44ZzZEOXR1M29WcjlpZVNKeThBOW5iRXJwY3Utc0REUQ?oc=5",
-     "date": "2026-07-23T05:00:01+09:00"
-    },
-    {
-     "title": "ネタニヤフ氏に挑むイスラエル軍の元参謀総長 長期政権は終わるのか",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qOHZRalY3WE1LT1A1akJidnJkRE84dFlsNnlyQWpKdGN3U1dPbWF0R1VkY1VpZEhNTExkMXJiZFBwZzFsMXppS2lIa0ZFQmoyU1VsZHc5VnBkR3RPaUtRQzNjYjU3WFVDN0dPb3F3R3lfd3NZOHpF?oc=5",
-     "date": "2026-07-23T00:00:00+09:00"
-    },
-    {
-     "title": "水田クレジット創出作業を省力化 新興ファーモ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wTEw2aTNMMmpDWEQtejVQYlJZNkZBNzd3VDBfX0hmS3B2b01oZlpiTUh5bXBtYkNMbFh2NkNRMlZIYjlBaVFOSkFEaVRGS0NnWHJaYlAyNTNsZy1KaGprdTVuRjV2VzhIanhuUXdHemdfZzJaSTJF?oc=5",
-     "date": "2026-07-23T05:00:00+09:00"
-    },
-    {
-     "title": "塩野義製薬、抗菌薬の水処理で国際認証 自然環境を保全",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tY1BjaWN4XzQ3alhXbnJWUG82ckRJSTkyb0JBYjk2V1gxQ3ByMkt2UWVaeTBidU5FLWdKUmN3SjlHbk40QjF6NnJVUVNONy16NFVTTXVUY1FWR2l4cmF3WGFXaEVIUVJrX295ZFVWeThTdHR0UklR?oc=5",
-     "date": "2026-07-23T05:00:00+09:00"
     }
    ]
   },
@@ -74,16 +74,28 @@
    "emoji": "🗞",
    "items": [
     {
+     "title": "スシローが20〜30円値上げ、定番商品の1割で まぐろ赤身150円から",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jUWRXM1pERjl6emRjTGZ4cW1CYUlucHRRU3ZBbnlEWUlfT0t4WjJieTFQNExZcmxuOVc4eFF1UFNJSDFZMUNOUEhqUzFpeThXeVgzMGpXZl84MUNFN05ndHpzWFh3QndhbFgwNw?oc=5",
+     "date": "2026-07-22T15:52:14+09:00"
+    },
+    {
+     "title": "スペースXとKimiにみる成長の条件 競争なき日本の戦略不全",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoTV8wbmF4TjRYQm0zS0pfY1UwUE92Mkd4c1hWU1VGNFNjSVlMaE1xRGJELW0zV1FQNWwyaDB1VzRqMXA4OW5UVlI1N0VfUWdMWk5Nak1LOFEyTVRvejNOTXJUTVFpWGluWlJKSQ?oc=5",
+     "date": "2026-07-22T10:00:00+09:00"
+    },
+    {
      "title": "日英伊の次世代戦闘機、300機規模 無人機と連携でデータ時代に先手",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RaG5HOFo5UU90ekoxX1lvRW83M0N0VHAxWE5DRW5uTm5MVWpQcHY2dEF1bDBQRjIyX2NJWFZ1SHNyY3V5NWRWeTc3aVlDMHg4TndFeDdOTzNlM0d5X21LMnEzVmF3eE9JQ25MZw?oc=5",
      "date": "2026-07-22T11:27:15+09:00"
     },
     {
-     "title": "ユニクロ、日傘やサングラスの自販機 遊園地に設置",
+     "title": "海洋ドローンの民間需要、政府が創出へ 離島監視や資源調査に活用",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56UDZRRFE1TWhNUlZkcnNBX1BXYzFuckVhOHNQTGRCUDNScDBRRGdoR0poX2pmRDRnSy1KdUtDWC1VeUNKT0t5VVBkUkxRZGtlM0dMb1gwZExpYlZ6UGhSanMwc3BSUFI2cFFlWQ?oc=5",
-     "date": "2026-07-22T17:11:37+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5",
+     "date": "2026-07-22T22:00:00+09:00"
     },
     {
      "title": "日経平均株価終値116円安 急失速、半導体株買いの勢い続かず",
@@ -108,18 +120,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96b1dlMXA4bW1zT18yQTRtWUZSUVNvRFBKTktMcGhuRmZwRGR5NWIxOE5zV0NFVHgweHV2Y0l5WTU4bXVuc0hiTVRKZEl0TXRONWhhOUxiM3QtTzV6VkVkZWh5cEMtZ0t6c3lXcg?oc=5",
      "date": "2026-07-22T19:10:45+09:00"
-    },
-    {
-     "title": "ストーカー加害者にGPS装着案 被害者に接近通知、政府が法整備へ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83azMwMkp5aDk2bHQzT3lDTEtZUWpERHhIME9wR1lINTM3bUZsWGEyTHFzVEJBRE5iQ3hiSFc0eFk2R20ybWMtMDNiSWF6Ui1PY2hGd25CR1JjWWs3c0pQcUsxaGxoR1JJUi05MQ?oc=5",
-     "date": "2026-07-22T17:25:00+09:00"
-    },
-    {
-     "title": "イオン、個人向け社債700億円を発行 機関投資家向けも準備",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTUUFpd3Z6ZWdBYU5xN1pOakl4SHY3YXkxS01PVWMybkVyZzNzbHdqZUpQdk5MR3NQZ2l1LVpHdjNCeU5udjBVQXpkamhsb2VsekpjcDZranVEM2R5ZzBiUlE3aFpFRUhEN0Jmcw?oc=5",
-     "date": "2026-07-22T18:19:06+09:00"
     }
    ]
   },
@@ -133,12 +133,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VbE9Lak9LSGsyM29fRTlacWNYcFRER0lCbTFTNTZuTTZ2RFVDdFh3RnZXcGdVdXFSVjNsczhjeHNZWmRfdjM2MnNpNVVPTXo2YXFqMV9YaWRMMkpEV1N4NUJseEQyMWdaSEVSYw?oc=5",
      "date": "2026-07-22T15:54:21+09:00"
-    },
-    {
-     "title": "日経平均大引け 反落 116円安の6万6115円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6R0VCcENCdmJtMXlMdmxuRVE4OFZ1WGczWElTSFZUeThkRHRWVVFrV0J2NUM4ZnJvWXNNcVpldDFIckpmMGhwSkFrSkowLS1icGpSU0hiRkdkalE0TlZMdndnZnVsZlU4TFhtRw?oc=5",
-     "date": "2026-07-22T15:36:16+09:00"
     },
     {
      "title": "東証14時 日経平均は一段と上げ縮小 ファストリが下押し",
@@ -165,16 +159,22 @@
      "date": "2026-07-22T10:10:53+09:00"
     },
     {
+     "title": "日経平均大引け 反落 116円安の6万6115円",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6R0VCcENCdmJtMXlMdmxuRVE4OFZ1WGczWElTSFZUeThkRHRWVVFrV0J2NUM4ZnJvWXNNcVpldDFIckpmMGhwSkFrSkowLS1icGpSU0hiRkdkalE0TlZMdndnZnVsZlU4TFhtRw?oc=5",
+     "date": "2026-07-22T15:36:16+09:00"
+    },
+    {
+     "title": "アーチオン株の売り出し、1株260円に 最大で2300億円規模",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRTF4MkpzNVdDRXBOZmpIeGNGRHloWi1ZUGI0Sy1iQlYtcmFtd3BTejZlYUVjeTN0WWNqbndPWTZ5NG90QW80QjFzNWtOV3lMS29pVUdMWVZENFdGMFYyVXhUTlZvWEVwU1FHVg?oc=5",
+     "date": "2026-07-22T18:47:18+09:00"
+    },
+    {
      "title": "NYダウ反発385ドル高 半導体関連株に買い、好決算も材料視",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BS1A5YWNDTTZ6Q2F4N0YxUG9ZMmRzVlpiUnpfMUJxMC1pWUwxdHRYYkRDTmE4MkFGZmo1dG5hbF8zS1BuOEF0eHhEamppLUtLV1BEQXBjTGFiSS16M3ptcVJkNHpJcklkQlRzLQ?oc=5",
      "date": "2026-07-22T05:46:35+09:00"
-    },
-    {
-     "title": "キオクシアHD株価が午後一段高 韓国株高が波及、強制買い戻しも",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83MW5VdzYxS3Vod1h1Q1hJUDMtWGw5Nml2eGtuQk5yVzdqc0hRSktoSXRRRVpUVTVBdnlSWUJscHZ6akZLaTJHZjdvUk1pNFpyWDZiNDBXdkdJaHlTcjh3dzUzSzFRRVl1My11cg?oc=5",
-     "date": "2026-07-21T15:12:28+09:00"
     }
    ]
   },
@@ -257,6 +257,12 @@
      "date": "2026-07-23T04:30:00+09:00"
     },
     {
+     "title": "NYダウほぼ横ばい6ドル安 原油高や金利の上昇が重荷",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IOUNXcnBSOGt3X2g4bHlTMmpzczM2cVlHMnFtenBTWUJNQ3dCeVhhampOUTV2bmc2QkVfd3Nyb3QxQ1hibl9yaXFOUlZEZ0VHUEVkVW93QlVzTk9LR3VKQ1MtREx0c0JEd0c1Sw?oc=5",
+     "date": "2026-07-23T06:02:40+09:00"
+    },
+    {
      "title": "欧州国債概況22日 独10年債利回り上昇、独2年金利は一時2年ぶり高水準",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iZFZ3SGFLRzJKaTk5V0lVUGNHZ3B0V0FzTWtqanRRMU00NklfVG9BeXBiU1RjRnUyMUNlRUp1bTlqUXFzbTVvUDQ5UVVxTXVrV3VCTVJXSE5RQzJiRDlfcDlXaFZXUVlXUktjeg?oc=5",
@@ -279,12 +285,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95dS1jRkhYREhfRVNPTGM1VDZOYmR2RXpTMDQxOGE0bWRDYXpQTUZsZ2J1cFpldDVCVWhBQkdhQkRJZFVDb2NPZ2wwcDlLODlHUUQ4dkJIc09LaE1qZ1BaQzhKWWIwcU42ZXg2Mw?oc=5",
      "date": "2026-07-22T15:05:43+09:00"
-    },
-    {
-     "title": "債券12時50分 長期金利、上げ幅拡大 2.745% 40年入札は「強め」も",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGSFNoNjNmcDhza2V6T3pIZHNPRHZ6SDVseGRua0FmZEFrcmhJVF9vdi1zOVhMU1Bob2JIanBJQkloaVJiR0ZxUTNmdmFScTVDMlZoYUJobzF1YXRHdFhsM2hRYTBEMWMyQTA2bw?oc=5",
-     "date": "2026-07-22T13:16:52+09:00"
     }
    ]
   },
@@ -294,28 +294,22 @@
    "emoji": "💵",
    "items": [
     {
-     "title": "ｉシェアーズ 米国債２０年超 プレミアムインカム ＥＴＦ[453A]：ＥＴＦの収益分配のお知らせ 2026年7月21日(適時開示) ：日経会社情報DIGITAL",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU0JEc0JMRjdOY1Y5a1hmQkI0cDktNmF2Rk1TSVZ5WHdmSk5oaWM0UndNN1dRc2JSaXAwVVR6ZW9HVzlsRXZmMUEwQ09CdDRhOHVwVXg2ZTdiLWI2RHFsZzhmOEx3OWFoQ1dwcm5GbzJLc1UtVlBESXBrbjlDSzRqV05OVVE3QmVBU2pQNWtoSWxYeVZ3bVpYdWNKeU9lZHM5VGh2ZHctSUp4bzZXU29GUjNNMHRjT05rckpSRy16U081a0RtUkhScVVCd04?oc=5",
-     "date": "2026-07-21T14:40:00+09:00"
-    },
-    {
      "title": "グローバルＸ 超短期米国債 ＥＴＦ[133A]：ETFの収益分配金見込額のお知らせ 2026年7月22日(適時開示) ：日経会社情報DIGITAL",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZjRpNWwwYTNkV0NyYjFsaGplOHYySngxdEV6Y093TkY3b0xCTXRNTGRTTmNqVkptSm9mS2dVVW9kcEttbUFURDRvYlkyQ3BnMWE4WEVkVEZGSER5a1FIal9Rb0ZrSWZPNFE?oc=5",
      "date": "2026-07-22T08:50:00+09:00"
     },
     {
+     "title": "ｉシェアーズ 米国債２０年超 プレミアムインカム ＥＴＦ[453A]：ＥＴＦの収益分配のお知らせ 2026年7月21日(適時開示) ：日経会社情報DIGITAL",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU0JEc0JMRjdOY1Y5a1hmQkI0cDktNmF2Rk1TSVZ5WHdmSk5oaWM0UndNN1dRc2JSaXAwVVR6ZW9HVzlsRXZmMUEwQ09CdDRhOHVwVXg2ZTdiLWI2RHFsZzhmOEx3OWFoQ1dwcm5GbzJLc1UtVlBESXBrbjlDSzRqV05OVVE3QmVBU2pQNWtoSWxYeVZ3bVpYdWNKeU9lZHM5VGh2ZHctSUp4bzZXU29GUjNNMHRjT05rckpSRy16U081a0RtUkhScVVCd04?oc=5",
+     "date": "2026-07-21T14:40:00+09:00"
+    },
+    {
      "title": "債券15時 長期金利、2.720%に上昇 原油高や米金利の上昇で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pZDFpTzZDOTZmQnNTOHIwWXc4M0M2NUhEMTJqM080S0dlNEZTNllwcEVCcWpKU0tPUXdfNDBybzRGOVJnZi04ZW9nbDNsVjBfbzI1UXd6emtRTExqZWtsWDYzOVF4R2RpUXpldg?oc=5",
      "date": "2026-07-21T15:24:40+09:00"
-    },
-    {
-     "title": "ドル円相場(USDJPY)リアルタイムチャート・為替レート推移",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XalVDbk03RmRjQ3NKbTE1bFphUS1JOTRlN0FJR2RNdkNsSmtQU2ctYlBjMDZpM3lOZHhHdFF0VGo3cG12cFo1bGE1UHl4YlB6VldONy1wWUtGdUE?oc=5",
-     "date": "2026-05-19T16:16:16+09:00"
     },
     {
      "title": "エアトリ[6191]：当社の子会社である株式会社まぐまぐが福岡証券取引所QBoard市場へ重複上場 2026年7月21日(適時開示) ：日経会社情報DIGITAL",
@@ -340,6 +334,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1icWhwUnhid1ZZREJzMFpUOW90QnAzd21fV1pTbWdsaU9oTVJIOEFqZ1JjUEQxN3Q2R1dZaTRkZ3VHSXIyVWJsTjBaZ1hWM29yNXF1aVR4eGtHejNRSXlObFBGdkdLWG9yVm83RQ?oc=5",
      "date": "2026-07-21T14:49:17+09:00"
+    },
+    {
+     "title": "NY債券、長期債反落 10年債利回り4.59% 原油高と英債安で",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PY202WFZ5S2FEZ2ZjZ3BVeEtOcXJkWjg1M3JBOWZJTEh5Vkw0aVNQQ2RvNDNnaGI2Y2ktSEVPUy1EYWlWZFlhWENVWDgwNEFaWjh5TzZrOWtWOWo3Nm9JSEdXR21nUWdLNGNGbQ?oc=5",
+     "date": "2026-07-21T06:10:05+09:00"
     }
    ]
   },
