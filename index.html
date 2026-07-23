@@ -392,8 +392,12 @@
   <section class="cat" id="digestSec" style="display:none">
     <div class="cat-head">
       <h2>🧠 本日のダイジェスト＆営業トーク <span class="count" id="digestTime"></span></h2>
-      <button class="digest-copy" id="btnDigestCopy">📋 コピー</button>
+      <div style="display:flex;gap:6px">
+        <button class="digest-copy" id="btnSpeak">▶️ 読み上げ</button>
+        <button class="digest-copy" id="btnDigestCopy">📋 コピー</button>
+      </div>
     </div>
+    <audio id="briefAudio" controls preload="none" style="display:none;width:100%;margin-bottom:10px"></audio>
     <div class="card"><div class="digest" id="digestBody"></div></div>
   </section>
 
@@ -579,8 +583,32 @@ async function loadDigest() {
     $("#digestTime").textContent = isNaN(g) ? "" :
       `${g.getMonth()+1}/${g.getDate()} ${String(g.getHours()).padStart(2,"0")}:${String(g.getMinutes()).padStart(2,"0")} 生成`;
     $("#digestSec").style.display = "";
+    // 事前生成された音声ファイルがあればプレーヤーを表示（車のBluetooth・ロック中でも再生可）
+    try {
+      const head = await fetch("brief.m4a?t=" + Date.now(), { method: "HEAD", cache: "no-store" });
+      const audio = $("#briefAudio");
+      if (head.ok) { audio.src = "brief.m4a?t=" + Date.now(); audio.style.display = "block"; }
+      else { audio.style.display = "none"; }
+    } catch { $("#briefAudio").style.display = "none"; }
   } catch { /* digest.jsonが無い間は非表示のまま */ }
 }
+
+/* 端末内の音声合成で即時読み上げ（音声ファイルが無くても使える） */
+let speaking = false;
+function digestPlainText() {
+  return $("#digestBody").innerText.replace(/https?:\/\/\S+/g, "").replace(/[▼・]/g, "").trim();
+}
+$("#btnSpeak").addEventListener("click", () => {
+  const btn = $("#btnSpeak");
+  if (!("speechSynthesis" in window)) { alert("この端末は読み上げに対応していません"); return; }
+  if (speaking) { speechSynthesis.cancel(); return; }
+  const u = new SpeechSynthesisUtterance(digestPlainText());
+  u.lang = "ja-JP"; u.rate = 1.0;
+  u.onend = u.onerror = () => { speaking = false; btn.textContent = "▶️ 読み上げ"; };
+  speaking = true; btn.textContent = "⏹ 停止";
+  speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+});
 async function loadShiryo() {
   try {
     const res = await fetch("shiryo.json?t=" + Date.now(), { cache: "no-store" });
