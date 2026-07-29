@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T05:22:26+09:00",
+ "updated": "2026-07-30T07:42:34+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,7 +7,25 @@
    "emoji": "🌅",
    "items": [
     {
-     "title": "FRBが5会合連続で金利据え置き 中東情勢見極め、3人が利上げ主張",
+     "title": "NYダウ1153ドル安、関税ショック以来の下落 30年金利19年ぶり高さ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeDREYllndmhRa3ZwckplSmxQU0pEWlptekxTOEZJcTNpOEoyMzMta0hEY1NwVHhsMlJEMDl3TDNfWW9yUUJ5cFJNMUNvTDhsY2I3WU5IUWVrak5IZkJoTDZNXzlLSWhfcjZpRw?oc=5",
+     "date": "2026-07-30T05:47:34+09:00"
+    },
+    {
+     "title": "決算:メタの4〜6月純利益14％減、研究開発や訴訟費用増加 株価一時10％安",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sdDRjOVI1NzlxQTdMTXdQVVBIZ0hRM1EzT1JDYjZzNGw0OXMtTDBYaWsxRlBNODRRb0dIbGY3bUc0aWhLeUFQbmRwQV9CcW1zQVFKZVN3R1FacTV3VThrMFpqT1BWQkNtckdOeg?oc=5",
+     "date": "2026-07-30T05:46:16+09:00"
+    },
+    {
+     "title": "決算:Microsoft、4〜6月3割増益 AIクラウド4年ぶりの増収率",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZX0lvOWR1TUdkVGdDczNnQTlYNTNrdW1zV0JOTTlSWXVkWXltZGM2LTRadHAwTzBLLVpSV0V3cUo4Rm02WEZ4ZkNZWU5VeDE2b3VpaVp0Nk5INW5wV2ZWR2sxTGotVzgxOE93dg?oc=5",
+     "date": "2026-07-30T05:56:52+09:00"
+    },
+    {
+     "title": "FRBが金利据え置き、3人が利上げ主張し反対 議長「必要なら行動」",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpUVJhd1huZ1dMWmhHNUJvZDV4YTYwR2syc1k0NzhIQkNTRkJzZHpoSnFWaWs3Um9ldWQ0WldNUHYwLWxYT05jMm83NVdvWGpna200dC1wZVNHRmI4SERRYjBIaGIxdkFDdlhsYQ?oc=5",
      "date": "2026-07-30T03:03:22+09:00"
@@ -15,7 +33,7 @@
     {
      "title": "板硝子、延命から再生へ 米アポロに託す反転攻勢",
      "source": "NIKKEI Financial",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWlSWVpqdmtMcThSWjktaXF6S2pYbE1ERGpSVWJlelctRThLcTRUMVpHN19CTk5sUE5wdU1nZ3REZExRaXRBNVZ3Y3MyLVZucWZkQWtjT05WU3Z2SGt2RVhTQi1WVHB5LXU1eThjaWNFUWwxVHdqcGgweDhsZVVxZDNWSTNRbFEwaTRpVWw2WGFEdUxDV1UwMg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenNkUnVNNXY5TnFjLVJGS1RrNzFaTFk1dXR5b3dYdTVjdHp0U1ZsalFyRl9nRWFNSFdjY2R0cHAxUGNBQ0Nram1NNFdqZTdQd0M2TUlqR0tReTVWR0FKNTA2UzZFVVJnM3E2YWQ5Ul91c3BLWjJjaUFZRy02ZklLTEczMlBkOC1hR2pmeFFXWDJUWWp5?oc=5",
      "date": "2026-07-30T05:00:00+09:00"
     },
     {
@@ -31,39 +49,21 @@
      "date": "2026-07-30T00:00:00+09:00"
     },
     {
-     "title": "百田夏菜子 私の中で伝説になっている、ももクロの“変なライブ”は…",
-     "source": "日経クロストレンド",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yOUFvY1VZRmxGcmVuS0M4SktsNlc4S1VQdHBEZXpsMWF4VEZuN3RpR0NkVU9vZmw1S2RqYjJ2NngwMXNzV29mSFliNTJvZDdwa0ZXUmphdEFoSjZNdkdlNkZvM0p3Yy1fR084QUdWZkI2bmpGczBaUWMxNXk2cGM?oc=5",
-     "date": "2026-07-30T00:00:00+09:00"
+     "title": "米国株、ダウ反落し1153ドル安 米イラン衝突や金融政策の不透明感で SOXは5%安",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3pTcDRTUnRNVUtwVHE5T2hLNENxblRNdGk5LVRwd1RUdHZ3c1FaQk9teDJIV1NPNC1OdXZQaVlIV0I1Znd3blJyNlh3cUdyMGxtVjNGelh2WTB4SzFueHhnY1RiSmpVaEEtcA?oc=5",
+     "date": "2026-07-30T06:00:32+09:00"
     },
     {
-     "title": "「イオンモール爆発『防災拠点』の機能喪失」など3本をお届けします",
+     "title": "アイシン熊本被災でトヨタ・日産が生産停止 10年越し対策も及ばず",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3ZGJfbTlrUFpJYTdIbXNoVnVNNjRFZl9odkZLQXdoZ09wSkdzMUFLNVJxMkR4TXV5VG5MV0p5eTNnX2tqVVlycVJWRGhzbDVQdW9pRzc0c0lycTJzUjdIcUY2LUg1dTRudmM0dUlOVnNRU01kVjR2cTEtQTBkQQ?oc=5",
-     "date": "2026-07-30T05:00:02+09:00"
-    },
-    {
-     "title": "原油増産カナダ、世界最大級CCUS実施 政府支援手厚く",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXZRWWRxZzJkdkF4cElGV0p5Y1ZkZC1aUVlTR0t1dC1LcUtOeUNVX0FIM1Y5VGhnb3JXeV9ocGR3T0lDd3NBY2hfZlpOdXQwT29oZk8zT2h3cThaRVhYeEFpeFBGYktDSzBxUHRrOUJpMTJIel83YVBudkRjVXVFUUk2RldtbXJYbTJnOXNESTZ1ajY3aUFVajRUQmo?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWklFVUhlWEtMYTRoNURSNDkzdG9lYUhjQnVCV2g2VTNrZmlBMGNJZUw4Z24zUWtENzFTTWQ5UzRZNFZjMDBNc1I5Sm9wS05ralV3OVBTZXlyWkNiMGVBaFR0U2d6TTN5MWdleQ?oc=5",
      "date": "2026-07-30T05:00:00+09:00"
     },
     {
-     "title": "量子コンピューターとは 量子力学と呼ぶ物理学の法則を応用した次世代の高速計算機",
+     "title": "編集者の視点 ｢熱波は投資家の目を覚ますのか｣",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RdFAxSjNPSGZNTkcteHZfeFFmTzVZR1BOZE84emhqZnpIS2U2M3JHLVRYR080V2xJdU1UcHRNQjF4cF83VFVrc1JLcHdlRGJ2Ulk0UldRMHRHLUhpbU1TWWdveEJvWlR5S0V3cng0LVZiQWhVVEdhYUNHWFhudw?oc=5",
-     "date": "2026-07-30T05:00:01+09:00"
-    },
-    {
-     "title": "核融合スターライトエンジン、国内実証へ 17自治体関心",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjlNS2dFZWpjOEgyRlVLcDA2YkhDVUV1MGxsQklfbWN6Y1h0YkNFRk0yZU9EUmhpU1BQMHZWVEZjMmdwNmhVQndsZ3BqcVRXcTJUb2JUM1dUOUJBSGREZU5tTkRPejFIM2IyNGszWEIyRWJoa092dzFmRDdDUm9idlZITzgwV2s?oc=5",
-     "date": "2026-07-30T05:00:00+09:00"
-    },
-    {
-     "title": "編集者の視点「混合廃プラや外装カバーをリサイクル」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjgxdGFIbG1hZWptQ1dFa19kSzA0V3FwRldaSFA5VjM1SzBocm1Ta29HTWdWSHlCRXNSY0FrZ3psdEFSQVFLb25GcmxQbktPY0xSc0FKZjJTYkpVQVotbmZ1Z1RUQ0lwUEd0Wi1ORlJFcHFxRDJCbkFpMm5sQnYxVXN4LVlkUUh0Zi1tTHVteUgzQ0Z0M0pMemk0Mkt2UlF2dkdVbHZRZy1LUDgw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXctRUlnVUlZSW5FQjFHNGtOR25pTTZlRTh0TjF2X0hRVjMxZElGOW9vRjFqR0d4SENGYWtZT05NRGxCb3dIcmhaWURvV1FXUnBqOUpwemhCb3o3aGRPaXlFUnA5bFlwb0F1dmtDUUxTYk8zVmVCdEE0NU90Um1NdlhudHFrQnZ5Snd5MmlRQTh6bWNsTGdiUnJpbTU?oc=5",
      "date": "2026-07-30T05:00:00+09:00"
     }
    ]
@@ -86,16 +86,16 @@
      "date": "2026-07-29T08:06:27+09:00"
     },
     {
+     "title": "29日の高市首相の動静",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UUxOc3U3RVEwMEhvVFFQQks3dG9YVjBoYlU4YWZSMXRPXzA0Rm0wd1ZCb01fQlAwMlpRN0hqN01KSm5Kd3RrVGFVQjlaTXVlUWN2Vm9VY29BbXNNYUY0bm13d0xTdnl5eHpjSA?oc=5",
+     "date": "2026-07-29T22:04:50+09:00"
+    },
+    {
      "title": "ダイキン工業、熊本地震の避難所に移動式エアコン提供 熱中症対策で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zR0JpVnpTZzZUMW93QWpuU3NTR2NvdWpkVXlJbkdUX0E4ZmtFLTZ6dE5UOEk3WDZybUQzSV9IakxaOFJVc21OVTdjOHBuM1dpOE84TjY1SUNpUDZKWTdob0FYdlNjMURHOW9HYQ?oc=5",
      "date": "2026-07-29T19:54:13+09:00"
-    },
-    {
-     "title": "大阪観光局、映像クリエーター育成へ拠点整備支援 エンタメ産業振興",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTms5dVFFSWtoM2x0dEVSYndlaWl0TlVrUVZZbHp3MlhKcU5ESjRNZUN1WTlMZ1ZLOGZzanRmQzVLRF90MVBVRWlDUUc2Y3NTd0d5TWZOcGpyeFZsOU1oM2UxM05KbVpsRDdtSw?oc=5",
-     "date": "2026-07-29T18:30:00+09:00"
     },
     {
      "title": "兵庫県の斎藤元彦知事、副首都「手を上げるつもりはない」",
@@ -116,10 +116,10 @@
      "date": "2026-07-29T17:00:56+09:00"
     },
     {
-     "title": "ソニーFG、音楽と振動で集中力向上支援 スポーツ選手やビジネスに",
+     "title": "東京電力大幅減益、原発再稼働でも業績戻らず 顧客失い資本提携に逆風",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1md1htTFNYcm0yUUd2Si01NHRFUXFlTlBkM3V2d183bmR0aVVnNE9WNnBWbnlzM09DUDdmMTVlNTFlT1RSVlUtcW16S29BeHFicmdac2dWVlBlM2h1VUgweWxoTFJPLXNIclQ5Sw?oc=5",
-     "date": "2026-07-29T16:24:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSUt4QTJ0dWhCYTlyRk10dVk2YVBacGFmRmdRa1M2WEUwbGZXRkRIcTdDN2pIWGxXcjctd2k5SDNKclcxYU9ZdXdVUXJQMnpIYnNBenQyXzRMUzBFa2lQU1FWQUhzeUdpaDZEeg?oc=5",
+     "date": "2026-07-29T17:45:00+09:00"
     }
    ]
   },
@@ -190,12 +190,6 @@
      "date": "2026-07-28T12:00:21+09:00"
     },
     {
-     "title": "外為17時 円相場、反発 163円台後半 実需筋の買いが支え",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzWktxRi1haTRmc0d4REIyRzkxNTVzR2tkZ2pRUnF1NXJ2T1RWTEtvTVhvcFFobVdQYXllY0Z5NGlnNXktRnpXRkM0OWo3eFRVMFV3eFNzZGJOM3liZTYzc2JYS0dyb2tjallrNw?oc=5",
-     "date": "2026-07-29T17:26:29+09:00"
-    },
-    {
      "title": "NY円相場、反落 1ドル=163円80〜90銭 原油安で円買いも",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13c3JDN0pBUlNnNDlaaDhNSmpoRlZTajJhMzVHeC1oLTViZ2dlcFZwcDBrdlM3eU95SjlZX0tlZzd2cGk2Y2g4eTAwZkNFUFliZTdhWjdRWl9PTXdVUC11ZVBKWEM3ZWt6d25neA?oc=5",
@@ -206,6 +200,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdjFHa3ZtaHFJUlNTWlNNQmkyRXlUZ3dQc3NuUVczbnU3ZmxBZTVhRTUyYmh1cE55U0R4MWpoaDJzZGJ1UjVuWE5ITExuaGpKRzY4NXZMUDdhbVM5aGFFanZCY05HYWRIeFVOeA?oc=5",
      "date": "2026-07-29T17:32:12+09:00"
+    },
+    {
+     "title": "NY円相場、反発 1ドル=163円35〜45銭 FRBの金利据え置き受けドル売り",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSWF2NHo4UzdLQndRQUV2VjhSLWlPM1FkWWduU3V1Uk5hSHVpZG1kMWZxM083VXZSZ1RmWTdBMjdKN2RVd2ZnR1FESV8wa1M0MlBENzBITnR2ci1NZk9UczlrTmJ6N0Y3N3o4ZA?oc=5",
+     "date": "2026-07-30T06:57:22+09:00"
     },
     {
      "title": "外為8時30分 円相場、小幅に下落し163円台後半 対ユーロでも下落",
@@ -269,6 +269,12 @@
      "date": "2026-07-30T01:13:43+09:00"
     },
     {
+     "title": "FRB金利据え置きも「9月には利上げへ」 米市場関係者",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnaHJuMmZwZndaSkZ1YmdCN2E1dE1VZmhQa3lGV1NqVmVzVzUzM1U5bEp0eUdRa29TMmNSQWJuanMtMlJzWFFZT3EyZzl6MzVYU0pfU01jNDFZM0xlZHc3NGlzMHJFd3J4OGtfRA?oc=5",
+     "date": "2026-07-30T06:18:36+09:00"
+    },
+    {
      "title": "資金の借入れ（金利決定）及び金利スワップ契約締結に関するお知らせ",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFdieE1JM1FQeklBVzN3aVRMcDJYUGJvNjdFbDdtTGVEbTIzUkZqTHZwSTQ3WlRtMHI3MW54T1Z1UUlHeFdsWnFGTU9iVW51aWxkRlJhWHktMkhPZ2xNV3dwd1FrSVJGN3N3RmpnOWp1M0JRRld3eTY3RnVBZzltQ2steHNZcERrcHE0LTMzM1pYMUpTTE5jY0liWVo?oc=5",
@@ -279,12 +285,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kdnh3MWMwbzNNdVRmbHVzY25yUVdJYmV6U3Q4VVdtMzdrNlBLOENaS0ZyaUZZN2l0dXE1RXhJUXlGSklCRTNENjRIalJjZWN5b0JCeUVDaVNtd3RtNVVTTENKczFYczE1bHp2WA?oc=5",
      "date": "2026-07-29T18:41:53+09:00"
-    },
-    {
-     "title": "欧州国債早朝 ドイツ長期金利、小幅上昇 3.1%台半ば",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qSzZVcGNscWxqbndkTWphNkRWOEo0UXd1T2FBeDhYODkwZGMwYUhCTWJHRy1wNjZoNVFuWUxqMHNKS095SEhRcExVc25hWmtkUWR5Q09zTG14ZDhBRHlnQWllbGZYcjdlV0VrTQ?oc=5",
-     "date": "2026-07-29T15:55:46+09:00"
     }
    ]
   },
@@ -318,6 +318,12 @@
      "date": "2026-07-27T13:02:00+09:00"
     },
     {
+     "title": "【那覇エリア】個人営業担当（総資産営業担当）※初任店は希望エリア",
+     "source": "日経転職版",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tXzMxcmtTVlU1dVBVZmZKTlFKMXZYOEpZTmxPN2ZudlotYnA1ZWdxQXdqWXVBaUpWd1VnSHY4OVI1WE5LUDVXYUVwb2luSzdBREpxVHgxUGp5U3pTTmlWemwwVDFhVmRZMHI1cQ?oc=5",
+     "date": "2026-07-28T16:00:00+09:00"
+    },
+    {
      "title": "日銀「利上げ前倒し」警戒 日経平均6万円割れリスクも ヴェリタスEYE（7月27日）",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVzVtbFpabFRIMmdGYm00b2VKTmRQNFlqenZoSHN1SUp1cVdJNHVZLVVmQk90cW8td190VVotUzg1VmJKYkJrNWFnd2dzX29Nc3NuTnhQZWpvRURoQnhQbGg2VHBqbi1kU0ExWE1XQkNCRnQyOUszcTRRODU3UQ?oc=5",
@@ -334,12 +340,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZE81SE9wLWo5b2xDLVlLR1JQVmNHclh2Q05LN21xbEsyNXNwZW1ZSV8xTHhCcTBrTm5DZllicGppNWlXUzIwTEpwWm4zYzNTTzliRGdJTXlSZGpOZ2JXekh3SDgxZEoyYkdiWXFSTElQQldSNHhCREJubWk1S2MzVU94VmR4NmFIVUplaGY4VTY4VkVDdlFIMzdpRGg?oc=5",
      "date": "2026-07-28T17:23:55+09:00"
-    },
-    {
-     "title": "2026 年 7 月 27 日 各 位 株式会社エアトリ、総務省事業を契機とした ICT スタートアップリーグ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19lNEtOdnpTRHFnbG5nNnU1ZkpYdGYwaTlNdzNYZFF6NGktNVFqNzNsZXNKaldvZThFUGdUand6REhuVXU4UFV6SDk0cGpMdE4zazgyRWJzbHB2RTU4TXlCN2liZkZXRG9OUGxxckY3SkhDLV9HdHBqWkN3bmFDZDZieElSYW5tTDdiQWppVEdLRlNXdmVwNjR5a2Q?oc=5",
-     "date": "2026-07-28T13:21:45+09:00"
     }
    ]
   },
