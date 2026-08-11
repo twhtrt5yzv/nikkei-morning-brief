@@ -1,11 +1,53 @@
 {
- "updated": "2026-08-12T05:45:31+09:00",
+ "updated": "2026-08-12T07:48:05+09:00",
  "categories": [
   {
    "id": "asa",
    "label": "けさの朝刊トピックス",
    "emoji": "🌅",
    "items": [
+    {
+     "title": "OpenAI、アルトマン氏側近の元COO退社 幹部の離職相次ぐ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52VnRyaDl1SnF1bTZBaTExSXVUTGk0WlYwcWMzOWJJc2pwTlA5TVdPczhaRFZhYk5idHg2bDNPdG1kNUFZV2R1cFlCN193RUM3NWpDMm9iV3Y0eUFPNVFrcjJLMlhKTmVrM0tlSQ?oc=5",
+     "date": "2026-08-12T05:16:32+09:00"
+    },
+    {
+     "title": "奥田碩氏が死去、93歳 トヨタ社長や経団連会長など歴任",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1naEJHMDV4a2paWFAzSFloV19Rd0l2cjA2Y05JZmlpRWNNRmNBcHQzb2s0SmM1R2VmSWpPek1iNVJCWFVTYTY0Q0N0MkhGaS1ibTF5cmtLb3hYRmowUFp3RGZqR1hqdmQyR2lURQ?oc=5",
+     "date": "2026-08-12T00:19:24+09:00"
+    },
+    {
+     "title": "NYダウは続落し184ドル安 中東情勢見通せず、原油先物も上昇",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jMHZrNFFzUk1zNHhMb3RWX2QxcndHMVRBelk5VFR5dkgzWE5mSENab29PMHdKclU4MEN1ZWlaZ180aFVVb3VuNzVBWnRTenYydlhYOHZyeWl3aVJ3SWI5OVJYdURqbkZYMy1ybA?oc=5",
+     "date": "2026-08-12T05:38:21+09:00"
+    },
+    {
+     "title": "DeepSeek、ヒト型ロボ新興と資本提携 中国でフィジカルAIを推進",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UWDBMc1NFUUVLR1QyS3dNU3FEU1FQYVdaOWpkbXN3MGRrTmJjSFYwQnRNSHh2YWdHUGd3MFBPQWFHU0tjenpQRGhGOHh3WGhFaHZvOXBfb2pxWEpjOGMxa3JVdGlXUVRJcEVlcQ?oc=5",
+     "date": "2026-08-12T05:00:00+09:00"
+    },
+    {
+     "title": "社員の運動推進で補助金、イベントや体力測定 健康改善「12兆円効果」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdi1NVTB6YWx1UnZGUzRnUEstMXBzM0UxdFByU3MxX2c1OU5OMFlvZzFPYnNQZXFkcDN3OGZWNldPelN5Z2NXZ091emFTRjhpTjBMYW1kOG5BelRBQ3YwV3BIYWFIcDkwc1Vodw?oc=5",
+     "date": "2026-08-12T05:00:00+09:00"
+    },
+    {
+     "title": "ウォーシュFRB議長、｢変革｣狙うジャクソンホール",
+     "source": "NIKKEI Financial",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONWtzc3RQUXpsd0Q0X3FySkVPYUtiTVlsS2gzQjdjWTcyQ0cyU2NxR0Vac1EtR09HdFgwT2ZQSVNXYVppS0p3bDR6NzFzbFg1cGVDbEYtVnBYWUFfSndtdHZHNkpxWXVxNzhWLTRzV25rdWVWTDFrZGJXNTh3X2otM3hYbUp4NFNUSXRubXhWejl5YU5vX0I4Nw?oc=5",
+     "date": "2026-08-12T05:00:00+09:00"
+    },
+    {
+     "title": "都市部の猛暑はなぜ危険？ 適切な「ヒートアイランド」対策とは",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81RzZQbkZVNkpNcmQycVRnYWRxOE9iU2JWeTBqcXNEWVdKRXl4VTA1bGpOd3pWUVN0SFhwUzdobzQ4RWlHN1B4Q3VNRk9kOWtiZG56ckxSQkVYY0ZQcE5JMHlLLUxCdXBpS3pvVw?oc=5",
+     "date": "2026-08-12T05:00:00+09:00"
+    },
     {
      "title": "長官・3局長の顔ぶれ不変、要路担う「平成5年組」",
      "source": "NIKKEI Financial",
@@ -23,48 +65,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXVZNmJZYVNVUW5lM2R5QVNqdUtXZVlsTHFhY1hXZjQySU1kVkpna3ZVX2N1eEM5SFJUaW1SdnRoRG5EaHFoWkxtek5HSDlEbUs3ckFFaUxuRktoeE45S1MydHpCUzdTLXZXVUMzVWZ4aERkdTl0cm9FR3g1YTRRcjdTNll2aHc?oc=5",
      "date": "2026-08-12T05:00:00+09:00"
-    },
-    {
-     "title": "Onのスニーカーにスイス国旗…でもアジア製 デザイン論争が問うもの【ポッドキャスト】",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRGFLOS1QZXk5b3lCT3VRaWNMZHYzODA5NnJSMXVObmE1QUhyajBlWVozQWt2UXM0TmVVQ2hrdklHM0JkZ054SzNLODBZRGZlZEtWRTdBU2dEdHU0dW42UDdZOVI3LVJDQlBjNA?oc=5",
-     "date": "2026-08-12T05:00:00+09:00"
-    },
-    {
-     "title": "シリア、国内のロシア軍基地の民間移管で合意",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sV011NVZsQ2xUbUIxeURKWnBhcWljTUZkR1hmaEd5VzV1dGFxb3VzTWFyMnRLd2g3N284SmxuaHJyMW9HLWNzT2ZJTzM5OXlqbWE4QXVRRVdhR0JXQkdMN1NmaTB0a0ZMMkZpS09FUmFqdU41RUhZ?oc=5",
-     "date": "2026-08-12T00:00:00+09:00"
-    },
-    {
-     "title": "大槻奈那氏、不動産価格占う指標 新築マンション不足の次に来る現象",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wV3RoVUpGS0lOSUYwV3gwZGltdHZUOHNiT01aZ3MwbFZGTzE1V2ZvYk5jV2tkbEpULVNiTjlJZlRBQWJUNWkyVFdjNlFleEs2TlQ4TlFMVlRuRFFyZFFRWUh5U09XdHZ5SEhIOQ?oc=5",
-     "date": "2026-08-12T05:00:00+09:00"
-    },
-    {
-     "title": "どうなる洋上風力、逆風からの巻き返し策は まとめ読み",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYXhmcUI0VUhXbHVQN3docndZaXNQeG5CZS1pMHN3cUQzUmtOZ2xEdmVNeWoxZEE2SHFieTktbXdWQmNOZUFkYlFPbXU5Z2l5dHZuaWpEMGFsNHFXTWtHc0h6aWxiakJDYUVBbGNPT1hRSnp3b0xHSWVQdDBPcFRxN1hHVHN1aFd3dWY3ZHdYalJPd05qQlh0UkRWSXk?oc=5",
-     "date": "2026-08-12T05:00:00+09:00"
-    },
-    {
-     "title": "ホンダ新EV､想定外の補助金 読まれた記事〜規制･政策編",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kOEtTZUZxUFVOZXZ5R2Z5Zklsb0p0aXpDd1ItMzAtcVNVZnRramVQVXdWa19SMGF6OHVYU0pxb05EQ2xhdFRGQmtsSjViV2dzSEpwVkQzSDRlb1djRGlXbXJZUFJad1kwNk1WYWU4aVN5bjdqemhCQjZtaWJVZms?oc=5",
-     "date": "2026-08-12T05:00:00+09:00"
-    },
-    {
-     "title": "US euro sale to prop up yen blindsided ECB",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rOTZDV1htRzRBRFV1SzJqUHg4dXhGODlhRlRlbnUtejBLM2taY1dEN3E4aGQ1R2RpVV9RdVpNN210UGdJdkxKUnRBR29Kd3ZseGZxUE9fa1lxTExXTDhwYlhLaGF3dDJVNDd6b1RlNDlibHE1YjFV?oc=5",
-     "date": "2026-08-12T00:00:00+09:00"
-    },
-    {
-     "title": "AI時代、コンサルタントは用なしか",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SXpVSFlMSW1qRFhuckhLdTU1T0tIUm1uLWNwcGd4SEk3Y3J5QVA4cm1qay01S1dWZnRVeTBlZHdDQ2J4aFRSZVozcFJLOEN3WHFCWkhOd1FuZ0R6YkZlRHhBNDhfTGpsaUdmLUpIUEw4VjV4SHFr?oc=5",
-     "date": "2026-08-12T00:00:00+09:00"
     }
    ]
   },
@@ -74,16 +74,16 @@
    "emoji": "🗞",
    "items": [
     {
-     "title": "はや薄れる日米協調介入の神通力 円159円台、半値戻す",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZGJnYlZzT01zQ3hMUUJDeUx0cDd1eDlYT19JWXVrNFdMSGdKQ1Y4ZENuSXl5dkxYR2g1RU4zNTRpcFBzZUVnb3VvZlh1ZjhVZlQxR0ZqU19Ec2lqMnRqbnVJd09DR3ZrN3lyWQ?oc=5",
-     "date": "2026-08-11T05:55:44+09:00"
-    },
-    {
      "title": "日航機墜落から41年 遺族らが慰霊の灯籠、空の安全祈る",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54UHptRWR4cXppM3A4em5qNF9QUzVJMU0wVnZ2NVFRZFl0bVlZNkozNjBKcUhMaW5pNHJxcDh4Y3psMm9HV1BsdVNGcUpYYzVoTHRRdEtXdm1lU2dYbDdLRkJ6TW42bU1zeDdXYg?oc=5",
      "date": "2026-08-11T19:01:03+09:00"
+    },
+    {
+     "title": "市民プールの夜間営業、猛暑で拡大 日焼け・熱中症対策ニーズ捉える",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qb0JoNXk0czlNM0pvWDdtYnRxOVZJaUFJZ3ZWejl1Z0lVeW5RUGhvaXozWDZmdzNCMTVyVXFpUmdSSWoxb2lic1ZLTXliSk5KcVhjdUtOb25tLTFPbnBRemhYTXJ4MWpnRm5JVQ?oc=5",
+     "date": "2026-08-11T11:00:00+09:00"
     },
     {
      "title": "イオンモール爆発事故、避難後に再入館許可 再発防止へルール見直し",
@@ -92,34 +92,34 @@
      "date": "2026-08-11T12:33:26+09:00"
     },
     {
-     "title": "メタ、AIを「数十億人に無償提供」 高性能モデルの技術を外部に開放",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05aUxrbVVrSVo3dzMxNDBiWmRiOWViX0JDWnBXdndwaFlEQTJnWGFnYUVhMjFOeGEyRlZJUW5jOXN2S25kd3NWd1VRSjhaUlgza1NuMm13dndWQkpzM0hvM0lGMzYyUmRPd1hUZQ?oc=5",
-     "date": "2026-08-11T05:59:08+09:00"
-    },
-    {
      "title": "中国、インドネシアと台湾東部沖で合同軍事演習へ 日比威圧の一環",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTGEzTmJDdUVUWXdRUHk2WTBhM2d4c3U4ekR1X0JWX1NjRnhxVXdQMmJNbFY3ZXg3dmRlYUduRVVyaEs0Q1hYUHdpazlfczM0NW1neDdwQUM1OTA0QjVUZjhoV19lR1YydkRBRQ?oc=5",
      "date": "2026-08-11T19:28:25+09:00"
     },
     {
-     "title": "米国株、ダウ反落し60ドル安 原油高や高値警戒感で ナスダック反落",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xczlWZkRpM3U0Y0V5X0NLWkc1NE11elVnbnMwVmpSQ3NRQjVraHNUOWVGWmpsOWZGdWZBejd0WWVqV0diTGpXcDhuSzB6VFVUOXN4azBkbFZYdk5nVFA3eFJ4UmNjNFZ4bXd0ZA?oc=5",
-     "date": "2026-08-11T05:47:48+09:00"
-    },
-    {
-     "title": "台風15号が茨城県に上陸、統計開始から初 異例の進路たどる",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwV2FXNlQ2SG1PdWlYVHh1ekU5eHM2N09UTXRzTHdFWXFJaElIRVZ2N3Z6eTZVZW4wQ3F3N2ZKRWpNcjROaTZtOGdsbVhlS25xWUlZNFFUdjdoenRMU3JSdWFqMVV1UGtqTlVVMA?oc=5",
-     "date": "2026-08-11T07:00:00+09:00"
-    },
-    {
      "title": "ソニーGとTSMC、次世代画像センサー量産を正式発表 熊本1兆円投資",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40TlI2c19qdlVtRkRuUzNPc2k1YmNEaEJjSGJCMHJPbmZPaFZzT09ybzhIcjMwSXlkbXBpUVpvMEw2X1o3MmdTc2hmY0xST1NNOGY2ajh0SjRaVl8yWTZncUVDVUhIREItZlNOUw?oc=5",
      "date": "2026-08-11T19:00:00+09:00"
+    },
+    {
+     "title": "大野松茂氏が死去 元衆院議員",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oeVdsZ19RaWNLV2c3ZkpIUEtKRUpweE1oeVFIZjZoTmVKQ0hKT1p0c2hMaGk1WWxxMTB4UzBTTGE5TmVGeHZNQkx2NDZfTmRiS0xnOEh0d0ZReWE2cmhWYW1lMnoyc0I5NVRqNA?oc=5",
+     "date": "2026-08-11T22:30:00+09:00"
+    },
+    {
+     "title": "高市首相「宇宙先進国として世界をリード」 「H3」打ち上げ成功に",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONThfam5xQ2ExSVR1S3dNMmZ2TU01RkNPMG1iY3JXamFrZ0hpYjdTRkFwWktyXzg3MGZNYXo1OC1oaU5wZjlhZGw0QURocXhNd195Y28xX0VTU2NLOEdTUktpT1c4ZXV3anZURg?oc=5",
+     "date": "2026-08-11T09:08:13+09:00"
+    },
+    {
+     "title": "英アストラゼネカと米BMS、統合協議が破談 FT報道",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0XzZtejF0SEg5clB5S3NzcUQ4Njk3NHI5Q2hiYlpEMC1RWGVrQnVJSWFnbk55WWNFWGUwN2w2U1ozLWZScXd0VVZablc3bFhvVTdseV9SQnpHTkhUWUxTMGJhT1RoM291VzJwTg?oc=5",
+     "date": "2026-08-11T20:27:10+09:00"
     }
    ]
   },
@@ -165,16 +165,16 @@
      "date": "2026-08-10T14:16:01+09:00"
     },
     {
-     "title": "東証寄り付き 日経平均は反発で始まる AI・半導体関連に買い",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ubFN4aER1QVdKa2JsZWo1cGZvd2tZeUdFcEFIeTVmVDhGcEZSRmI0NWJ6czFoSTVZRU5XeWxWWDVzcVQ0THJ6ODF2dUQzMjdTSXFqaDhxcGVCNFZ5V2hFZDVyd1VEZ0RRcUlUNw?oc=5",
-     "date": "2026-08-10T09:19:41+09:00"
-    },
-    {
      "title": "日経平均、反発で始まる 米ハイテク株高で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13T0plOHpLZms0VWswcVlTanQyX1VWYnBVLU5BeXJScDZ3Y0xpWlVXNHR4dTBVQkVnT2N5emZwUGJGN2R1X25RRDRXeExmU2FybmhUbTRsdXAxUkhqOENMel90VDQzc2lsVDg4WA?oc=5",
      "date": "2026-08-10T09:08:41+09:00"
+    },
+    {
+     "title": "東証寄り付き 日経平均は反発で始まる AI・半導体関連に買い",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ubFN4aER1QVdKa2JsZWo1cGZvd2tZeUdFcEFIeTVmVDhGcEZSRmI0NWJ6czFoSTVZRU5XeWxWWDVzcVQ0THJ6ODF2dUQzMjdTSXFqaDhxcGVCNFZ5V2hFZDVyd1VEZ0RRcUlUNw?oc=5",
+     "date": "2026-08-10T09:19:41+09:00"
     }
    ]
   },
@@ -183,6 +183,12 @@
    "label": "為替",
    "emoji": "💱",
    "items": [
+    {
+     "title": "はや薄れる日米協調介入の神通力 円159円台、半値戻す",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZGJnYlZzT01zQ3hMUUJDeUx0cDd1eDlYT19JWXVrNFdMSGdKQ1Y4ZENuSXl5dkxYR2g1RU4zNTRpcFBzZUVnb3VvZlh1ZjhVZlQxR0ZqU19Ec2lqMnRqbnVJd09DR3ZrN3lyWQ?oc=5",
+     "date": "2026-08-11T05:55:44+09:00"
+    },
     {
      "title": "NY円相場、大幅反落 1ドル=159円25〜35銭 原油高や米金利上昇受け",
      "source": "日本経済新聞",
@@ -208,6 +214,12 @@
      "date": "2026-08-10T18:13:06+09:00"
     },
     {
+     "title": "NY円相場、横ばい 1ドル=159円25〜35銭 米CPI前に膠着",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83LUp4N0k0WHI4czVMWDZ2Y1NJOW5mTUVnaS1EM2pOTEZTWnBKNXRzYzZvRWlJaFQ4TWIyVXdWTk5hSlVtTGFZcW02NEtxZVNxQUVYaEZJS2dIZzUtVHJfczFXMk5QTFprSVNNRQ?oc=5",
+     "date": "2026-08-12T06:31:18+09:00"
+    },
+    {
      "title": "ロンドン外為11日 ユーロ、対ドルで底堅い 円相場は159円台前半",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtN3BUdVlhTnZsM1dycVptMHdRZ3g0S1pFSHM5UWxETjlUanVyb1YxVnpmUmxOOWRZckREaHZ2eFR1U3Z4Z3lsLWpGUXVDRXFYOHo5TFlKUlFleURzTTkxalZhUkdTNXJ0OTNSag?oc=5",
@@ -218,18 +230,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44d0lWZG9IamxXc1VwWU9nQi00Y3B1ZVdyOWoyUWxPRHJnZWVveGNtYkYzazcyS3pqek15WnJuR3pLZ2dKVWJNYVNBLTR4dzZDTkJxVUM1SVpnMTZ0QzJweThJWjFSamJSU1RXVQ?oc=5",
      "date": "2026-08-11T06:17:37+09:00"
-    },
-    {
-     "title": "ロンドン外為10日 ユーロ、対ドルで横ばい圏 円相場は一時159円台へ下落",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JQlJLM3QzTTI1b1U5bk5DcGRLODJWcGRKTTU5N0ZpbU1fVzBDd3VhQ2dlS0NMVnVLemR3ZEM5bkp1ckFvQ1FQZFd4dUxRVFhFM1BhTVN0elVsbmZ5eWFrYVF2ZzRTSHhYNjYzUA?oc=5",
-     "date": "2026-08-11T00:59:38+09:00"
-    },
-    {
-     "title": "上場インデックスファンドフランス国債（為替ヘッジなし）[2861]：ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0dOY3YwRHQzaEdvSVdndkYyUDR5V2FHaFJualBya25YS2dWWnJwclFhdVJXSl9fOEdXTVhlazZzSlJyanZxeXFacXlKbEpyajNfZk96T2dFY0hXU25jZGxHdXhTQmY5SktYUk5wbHhTZGhSZFAyZVh3WmFvTnRVX0RfcVhSM3BlaEltTi1yLWZPUi1rZUlHUlJaLU0zeElDdHZCMTlORWtyN19INmFVbzJsMkdhd29RY2drOWlMV0ZnNWZ4WXNpWjVUWE8?oc=5",
-     "date": "2026-08-10T18:35:00+09:00"
     }
    ]
   },
@@ -275,10 +275,10 @@
      "date": "2026-08-10T18:18:47+09:00"
     },
     {
-     "title": "ＭＡＸＩＳ米国国債２０年超上場投信（為替ヘッジなし）[182A]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL",
+     "title": "上場インデックスファンドフランス国債（為替ヘッジなし）[2861]：ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3VYZnluT3dxQUFqS0FnMVRzT0RjMEdOR19MYk12VUhEdEJqdTVDVVh2MFcxcXJhZ0Z5UDdVNUtmMFMtQVR6WkdqMlV1QXFWR2xFcnFEUmVpYVVkdVl4MlNXdnA5U1FvSTMwUFVVMVAzSlZNUjQ0eXVDY2wwN29JRExyNGd2WV85dEpONmVqdGd1bDR1YjFCVUJXNmd4MUVqQktrdXkwOFJnV2ZSVFc5MHgxdE55X1pWSlUzMXdlZ0FLTVhLLTRrNUJfdlU?oc=5",
-     "date": "2026-08-10T18:40:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0dOY3YwRHQzaEdvSVdndkYyUDR5V2FHaFJualBya25YS2dWWnJwclFhdVJXSl9fOEdXTVhlazZzSlJyanZxeXFacXlKbEpyajNfZk96T2dFY0hXU25jZGxHdXhTQmY5SktYUk5wbHhTZGhSZFAyZVh3WmFvTnRVX0RfcVhSM3BlaEltTi1yLWZPUi1rZUlHUlJaLU0zeElDdHZCMTlORWtyN19INmFVbzJsMkdhd29RY2drOWlMV0ZnNWZ4WXNpWjVUWE8?oc=5",
+     "date": "2026-08-10T18:35:00+09:00"
     },
     {
      "title": "消費減税、国債の信用力どうなる 「一時的なら影響限られる」 ムーディーズ担当者",
@@ -292,7 +292,56 @@
    "id": "fcy",
    "label": "外貨・ドル建て",
    "emoji": "💵",
-   "items": []
+   "items": [
+    {
+     "title": "上場米債０ラ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHJFd0V1M29lOVp1d2xHRlNiRHZ5el9tSmVYOTBXR0hXdXdqOWhwN1dmUXZZWFpCMVdJVWhNRUF2d3RKU09BNzVFM2dOSDNOQW83WklTS210d2JVUkZ2YlNtU2VSRGZ1YWM3WlJoYnRzTm5RNXVLNWpvMUxqMjFCVDZyZW5OMlhZWDR6cjE1N01PaU5IUzVxcWVtU2pkN24wWnR1dmVxY2lVQlV0dnZfaFg1Nl9mRUxCTURST2F4ektvUTBpeFVFUWVZbGo?oc=5",
+     "date": "2026-08-10T18:35:00+09:00"
+    },
+    {
+     "title": "債券12時50分 先物、軟調 米金利は上昇",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWk02cktINTFDb09uYmNGLUtpSlNXWmRwS0xGSHcwaC1CLXRMVElPcE5PUnpmSGFWQUNSUTJUeS1KcENINnl4RmxvcTZwMlFpdlkzelF1V3d3Sm42QjZkZ1o1LXpETGhXQzNCOQ?oc=5",
+     "date": "2026-08-10T13:07:19+09:00"
+    },
+    {
+     "title": "楽天証券、100円から設定可能な「外貨建MMF」の積立サービスを開始",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1meVQ4X1RQdGctSWtfaEtfU3JQMjRnLWNiS0ZBdGVnZVBkXzlSTXh6YWNNc3J6eDR6dGtyd0RSRGp3eVhha2Nkd3ZlTHY5TW5ZdlFJN0x1TWF6b0tZNHVaQ0ctdG1Ydy1zRVlEUQ?oc=5",
+     "date": "2026-08-10T16:47:30+09:00"
+    },
+    {
+     "title": "ブロックチェーン ウォール街に革命か、新たなリスクか（下）",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMk05U1lKUmE5X2VmNmJMdVVPSWFoNWU5TlUyMERtOWxFSDJ0UjhqV0NfcldOdkhZUTBiR3BsRVRxNXN6RWJVdFFKV3BMT3BCQ3piTjh1Yi1DTS1JbWthOUVsUVROUEZwQTh6eTdrWUJEbDV5RWdZ?oc=5",
+     "date": "2026-08-11T12:30:00+09:00"
+    },
+    {
+     "title": "ウォーシュFRB議長、市場反発も簡素な情報発信を継続",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZlN5S21TTWlFODZSR0pjN3B5MUctMVpKSVZUTDN5MldaSDctM0FnZkV0S1ZRVWlQZU9lUUxNLUY5TGVRWUxwaWxMOVNwQldVQ2hTU2tSWDROT3VyUUlnSnRxa3daSFRBQnVWanFJNnJsbjFpcDhJ?oc=5",
+     "date": "2026-08-10T00:00:00+09:00"
+    },
+    {
+     "title": "モダリス[4883]：営業外収益及び特別利益の計上に関するお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94S0k1RDNKWGtBWTZhWWRINzZxRWRJcHNVZzczN1ZNYWpack5GVDBxTS14Z252Zmd1SFJPdFhSa2pmQVJnVG1abzNfSEhCaHZxUEl6aW1CdVNWZHgxN1l6UFljcXZ1LTd0enc?oc=5",
+     "date": "2026-08-10T15:30:00+09:00"
+    },
+    {
+     "title": "2026年度第1四半期 業績説明会資料",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTW1saXVZN0IwQlZnRWJxd09ucXhIdlVVbXEzT05XVlZDMEo2b1hHbmJjcEt6cFVmLUN4ZDJDNHVlYXBPU3BidnEzdXY5UjNvbHhYRDB4NHB6WEZTbTZ2WXlnREpJakw3aTI3TVJMRWRPWXNVMHd6YkszeWJhcE5td3E5MUs2dzc0Zm8xY2ZqXzNaNkVsOHJadWFqSnI?oc=5",
+     "date": "2026-08-10T11:51:52+09:00"
+    },
+    {
+     "title": "2026 年８⽉ 10 ⽇ 各 位 会社名 株式会社 モダリス 代表者名 代表取締役 CEO 森⽥ 晴彦 （コード：",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1hHb3lFU0cwRUdNamxJOGxYeHlkblNINzRGdzlzbXY1VDg4aUc3ZmlzZlpnaGtfZ1lGSHZ2a2tWUXdLUWpQbzhOSVlDU0V5SkFiVHJQcDB5UElSNmd6N3dRSmw0S0M5M1BObzRTbE5uOXprWkJNZnJzUXNSeE1uQmwwenE5Qi1yWDBjZ1l2RWwzbTBLRzhRZ0Zia0w?oc=5",
+     "date": "2026-08-10T15:59:06+09:00"
+    }
+   ]
   },
   {
    "id": "yen",
