@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>NotebookLMで音声を作る | 日経モーニングブリーフ</title>
+<style>
+  :root {
+    --ink: #1a2433; --sub: #6b7686; --accent: #0b3d91;
+    --accent-light: #e8eef9; --line: #dfe5ec; --ok: #0a7d4f;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+    background: #eef1f5; color: var(--ink); line-height: 1.6;
+    padding: 14px; padding-bottom: 90px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  h1 { font-size: 18px; color: var(--accent); margin-bottom: 4px; }
+  .date { font-size: 12.5px; color: var(--sub); margin-bottom: 14px; }
+
+  .steps {
+    background: #fff; border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; margin-bottom: 12px;
+  }
+  .steps h2 { font-size: 14px; color: var(--accent); margin-bottom: 8px; }
+  .steps ol { padding-left: 20px; font-size: 13.5px; }
+  .steps li { margin: 6px 0; }
+  .steps .hint { font-size: 11.5px; color: var(--sub); margin-top: 8px; }
+
+  .btn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  .btn {
+    flex: 1; min-width: 150px; padding: 14px 12px; border: none; border-radius: 12px;
+    font-size: 15px; font-weight: 700; cursor: pointer; text-align: center;
+    text-decoration: none; display: block;
+  }
+  .btn-copy { background: var(--accent); color: #fff; }
+  .btn-copy.done { background: var(--ok); }
+  .btn-open { background: #fff; color: var(--accent); border: 1px solid var(--line); }
+
+  .preview {
+    background: #fff; border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; font-size: 12.5px; white-space: pre-wrap;
+    max-height: 45vh; overflow-y: auto; color: #2a3446;
+  }
+  .note { font-size: 11.5px; color: var(--sub); margin-top: 10px; }
+  .loading { padding: 24px; text-align: center; color: var(--sub); font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🎙 NotebookLMで音声を作る</h1>
+  <div class="date" id="dateLabel">読み込み中…</div>
+
+  <div class="steps">
+    <h2>手順（30秒）</h2>
+    <ol>
+      <li>下の<strong>「全文をコピー」</strong>を押す</li>
+      <li><strong>「NotebookLMを開く」</strong>→ ノートブックを新規作成</li>
+      <li>ソース追加で<strong>「コピーされたテキスト」</strong>を選び、貼り付け</li>
+      <li><strong>音声概要</strong>（Audio Overview）を生成 → 数分で完成</li>
+    </ol>
+      <div class="hint">※ 男女2人の対話形式（ポッドキャスト風）の自然な音声になります。カスタマイズで「経営者向けに要点を」等の指示も可能です。</div>
+  </div>
+
+  <div class="btn-row">
+    <button class="btn btn-copy" id="btnCopy">📋 全文をコピー</button>
+    <a class="btn btn-open" href="https://notebooklm.google.com/" target="_blank" rel="noopener">NotebookLMを開く ↗</a>
+  </div>
+
+  <div class="preview" id="preview"><div class="loading">読み込み中…</div></div>
+  <p class="note">このテキストは毎朝、最新のダイジェストに自動で入れ替わります。アプリ側の🎧音声（自動生成）もそのまま使えます。</p>
+</div>
+
+<script>
+"use strict";
+let text = "";
+
+(async () => {
+  try {
+    const res = await fetch("brief.txt?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    text = await res.text();
+    document.getElementById("preview").textContent = text;
+    const m = text.match(/^日経モーニングブリーフ\s+(.+)$/m);
+    document.getElementById("dateLabel").textContent = m ? m[1] : "";
+  } catch (e) {
+    document.getElementById("preview").innerHTML =
+      '<div class="loading">読み込めませんでした（' + e.message + '）。毎朝の自動生成後に利用できます。</div>';
+    document.getElementById("dateLabel").textContent = "";
+  }
+})();
+
+document.getElementById("btnCopy").addEventListener("click", async () => {
+  const btn = document.getElementById("btnCopy");
+  if (!text) return;
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand("copy");
+    ta.remove();
+  }
+  btn.textContent = "✅ コピーしました";
+  btn.classList.add("done");
+  setTimeout(() => { btn.textContent = "📋 全文をコピー"; btn.classList.remove("done"); }, 2500);
+});
+</script>
+</body>
+</html>

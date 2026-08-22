@@ -1,22 +1,26 @@
 #!/usr/bin/env python3
-"""digest.json をメール配信用のプレーンテキストに変換して標準出力へ。"""
+"""digest.json を NotebookLM に貼り付けやすいプレーンテキスト（brief.txt）にする。
+
+メール用（make_mail_text.py）と違い、リンクや定型の挨拶を入れず、
+音声化したい本文だけを出力する。
+"""
 import json
 import re
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
-JST = timezone(timedelta(hours=9))
 BASE = Path(__file__).parent
-APP_URL = "https://twhtrt5yzv.github.io/nikkei-morning-brief/"
+WEEKDAYS = "月火水木金土日"
 
 
 class TextExtractor(HTMLParser):
+    """ダイジェストのHTML断片を、読み上げやすい素のテキストに変換する。"""
+
     def __init__(self):
         super().__init__()
         self.lines = []
         self.buf = []
-        self.in_table = False
         self.row = []
 
     def flush(self):
@@ -26,21 +30,14 @@ class TextExtractor(HTMLParser):
         self.buf = []
 
     def handle_starttag(self, tag, attrs):
-        if tag == "h3":
+        if tag in ("h3", "h4"):
             self.flush()
             self.lines.append("")
-            self.buf.append("■ ")
-        elif tag == "h4":
-            self.flush()
-            self.buf.append("◇ ")
         elif tag == "li":
             self.flush()
             self.buf.append("・")
         elif tag == "p":
             self.flush()
-        elif tag == "table":
-            self.flush()
-            self.in_table = True
         elif tag == "tr":
             self.row = []
         elif tag in ("td", "th"):
@@ -56,20 +53,18 @@ class TextExtractor(HTMLParser):
             self.buf = []
         elif tag == "tr":
             if self.row:
-                self.lines.append("｜".join(c for c in self.row if c))
+                # 表は「項目：値」の読み上げやすい形に
+                self.lines.append("、".join(c for c in self.row if c))
             self.row = []
-        elif tag == "table":
-            self.in_table = False
 
     def handle_data(self, data):
         self.buf.append(data)
 
 
-def html_to_text(html):
+def html_to_text(html: str) -> str:
     p = TextExtractor()
     p.feed(html)
     p.flush()
-    # 連続空行を1つに
     out = []
     for line in p.lines:
         if line == "" and (not out or out[-1] == ""):
@@ -79,26 +74,20 @@ def html_to_text(html):
 
 
 d = json.loads((BASE / "digest.json").read_text(encoding="utf-8"))
-body = html_to_text(d["html"])
 gen = datetime.fromisoformat(d["generated"])
+body = html_to_text(d["html"])
+# 先頭に入る「〇年〇月〇日（曜）作成」は見出しと重複するので落とす
+body = re.sub(r"^\d{4}年\d{1,2}月\d{1,2}日（.）作成[^\n]*\n+", "", body)
 
-print(f"""おはようございます。
-本日の日経モーニングブリーフをお届けします。（{gen.month}/{gen.day} {gen.hour:02d}:{gen.minute:02d} 自動生成）
+header = f"日経モーニングブリーフ　{gen.year}年{gen.month}月{gen.day}日（{WEEKDAYS[gen.weekday()]}）"
+text = f"""{header}
+
+生命保険会社の法人営業（支社チーム）向けの、本日の経済ダイジェストです。
+中小企業の経営者に向けた財務・事業承継の提案につなげる観点でまとめています。
 
 {body}
+"""
 
-----------------------------------------
-🎧 音声で聴く（約16分・通勤中にどうぞ）
-{APP_URL}brief.m4a
-
-🎙 NotebookLMで対話音声を作る（コピーして貼るだけ・30秒）
-{APP_URL}notebooklm.html
-
-▼ アプリ（記事一覧・連携文作成）
-{APP_URL}
-
-▼ 本日の提案資料（1枚もの）
-・提案プレゼン: {APP_URL}shiryo.html?doc=presentation
-・メカニズム図解: {APP_URL}shiryo.html?doc=mechanism
-
-※このメールは毎朝自動配信されています（日経モーニングブリーフ）""")
+out = BASE / "brief.txt"
+out.write_text(text, encoding="utf-8")
+print(f"brief.txt 生成完了（{len(text)}文字）")
