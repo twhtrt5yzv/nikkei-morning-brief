@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T05:20:49+09:00",
+ "updated": "2026-08-26T07:40:05+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,9 +7,39 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "トランプ氏、オンタリオ湖を「アメリカ湖に変える」 カナダを威圧",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGYXN3T0ozc2prQ3hSOEhxUmRaSUVHbk5ocmJnYndXZDBwVllsTWhKSkVkNUtHMDFFTy1XYnlObElWUkJzbzFzUEp2M3daWkhKRmFRYUE0QU5BNWxhRzNsamc2N2ZEMG9lZDg4Tg?oc=5",
+     "date": "2026-08-26T00:03:59+09:00"
+    },
+    {
+     "title": "高市戦略17分野、国産ドローン8万台狙う 防衛省が大量調達へ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13M1lPcXlnb1dsUlZ5TGxqS1FoTFdGNGZpQlExSE1ORWg4ZHNjTkpROTVWbEJYSXNueTFLOUlFZzB2WU95Y2pacUpxWnNxZHRzbWpZWjRzdnhJWFhTVGNWQ0JGUFgwb3NBS1M5SA?oc=5",
+     "date": "2026-08-26T05:00:00+09:00"
+    },
+    {
+     "title": "国債や株、即時決済 政府・日銀始動へ ブロックチェーン活用",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNlFfZjdZRmRTRWFENmFlOEdMeVJTOUQ3ZjY0MmtBbWVtU2p0YmlmV1MwOWZodEQ0SUphMDV5TG1NZlNsbGF0UUttOVpmaFZFV0JXc0tIQ3A0amhabHEyR1hERDJ0RTBlSTl6TA?oc=5",
+     "date": "2026-08-26T02:00:00+09:00"
+    },
+    {
+     "title": "利上げは「棚ぼた益」か 好調欧州銀に課税強化論",
+     "source": "NIKKEI Financial",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDItWENtMWQzTEJYaEZIV24zT0RhMmU4dEtmUDRPN3lWWmZpa29RMmNyTWswSXh6TDZiUkpGTnNyMm1MQVh2dE9BN3hXejVkQTlOeS1scEwzTlNsaGNPa3Q2bHg1TW82bWdpcWdJZUgyVUdkM1RpRDdINmwya2ozOHhRVmJaZ0w4NGxMZE9rMkFPU3cz?oc=5",
+     "date": "2026-08-26T05:00:00+09:00"
+    },
+    {
+     "title": "編集者の視点 ｢米国がカナダに関税50%､再考の余地は｣",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QeHFVc0JONEFkTlRJMmIyNVU5N1VtbUtRVi03c2QzY2tHZ05jejhRS0doUldvb1dzcHNtVWc0VGxWSTNtMzlveUd3VkUyUU93N0lFOUVqTGNqOGoxcjVDSUszTWZrLTVBaDlxU1FhRXd4S1k0QjBnbjhqZk5oWXM?oc=5",
+     "date": "2026-08-26T05:00:00+09:00"
+    },
+    {
      "title": "【特許】浜松ホトニクス、放射ノイズを抑える電子検出器",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBrcHl2ZGJndjlNOTV5S21fMHJnbTBUZUdyX3pKbWhuRXVmejZuNGllLV9mNVBZU2NTeEE4OTFFQVlsUmdxXzJrdjFNZ19pZ1EtaXVxWW9qX0lHajlhU2dBbTU3WXV1N0FfeFNSS1hxTTF0QWhENUZTUDh2RkRQWjhJLTFwLXRFZkhWM1pqdnFkMXlPRkhMcDVwbl9QNlJ1TU9EdnIzbmJsejVE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkNsNWhtU1VxUHNRekdwZjhQNXdaRXJxdS1vaTBBQ3F3QzFhbGVCLTJHNmNGUlIxRXRlSWc4RktKQ2JhV01LVkFXeEtCRFRkUE1ldE8xOFYzZEU3N1o2NW1hS2RsQXVZMUJiTEJacDR2ZmI4VDlNcUNJZnFHTngwakRzOGlQRWM?oc=5",
      "date": "2026-08-26T05:00:00+09:00"
     },
     {
@@ -21,7 +51,7 @@
     {
      "title": "AI・半導体企業の株価、なぜ失速？ 米テック4社のデータセンター巨額投資に懸念",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3cwcTB2aUoxLVJXbXZWS3ZmRDRiMHlQWWJQaHN3eDNLVzZlVmViLTZhd3ViNGxINkpyVGZzZjhrR29uYnRYX3ZIZUhyZ3d5a1g1VDVhckF1TXY0OFZEQWNnejJMQW5udVJGVzNIZjJIZFU2X2NWUnNoRE1CRVZfT2pJdWU4Uml0Qm1UdndrNXplT25jdVJGZFJMbFRUNTNaRDln?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcVMta3J4TDJhUU43aXIzamNIazFBazJLdlhabDNLb2xZbUN4TDV4LXR0amhNZzdFQUxNTEJIR3dWUlhOWF9DQzFfbTlBcWx0akxFdzdwTXh3THdpekwwTlJ0NXA0T2U0NFdLd3lrVUFTQkQ1eUMyRnRQNGt1NWZ5d3RMQlQzTFJ0OG8ycWh4UXVkaVhBSGY4LVhYbzhoREU?oc=5",
      "date": "2026-08-26T05:00:03+09:00"
     },
     {
@@ -35,36 +65,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SdllfNHktbm1VbERlLTB5WkxxUzRSdFZ5V215dm5oUmlDSUE5TkRtNG5pWUt1OG8zWXIwS2twMXl5M09Pd1JtZmJfQ251eG1jSkVHcVJxRXlSV0RtanA1YUZGTmc1czNpUWdDTw?oc=5",
      "date": "2026-08-26T05:00:00+09:00"
-    },
-    {
-     "title": "国内産業ロボット3社が期待 ハンド進化の新潮流「視触覚」 - 日経テックフォーサイト",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGtXajV4R3h0eDY0REJpb0hidnMtSVBxNUpVS3dCSTZBa3FaNW9OYmJBd3lFTUZTZE5aZjNmQlRDODdDNHM3VVVxYjFsdGRTMmtaRVg4R0FSRHhpZmxSdmR6QWxLdncyR2xSQ1cyNGdQN05PcE1yWExnQi1jSFhuMTQ1emtsTTA?oc=5",
-     "date": "2026-08-26T05:00:00+09:00"
-    },
-    {
-     "title": "東京大学、タンパク質実験をロボット化 AI駆動開発の基盤へ - 日経テックフォーサイト",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3lsanFiSmVlb0pJZk8za3R2em1WUG5aaHNyRFNBb0FuWmJPMVFLejllcVpGSEt6MVdBTUVjVHczYTF6SC1URWJNdnBmLXQ1V2VrbWhCRVhRSG1BRXBacUtlNkdhSFJYZnZrSUtOMVpxN1dsa1ZpUFZzZllLWHdyYndHcnpldzQ?oc=5",
-     "date": "2026-08-26T05:00:00+09:00"
-    },
-    {
-     "title": "編集者の視点「ドローンで息を吹き返す新興電池」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmZDRnYxdy1KcWJ0NDZMVEJpWV8yRk15UzdTLVNNS0tWVmZCOE9NeTM2NWZZS09BWFBxSWJPNEhhYVRJY2MtSGZOME54NXV5TFltZHZhU0lhM2dNWFJIYXA2UjVERC1lM3lqNjU2dXRyNXVRRzR6VVN2c0tUU0Nxc1FUSmxoX1IxTW5yLXl6VkZhc3NkYnBrREpRYm1WbkNzdF9rZDBaUGswYVY1?oc=5",
-     "date": "2026-08-26T05:00:00+09:00"
-    },
-    {
-     "title": "編集者の視点 「バチカン、営農型太陽光で自給自足へ」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YRllWMEpDcmhjczhTQ3lTMVVqUWFoak5fbF9tN1YwX1RBSUNXQzNIQ2ZnbmMtMS0xcVNpWTM0TXEtVTZPbWVPNnpvWFRSMXhueEw4NzJnZXNHQ0w3QzBzdnRrQ0dvRENpeThvS1JiVVRFdFdCd3V3?oc=5",
-     "date": "2026-08-26T05:00:00+09:00"
-    },
-    {
-     "title": "Donald Trump says US to increase tariffs on Canadian cars to 50%",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iblhob1BYOG9zeEI0cVNzeFdsYy0tNUdiQmo4QjhCWWota2Q2UVU3dUFoMGZpUDdKcXlJZVZ0N1diUWJhSnA5TktWRUNZM3lRNTc3TnhyMWVYejF4ZmtWeFpBd3NLTkJ6dHhyZlNrczk4bEE3bU1N?oc=5",
-     "date": "2026-08-26T00:00:00+09:00"
     }
    ]
   },
@@ -80,6 +80,18 @@
      "date": "2026-08-25T17:20:00+09:00"
     },
     {
+     "title": "東京海上、株式を15分割 長期株主向けの優待も導入",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1majZpeWladkN5Tm5UYWV6Y0NQZVZ6Q3k1RGRLT3ZtRHBkS2Q5UEE4WUNEU3lZVGlhNjRfSWZzLVEtQk96SlhUZmo1YkF3WXNjTC1uUWxtZGJ4c2NMMzhsbkhLd3c2RnFMNFNjcQ?oc=5",
+     "date": "2026-08-25T18:35:41+09:00"
+    },
+    {
+     "title": "高市首相、ICC所長制裁は「日本の立場と相いれず」 支援継続示す",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pN3lYekVvN3VNaXpBQlJ1aUlvcV9ZRGEtTm10YzkzRW9KZnJRTEFqYW4wTTJ4ZWdJdjV3cVU0ZEd1MEpnMk1YSm9Pb0xaenFmeUo3M1dOa2cxcG1XNTdTVV83V0FxUF9qclc2Ng?oc=5",
+     "date": "2026-08-25T18:54:09+09:00"
+    },
+    {
      "title": "テラドローン、迎撃ドローンを自衛隊に納入 ウクライナの知見活用",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hd1NkdVQzbFlpcU9IQkVwQkRRclU1NXp2V0tWb0RLdEVGcjV3Z2gzOE1TTldrUmk1MmdYVUFhcE54OGJtOTREWktTeUNGT3dybnNWUEQxX015WnF5RFBOTEloVGZ3S0pjNHN4Mw?oc=5",
@@ -92,34 +104,22 @@
      "date": "2026-08-25T19:05:19+09:00"
     },
     {
-     "title": "ドル離れ「ディベースメント取引」再燃の兆し 金や仮想通貨にマネー",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfUS01aGxLSzFCUDhFZW5pSVlJZ1Zic0NyQ1I0cng4U2xQY0tXY09Ra3J5c2o1UVZrZFpZNm1rZ3d1REJzLUFuOUZtM0VWTmZ2SWtLYWJHMzM5bDcyX1dfWUN6Y25TX0VKWmZoTA?oc=5",
-     "date": "2026-08-25T09:04:54+09:00"
-    },
-    {
      "title": "「がんこ寿司」創業者の小嶋淳司氏が死去 こだわり貫いた商売人",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XNzQxYkhLZTl5TXp1WjhHVDZ1ODRjWFJpRWI2Vm9Xa19sSFA2WHRlV3JpT0VlcEx0anJFZ0YxWkp6Q1A1QlhHekpqX005UmszVWZZUmhORjhnUVBNdDlJeVRRdFQxdWk5cGFfOQ?oc=5",
      "date": "2026-08-25T19:30:38+09:00"
     },
     {
+     "title": "ドル離れ「ディベースメント取引」再燃の兆し 金や仮想通貨にマネー",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfUS01aGxLSzFCUDhFZW5pSVlJZ1Zic0NyQ1I0cng4U2xQY0tXY09Ra3J5c2o1UVZrZFpZNm1rZ3d1REJzLUFuOUZtM0VWTmZ2SWtLYWJHMzM5bDcyX1dfWUN6Y25TX0VKWmZoTA?oc=5",
+     "date": "2026-08-25T09:04:54+09:00"
+    },
+    {
      "title": "玉村豊男さん死去 エッセイスト、画家",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53VmZsNDN5eUdEVTlfQ2I2bWtRLXliMTJWbG5QSTZweGI1XzdjT0Q5dndKcVRzbURiYUZPanpaMWZza1FoVW5JeUJ1bDctRXJCd0tBbXZyY1BOd2VRV2V5TTd3YzFJZE93ZTdZWQ?oc=5",
      "date": "2026-08-25T13:02:51+09:00"
-    },
-    {
-     "title": "会計士協会、中小監査法人向け交流会を開催 連携や合併後押し",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSRXRqVmZqWG5UazNhRUFfZ2JHTlBSdG9LSDRBNUpZRlZwblFFcVVsNTE1SzlNWUNEa28wWmJVcnBxWmFIWDlIMmJILTlXYjFXUGItcDRFd0stYjBmTGs5NjFCS1JFaGFIcURxTw?oc=5",
-     "date": "2026-08-25T16:03:48+09:00"
-    },
-    {
-     "title": "「入れ歯難民」防げるか 歯科技工士の志願者減、50代以上が5割超",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QXJHLS1OaElwa2hPLUh2dm5fb0V5NjN2M3piMENvS1VGSkNKbnRDaDJ0cDJvSUk0RUlzRk80cC1ZRzgtVDhEWFBQbmh6TEJ1cWttZkhHUFFjbEhJUU5uX0tSOXBQbHdlMUpYbw?oc=5",
-     "date": "2026-08-25T11:45:00+09:00"
     }
    ]
   },
@@ -184,6 +184,12 @@
    "emoji": "💱",
    "items": [
     {
+     "title": "米ユナイテッド航空、米西海岸から沖縄・大阪に直行便 円安で商機",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aV9TSE0ydXpyNFhrb0RyWHR3TzFIQnQyZ1BMUUdDWTJodFR4NGFwUlFNbDRhdzV0d3FuTWlnZzZvZHg2YTFIOWd5RV9TNzc0b3ZkYld3LVZWNDUtQUxYRERQMEcyX2NZaVdxWg?oc=5",
+     "date": "2026-08-25T22:51:45+09:00"
+    },
+    {
      "title": "2022年の「歴史的円安の構図」再び 始まった原油製品の価格転嫁",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RLXUtLXNRWHZYclpkMkVrZF9mOWtjTkdCNDNIRnU2YVF3WEJuRDVYdWFrSEJraXBFQkdKZUh5ZmNjMnFyMmxLSWpuV1dxMmp3ajRlVmwtajIzX2IyNzRsOVVKUXd0Z3VDN0ZaNg?oc=5",
@@ -208,12 +214,6 @@
      "date": "2026-08-25T06:55:58+09:00"
     },
     {
-     "title": "東証大引け 日経平均は続落、488円安 日米金利上昇と韓国株安で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtN0JFbmdfcElWc3N5a0RZREtoX09UNEUtTGJ0bEpVbjFkMjVWNkN3NnhRMmhQdXlhMkNlblFjN2lkVUxtTTlzUTBwcG90eTRhbjRsRWdBXzUwdXV1bkVkU0hiVmYwbDdaRHA3Mw?oc=5",
-     "date": "2026-08-24T15:55:46+09:00"
-    },
-    {
      "title": "日経平均前引け 続落 47円安の6万5968円",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Y0VuMkV3MHVZallZLVgza2RSWk84VG96UGRHcmYzNVUycVdaMDdMNnlyV2NyQXZ6QjdTN1pqdmJSZUt5UUFqaWJCSDU0ZklBN0VPbDFPOXp6NFRvZEtMVUZEMkpUZENaZUZBbw?oc=5",
@@ -226,10 +226,10 @@
      "date": "2026-08-24T15:36:22+09:00"
     },
     {
-     "title": "米ユナイテッド航空、米西海岸から沖縄・大阪に直行便 円安で商機",
+     "title": "外為17時 円相場、3日続落 159円台半ば 実需勢の売りで",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aV9TSE0ydXpyNFhrb0RyWHR3TzFIQnQyZ1BMUUdDWTJodFR4NGFwUlFNbDRhdzV0d3FuTWlnZzZvZHg2YTFIOWd5RV9TNzc0b3ZkYld3LVZWNDUtQUxYRERQMEcyX2NZaVdxWg?oc=5",
-     "date": "2026-08-25T22:51:45+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90WnVCVUt2WGxZVmUwNEZDRERTOVF1WlFsNjRvcFBhd0RUVWFiQ2Z1eUpCQmhLUERxYUwxSDlNWmZyRUpLUFFsVy0zQ0tjSVBqUGt3N3Z2UldVSmNoM3dxbHVGWnBZYkhKa19MMw?oc=5",
+     "date": "2026-08-25T17:34:44+09:00"
     }
    ]
   },
@@ -239,16 +239,16 @@
    "emoji": "🏦",
    "items": [
     {
-     "title": "国債や株、即時決済可能に 政府・日銀がブロックチェーン整備へ始動",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BMFhtVHRNSURJejdJNVBDV3c5QW5NZnZzN1FKZzRSNktkcXNKVkpTbjhaSWRTWng0dmU0dTh2TzNINEI0Rm81RVQ2S3BqUnZDVTJUREMwRFVXLWQwX1JqVUN4MGtucXlURTl0RA?oc=5",
-     "date": "2026-08-26T02:00:00+09:00"
-    },
-    {
      "title": "神通力失う「ベッセント・プット」 金利不安、トランプ氏の覚悟問う",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVkwwWU1LQThuLWFnZDY1c1FmaE9ZZmRvMzNYRmtELWdOTDVrdC11TndhMzRHT2t6QzJ0VGk4czREbGlobldiZ01ZUVJKS1BTVmt3WXo5XzU5Y1R2eV9LMldWaEpsOXNob1NxZQ?oc=5",
      "date": "2026-08-25T11:00:00+09:00"
+    },
+    {
+     "title": "国債や株、即時決済可能に 政府・日銀がブロックチェーン整備へ始動",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BMFhtVHRNSURJejdJNVBDV3c5QW5NZnZzN1FKZzRSNktkcXNKVkpTbjhaSWRTWng0dmU0dTh2TzNINEI0Rm81RVQ2S3BqUnZDVTJUREMwRFVXLWQwX1JqVUN4MGtucXlURTl0RA?oc=5",
+     "date": "2026-08-26T02:00:00+09:00"
     },
     {
      "title": "NYダウ、続伸し140ドル高 米金利低下や原油安が支え",
@@ -269,22 +269,22 @@
      "date": "2026-08-25T22:53:12+09:00"
     },
     {
+     "title": "米国債に変化 中国のドル離れと民間の台頭、金利上昇しやすく",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIR2k1X3lHeHg0ZmxlUHJ1RGFZSWVqcDRBOVJWQTNCZVhWa0d0amF5X183VXpxanVLanU5U0UxTnBJVk9zZHZDVVl4eHI2UUVNZUMwRk9ZanRiR0NHZlBOVzRzbmtvZ3ZhelA5Mw?oc=5",
+     "date": "2026-08-26T06:00:07+09:00"
+    },
+    {
+     "title": "債券15時 長期金利、2.890%に上昇 インフレ懸念や米金利上昇で",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wT3FxTDlnM29UeEFYRVkwdW1adDhjYkZRTUhwTGp1VkJ4ME9DNnRVWVJNQmI3aHZscjlPdE1KUy1PY1Q4cHdzLV9pQ2RqdWVXUjdrRHNNdUxoNlhJUG1EUVRiZUUwbndaUnRCbA?oc=5",
+     "date": "2026-08-25T15:27:30+09:00"
+    },
+    {
      "title": "「適温」相場のリスクは金利上昇 AIが奪い合う資本の行く末は",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iWmNBN1g2N1RieHE2b0VYdzZjT1cxRnZ3dHU2eFQ0NEYwbFRCS2tBZlRVbnlOeFE2Y1RKcEVIYjBYUm9RX2pyZmVRbzYyX1drUEd5WTVyZTh6RmpSaXFlWFcwTWhXUUYwVkJsTA?oc=5",
      "date": "2026-08-26T04:00:00+09:00"
-    },
-    {
-     "title": "国債や株、即時決済 政府・日銀始動へ ブロックチェーン活用",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNlFfZjdZRmRTRWFENmFlOEdMeVJTOUQ3ZjY0MmtBbWVtU2p0YmlmV1MwOWZodEQ0SUphMDV5TG1NZlNsbGF0UUttOVpmaFZFV0JXc0tIQ3A0amhabHEyR1hERDJ0RTBlSTl6TA?oc=5",
-     "date": "2026-08-26T02:00:00+09:00"
-    },
-    {
-     "title": "日銀、利上げペース加速検討 元審議委員と有力エコノミストの見方は",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNTFpOG9NOEdzZW9qUTd2OUprMl9aODJGQ0RyRTRlLUtkZGwxY19IZlZoc2EyVGtRc084cEtONFNLeExHOHNVc3NJbGpCQWVHYjZWTUJxSlQydk9rdHE2QWRBNEluelJTUVRMZw?oc=5",
-     "date": "2026-08-26T02:00:00+09:00"
     }
    ]
   },
@@ -293,12 +293,6 @@
    "label": "外貨・ドル建て",
    "emoji": "💵",
    "items": [
-    {
-     "title": "債券15時 長期金利、2.890%に上昇 インフレ懸念や米金利上昇で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wT3FxTDlnM29UeEFYRVkwdW1adDhjYkZRTUhwTGp1VkJ4ME9DNnRVWVJNQmI3aHZscjlPdE1KUy1PY1Q4cHdzLV9pQ2RqdWVXUjdrRHNNdUxoNlhJUG1EUVRiZUUwbndaUnRCbA?oc=5",
-     "date": "2026-08-25T15:27:30+09:00"
-    },
     {
      "title": "米国株、ダウ続伸 米金利低下や原油安が支え",
      "source": "日本経済新聞",
@@ -312,16 +306,22 @@
      "date": "2026-08-24T18:00:00+09:00"
     },
     {
-     "title": "東証前引け 日経平均は小幅続落 日米金利上昇と韓国株安で",
+     "title": "東証大引け 日経平均は続落、488円安 日米金利上昇と韓国株安で",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWER3YnFHSUI1NkZpc2N2ek5HNTk0T3pTcDhRenIxclZyeXNkdFJoSkJuUENjQm9qcmRfZjd5MjVjbEFMelkyRE5ZWUdxdlhXRldiUThfbzQtTmxXSzZscmZGLWcyQ2JXZnZoag?oc=5",
-     "date": "2026-08-24T11:56:58+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtN0JFbmdfcElWc3N5a0RZREtoX09UNEUtTGJ0bEpVbjFkMjVWNkN3NnhRMmhQdXlhMkNlblFjN2lkVUxtTTlzUTBwcG90eTRhbjRsRWdBXzUwdXV1bkVkU0hiVmYwbDdaRHA3Mw?oc=5",
+     "date": "2026-08-24T15:55:46+09:00"
     },
     {
      "title": "グローバルＸ 超長期米国債 ＥＴＦ（為替ヘッジあり）[179A]：ETFの収益分配のお知らせ 2026年8月24日(適時開示) ：日経会社情報DIGITAL",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyQmdYYUhoTWxha0Q3SllNaWZ5S19kR0lzMzVmcnFTYlFxVGY2UFZKc2Z0bmZnNy1aaktENE01cWpIVlBBU3gxdmF2SVB2a1haNDM3REZsRV8tWlczb3ZFNFRjMHF1TTNHV3c?oc=5",
      "date": "2026-08-24T18:00:00+09:00"
+    },
+    {
+     "title": "東証前引け 日経平均は小幅続落 日米金利上昇と韓国株安で",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWER3YnFHSUI1NkZpc2N2ek5HNTk0T3pTcDhRenIxclZyeXNkdFJoSkJuUENjQm9qcmRfZjd5MjVjbEFMelkyRE5ZWUdxdlhXRldiUThfbzQtTmxXSzZscmZGLWcyQ2JXZnZoag?oc=5",
+     "date": "2026-08-24T11:56:58+09:00"
     },
     {
      "title": "ｉＳ米債カバ",
@@ -373,10 +373,10 @@
      "date": "2026-08-25T19:20:22+09:00"
     },
     {
-     "title": "【ご報告】大同生命保険株式会社より「ウォーキングキャンペーン」を通じたご支援をいただきました",
-     "source": "musubie.org",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVlJVzlNWm1MTlJRWnA1ckVUNDBKSnFFZzA1b1haWml1ZHZtZkJkYkVuWFhUaDJQSnJ6cTRNaU9iSTBubFhZQjhDdlJaQWQ0U0E2RGxOZk5sQQ?oc=5",
-     "date": "2026-08-19T11:30:36+09:00"
+     "title": "生命保険契約照会システムで利用者の一部情報が閲覧可能な状態",
+     "source": "ScanNetSecurity",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4emp3aTczVnI4My16bElRZTZ4dlNmWl9FZHRpejJHLWhsdWh6ekpuUS1Ba3BnN0ZJVDIxeHVQcTBlaVNYeGItdUJMbGNTZ1JiNUp2SG1HTXpYUDB0VmdTUlZxWlVFMzZIX0ZiSg?oc=5",
+     "date": "2026-08-19T08:05:06+09:00"
     },
     {
      "title": "健康経営及び健康づくりの推進に関する協定を締結しました",
