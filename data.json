@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T05:15:29+09:00",
+ "updated": "2026-09-04T07:57:33+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,28 +7,52 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "「正しい鼻のかみ方」にイグ・ノーベル賞、50年前の日本人研究",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3azd0bHhYNVBDQnZMY1RyODVLdDhwc3p5aHJRQ0dCNVhieGRLRDNWS1BHWC1uVjBwWm4zMkQwZmUwN1BXeEpadjU2Mzc2Nmhta1NDSldVRFhMWmJ0bkt0NjRCakEzNGlnX01xcQ?oc=5",
+     "date": "2026-09-04T05:17:34+09:00"
+    },
+    {
+     "title": "VW、5万人追加削減で一転合意 ドイツ4工場は閉鎖も視野",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBodGlRNGVURzVULWFqWFF5ZDBUMW9JY1BYVXA3eElEMnhoQnlRSGRwQ2VqX0pSWkljZzUwcUNUUXVSdzVDb0h3dVYyd0VkX1JIdmlzZkttMGtzUThRUzBnTlE2bWViZk04VFRPRA?oc=5",
+     "date": "2026-09-04T06:14:46+09:00"
+    },
+    {
+     "title": "NVIDIA､2兆円で米新興買収 多様なAI開発で半導体需要掘り起こし",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tS3lfQVh0N19nUzNZR1FtcWRld2ZlWkRwc1JpRHJUNjFpUS1xMXpQQjlmX1g3ZU5iTjJ6T0hOaDJyc0xtOEhRWEcxNU9DUGx5SURRaXVRUkJ4ZHpQbEphOXhGNUo5d3dzay0ycg?oc=5",
+     "date": "2026-09-04T04:48:20+09:00"
+    },
+    {
+     "title": "キオクシア、「双子の弟」サンディスクに劣る株価 足らぬ市場対話力",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44NTk1Q0NBTkZoSnoxdldVVkw5aUQ4YlJqRDI4SUZOT1JTalFEN3R4NkpZY05yRjdldEpkeUZ2ck82eC1UMGdBem5fcFNWaUhGRkF3dFY0bTJKMEdGUDh2cW5nSVlORXVLaUlkeg?oc=5",
+     "date": "2026-09-04T04:00:00+09:00"
+    },
+    {
+     "title": "NYダウ続伸、利上げ観測後退で624ドル高 NY原油は一時93ドル台",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NckRNR05RSUczOWN6NFRIYVlpMVVneVcxQnN2eEh3TFJERFpuOHJmWDF6aU9ENmFGWUF0eVIxc2dxMHdMZU5iWFlSMEhobmJqZVlxOHpWUE9idVlBSF9oZHVQTHFWb25QNEpnOQ?oc=5",
+     "date": "2026-09-04T05:33:12+09:00"
+    },
+    {
+     "title": "9月FOMCに向け揺れるFRB トランプ政権「利上げなら裏切り者」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbU5TN0VRenpnS3pHOW5EMEJDbmlmNXlGQm56Rmd0bHNDUkcwUTl5eDEzTjh2WEZMRGhMOXZyX2JFbUFiNThia2NVcVN4YkI3Rk1OeV9RQjc4UWI2OXRiS3ppTlN4RmhLVjNRNA?oc=5",
+     "date": "2026-09-04T05:28:42+09:00"
+    },
+    {
      "title": "「金利上回る成長」黄信号 財政拡張に市場の風圧、予算想定は4%超か",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JcXpLdm5VMEhFRURyVWFWTENLQmVxY1BIV2h1RV9XNGFZMDRGVjRXWVlvQXNTTmVkN19sanliZkVhc09kUk1jM0hhMk0zTWo2OTRGcG9uZHB3MFRfbUFNVDVQMVRGQUl4NXlKTA?oc=5",
      "date": "2026-09-04T02:00:00+09:00"
     },
     {
-     "title": "NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営",
+     "title": "円急伸2日で5円高、「円キャリー」巻き戻し観測 158円が分水嶺",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96QWhWZHVEV2RHN0VmNWgyeFNOMUpFT1A0aDZ4NHUwSURrTktXQWVaLXAtQXY2bm1kQmtDYWowRVU2VHVXSmwyQWRiTWF4VGM0aGFkX2xtRjVZcGQtZjF5dTcya25wQWVpZENaRQ?oc=5",
-     "date": "2026-09-04T01:13:41+09:00"
-    },
-    {
-     "title": "7月の米貿易赤字886億ドル、前月比2割増 原油輸出の減少が影響",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PQmZqWElKTThiSklQVnViQ3VxN003TG1MYk9zeW1TNnNYLTg0T2dZYm10djJOaUgzclFldUJxUkotRmhVN2oyUzRyblF4NE05clhhbkpEejRzSV9ZZWpYdExsRUhfR0RCUVlpYg?oc=5",
-     "date": "2026-09-04T02:02:36+09:00"
-    },
-    {
-     "title": "湾岸の米軍基地「縮小論」 イランのドローン攻撃回避",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NRklCSDNYMHl3X0xJSVVZQ00wYnhJT3NSUFBJRnU4VEVvcFZId0Z5QVRZSkVPNS1ZTGRfZjdxdFk5N2pZWmtRd1hvMjlMNkl3X1lzTERrdGZpanJVSUNsa0U2Ql9KNml6Mk5wdA?oc=5",
-     "date": "2026-09-04T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByb1RuSzVGUVJhT04tSnAxb3dPWTBlUHhROXc1UktfVmUwY1ZTTGpqOF80cWIyNlpTNXhtM0swbzlxR1JDRzdjMjNKZ2NoRkFISno4dWhMUkFxUFJ0UHNKeHN3WFBlRUowS1Vqcw?oc=5",
+     "date": "2026-09-04T05:40:56+09:00"
     },
     {
      "title": "米「1ドルショップ」関税還付を元に値下げ 価格競争へ市場懸念",
@@ -37,22 +61,10 @@
      "date": "2026-09-04T01:52:52+09:00"
     },
     {
-     "title": "米ISMサービス景況感、8月は1.3ポイント上昇 市場予想上回る",
+     "title": "金融庁、主要行の通年検査絞り込み ファンド融資・海外リスクに照準",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WkFlQWtuUFlHc1VGd09qbFRKZFNQOEh0eDA3YWQ0ZTFiOTFYdXVuc2ttWXc3TTJ0MW9EY0pvdUxSOEV0dm9OdXhweDZ6b1ExMmtLT1k5WXdzRDJCbURMUlNueDFWU0l1cmE2WA?oc=5",
-     "date": "2026-09-04T00:06:01+09:00"
-    },
-    {
-     "title": "イタリア銀行界、富裕層ビジネスで人材争奪過熱",
-     "source": "NIKKEI Financial",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSV9DS1RuVmIzQjdvaDJvSmFOTlFEWS0wazNXZnVIXy1mdk9nYXREdV80UGR0SnRLZ1NlSFI4NHR2STNvV3JoS1ZwY185RXoxTWoyMnVWVW1QY2lmbV9QSmNhSUZ0b21FNl9mMUtkWm00RjA?oc=5",
-     "date": "2026-09-04T05:00:00+09:00"
-    },
-    {
-     "title": "キオクシア、「双子の弟」サンディスクに劣る株価 足らぬ市場対話力",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44NTk1Q0NBTkZoSnoxdldVVkw5aUQ4YlJqRDI4SUZOT1JTalFEN3R4NkpZY05yRjdldEpkeUZ2ck82eC1UMGdBem5fcFNWaUhGRkF3dFY0bTJKMEdGUDh2cW5nSVlORXVLaUlkeg?oc=5",
-     "date": "2026-09-04T04:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HaGs0QndPaGthNEctamhWU3ZBa2QwQTBlRWxBRUgxbW1Dam81TjVjZjM0bUQxVk14eHNrSVRwR0F5TWhYY19KVVR4VjVpRTRXdDVIU2FmREktZlppUTNVbjBFZllYLXZpcWVkQQ?oc=5",
+     "date": "2026-09-04T02:00:00+09:00"
     }
    ]
   },
@@ -68,6 +80,12 @@
      "date": "2026-09-03T17:00:20+09:00"
     },
     {
+     "title": "大和ハウスの注文住宅、最低価格5000万円に コスト高で23道県は撤退",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ITEQ5b1h5OEdxdzJvWlZBTHVOSXhFZDRNRWZnYTRRQXllVE1oRTB6cks0UHlXUnNPcmpBZkxMT2hhN0JwZXBaaWpNOFY2UXg1Q01BMThPdDVJYlZWUUY0ZUEzWVVhd2R5WlBuTw?oc=5",
+     "date": "2026-09-03T18:00:00+09:00"
+    },
+    {
      "title": "中国バイトダンス、4兆6000億円借り入れへ 米通信社報道",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81bm01bWd2MWgycHBETm9BZGtjemJacHVvVjF3elZ4Ti15WERib05CQU92SEVDcjNjbTE5dGRmUzRxaWdaY2MyMjYybWdDdjc0Y19vS3JDTjJLVk01bnhLLTYyVDE3bVZEVzNNeA?oc=5",
@@ -80,10 +98,16 @@
      "date": "2026-09-03T23:28:11+09:00"
     },
     {
-     "title": "大和ハウスの注文住宅、最低価格5000万円に コスト高で23道県は撤退",
+     "title": "野村不動産がライブハウス事業参入 ロッテと新設、K-POPなど誘致",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ITEQ5b1h5OEdxdzJvWlZBTHVOSXhFZDRNRWZnYTRRQXllVE1oRTB6cks0UHlXUnNPcmpBZkxMT2hhN0JwZXBaaWpNOFY2UXg1Q01BMThPdDVJYlZWUUY0ZUEzWVVhd2R5WlBuTw?oc=5",
-     "date": "2026-09-03T18:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuMmlwMm9hak5vNkJXUWVydXkyTTNoaHpoa2lEc1F4elZVWGRab3F6RE5aa3dxa2dSdmxXME9JN0Fqdk9PbVVYWFB6NW5LYmpIeU1Ia3ZBYUxRcXZJSkZtdHZGa3Q0QVBYOExyVQ?oc=5",
+     "date": "2026-09-03T17:40:25+09:00"
+    },
+    {
+     "title": "円急騰し1カ月ぶり155円台 1日で4円上昇、円安是正に思惑",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZE80WWZ5d0pUSTA4Wm83bmtRcHhHQ3Y4dWpYaWFkaEpRdU5fUExIeGdKSUtXcW1nc1RYRTFSREVaVEZPOHVVYlI3eVR0c2tDS0huZ3REMHVuTmx4Rl9WUV9fYTNCREhOb2xYOQ?oc=5",
+     "date": "2026-09-03T11:38:12+09:00"
     },
     {
      "title": "東京大学の最終赤字57億円 2025年度、人件費や経費拡大",
@@ -92,22 +116,10 @@
      "date": "2026-09-03T19:08:28+09:00"
     },
     {
-     "title": "ASML、国内人員を4年で4割増 ラピダスなど先端半導体の量産を支援",
+     "title": "NVIDIA、米新興ハギングフェイス買収で合意 AI開発基盤運営",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd3VlMVUwVldJeU02UDY1aVVLeVNRd1pNYThmR1RFMFRIcXZaZVJwOG9oNEwxaEQyLWx6Mm12TnhIVXh6SVB5WVlUYkpwLUc2aGxSUDBPMXVfWjJNSDRzWEZFWWcxRjVZWk94ag?oc=5",
-     "date": "2026-09-03T18:30:52+09:00"
-    },
-    {
-     "title": "日本版DOGE「税優遇廃止」3件、財源捻出10万円どまり 要望段階で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwdnA3em0xLTNvand5X255RkJ3WXZ4bTFHVzgtTlg5QVFUX0FQRmVBeUhxZlpwdmxFRWtlSnVZdkd4YWhTcDhuV2ZKWU9KTE55WmQyaFFZclp6N21NaHZHd0RxMVNRZG92OGs0Qg?oc=5",
-     "date": "2026-09-03T19:38:47+09:00"
-    },
-    {
-     "title": "猫の腎臓負担減らす素材開発 不二製油、大豆たんぱくが腸内環境改善",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MYVpScHpzTlhuSVlua1ZydFBkWUV2NW5DZTBiX2htYjBoTk1lVV9KdjdaUUUtbGpfbEVKYklGVmFQNEFqYWF3cVFwMkFtMElfeFhQSFZ1a081VExpT0NMTl9XbmVGdklILUN5cg?oc=5",
-     "date": "2026-09-03T14:29:02+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96QWhWZHVEV2RHN0VmNWgyeFNOMUpFT1A0aDZ4NHUwSURrTktXQWVaLXAtQXY2bm1kQmtDYWowRVU2VHVXSmwyQWRiTWF4VGM0aGFkX2xtRjVZcGQtZjF5dTcya25wQWVpZENaRQ?oc=5",
+     "date": "2026-09-04T01:13:41+09:00"
     }
    ]
   },
@@ -147,22 +159,22 @@
      "date": "2026-09-03T14:54:19+09:00"
     },
     {
+     "title": "日経平均、反発で始まる 米株高で",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UV2ZxYVEwZ0g0d1RYNzZOUDFzVHd6d0F4RDNRT0FYclczbkgtUXhjYXR3cVVXS0xLZUI3Y0h1T3FfTWd5OW9YcFoyS05vd2NPZ1NtVTRjMDRHWTBQRWJ5bm9nTlViclBNU2J5WA?oc=5",
+     "date": "2026-09-03T09:08:36+09:00"
+    },
+    {
      "title": "三菱商事など商社株が高い 米バークシャーCEO「何十年も投資」（3日の株式市場）",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bkh6Q1BOQ3A1eVhlcHRXSlpmYXp5MTBVbGc1WnZIX3FPcXJ3bDBWODBsUXB6T0VWanlEckpiR0dObDFtQ0E4VjltcHdwLXd1VWVEVlFxT2dMdzV6aDJuaklEUU03eXdHWUNCeQ?oc=5",
      "date": "2026-09-03T16:30:00+09:00"
     },
     {
-     "title": "日経平均、終値1889円安 世界金利高でよぎる「うたげの終わり」",
+     "title": "日経平均株価、4日続落 終値は111円安の6万4214円",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wcEZNMlE1UTh6UVRJR0s0bkVsSW10c1hpamZPWVh2c2tDdDFKTk1yaHpMa0ZsX0ZuN3RBQXY4ZGRWNDJQNnpGYWtOajZmTmpNVjNGd01OckFXX1c3RW5IRWRyUTNJNXRRNE9BSw?oc=5",
-     "date": "2026-09-02T12:00:05+09:00"
-    },
-    {
-     "title": "「純正ごま油」かどや製油株価、ストップ高気配 非公開化報道で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ncThCbUluak9maWxsWEgzNm1zWk13M25FLTY0SWxicWpHQWtIV3ZJYjFMQVBpTFZFbVdXNFAzUzVnWUZMTXRZSndZRWhCTC1Vcmh5NnBvUEt3eWlRSHpMN0d3NlpLd3NDZXBtTg?oc=5",
-     "date": "2026-09-02T11:43:05+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oakVhRzBFUFFDS3JocWhyWDRWYWJnUFJXdXBLeFlKNDRSVU9yTXNhOFNSc0llejRrMjV6UDJPTHVyN2tKY3lDSGJqRklqSmV6ZV9mUGczZzdHczA2TGx4TUZCZmRRRmJZSEI0dg?oc=5",
+     "date": "2026-09-03T09:04:33+09:00"
     }
    ]
   },
@@ -172,10 +184,10 @@
    "emoji": "💱",
    "items": [
     {
-     "title": "円急騰し1カ月ぶり155円台 1日で4円上昇、円安是正に思惑",
+     "title": "日銀・政府次第で円高転換、円買い戻し視野 景気減速なら国債買いへ",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZE80WWZ5d0pUSTA4Wm83bmtRcHhHQ3Y4dWpYaWFkaEpRdU5fUExIeGdKSUtXcW1nc1RYRTFSREVaVEZPOHVVYlI3eVR0c2tDS0huZ3REMHVuTmx4Rl9WUV9fYTNCREhOb2xYOQ?oc=5",
-     "date": "2026-09-03T11:38:12+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRlg4b2tTUzJyaWZ6U1FaWTM4OExTbGF5U0R2U1dqenpsaTU0MmVIZzg4Z3VLRVZmOVpLcjRDNlNfR1lHUG5GREFHWldaV296Qk9TaUVYR0FZXzV1S2lTSFhacXFVWXZacVRXQQ?oc=5",
+     "date": "2026-09-04T05:00:00+09:00"
     },
     {
      "title": "外為17時 円相場、大幅続伸 一時156円台前半で1カ月ぶり高値",
@@ -208,16 +220,16 @@
      "date": "2026-09-03T10:31:38+09:00"
     },
     {
+     "title": "日経平均、終値1889円安 世界金利高でよぎる「うたげの終わり」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wcEZNMlE1UTh6UVRJR0s0bkVsSW10c1hpamZPWVh2c2tDdDFKTk1yaHpMa0ZsX0ZuN3RBQXY4ZGRWNDJQNnpGYWtOajZmTmpNVjNGd01OckFXX1c3RW5IRWRyUTNJNXRRNE9BSw?oc=5",
+     "date": "2026-09-02T12:00:05+09:00"
+    },
+    {
      "title": "NY円相場、反発 1ドル=158円65〜75銭 円買い介入への警戒強く",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vTUR1YU9mTF9kNkQ1M01FU1BGSkxzeWNDRzNiVHlyRUc1QlB6ZmZSbGVmdjdqOEtxY2xLLTVZZXF5Wk42SG93NXJValNRbnF0NG5raWk2R3l1QTN4RGNraWFHYW5UNUdzc1lGNQ?oc=5",
      "date": "2026-09-03T07:09:36+09:00"
-    },
-    {
-     "title": "外為8時30分 円相場、上昇し158円台後半 対ユーロでも高い",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83OS1JcDRHT1dzVjVuWVdOY1pvX1prUHJVWFNqZzRySE5KUElwNVpkWkZhVTVFWDBRVmJoYk9ZU2pGT0VXSEFHdjlxaFlFMTl1Y2Q4anAtcWtPTEI2VFhlb2NJcjFqVllESTNrTA?oc=5",
-     "date": "2026-09-03T08:55:51+09:00"
     }
    ]
   },
@@ -231,12 +243,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KUlNPdFhyU3FNaHM3aWVVcHZaOTZRY1ZjWFZZZ25sak9VbG1fZ0xjbUdIcHRqVldsVmRvRWlwM3NUUTlKNGRWa29COWVEWFhOQnhQOHpvN2pFY1Vkd3hOTWFNdUNSWllmQk9JWg?oc=5",
      "date": "2026-09-03T20:53:22+09:00"
-    },
-    {
-     "title": "金融庁、信金・信組の債券運用を点検 金利上昇で対策促す",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VRUhSSlpHdlVGakVNclBBMHh4a3pPZk9wRW1oTzRIcXp6N2RSLXZpVkRQY0l2SGF1elRGUlVDdUltaHplaHRIR3Zna1hYbGJvbnRzRkRrTEUzT2J2Z0IwSFhJVnZURzR5UVNtcQ?oc=5",
-     "date": "2026-09-03T18:20:01+09:00"
     },
     {
      "title": "日銀利上げペース、市場予想は「3カ月に1回」へ加速",
@@ -261,6 +267,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKcG9iVXY3Q3VydF9pQ0ExcVZnUlh0S1ZaZ3A4YUFEY0FlY0JnZXp4MjFwaDVKaGhzYUdlcTNZa1o5MHVsRGNuaktyN3pZaTZjQk1BZVNKOEd4LXFvOUFfUlpYTzctaU9VUThrOA?oc=5",
      "date": "2026-09-02T17:30:00+09:00"
+    },
+    {
+     "title": "金融庁、信金・信組の債券運用を点検 金利上昇で対策促す",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VRUhSSlpHdlVGakVNclBBMHh4a3pPZk9wRW1oTzRIcXp6N2RSLXZpVkRQY0l2SGF1elRGUlVDdUltaHplaHRIR3Zna1hYbGJvbnRzRkRrTEUzT2J2Z0IwSFhJVnZURzR5UVNtcQ?oc=5",
+     "date": "2026-09-03T18:20:01+09:00"
     },
     {
      "title": "長期金利3.01%超、止まらぬ上昇 日銀利上げ到達点予想が2.5%に迫る",
@@ -324,10 +336,10 @@
      "date": "2026-09-01T10:57:50+09:00"
     },
     {
-     "title": "米国株、ダウ続落し374ドル安 原油高と米金利上昇で ナスダックも続落",
+     "title": "米財務次官、日本の長期金利3%「米国債に影響多大」 財政健全化、重要性を確認",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRFYwNjJHYm54el9rNllHcXpZak1KM0Ria2R4MzRqTTAwUTFCSWNTendhRzlKTWEzRHNhRnBaTTlYQ0pxYUs4eGpDUEE4bmpGTWlBUy1pbVAxUkNTSWdTbFB2cEpMcXRSSUFlWg?oc=5",
-     "date": "2026-09-01T05:44:53+09:00"
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdlZnYmtPb0pjV2Mtbl9aZGFVVy1kTVduWmdCb3QzRzZjUzJGVldCbVM0VXB1S3N1dk1lbUdWNWJFVUZSWUdZcFRSamZJNlFTak53UlJRZW03OEI5V1BOVUJpeEhZRjF1a3RF?oc=5",
+     "date": "2026-09-03T02:00:00+09:00"
     }
    ]
   },
@@ -335,56 +347,7 @@
    "id": "yen",
    "label": "円建て・保険",
    "emoji": "🛡",
-   "items": [
-    {
-     "title": "明治安田生命保険相互会社様から、県民の健康増進及び子育ての支援のための募金が贈呈されます",
-     "source": "pref.niigata.lg.jp",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbGRNdlB6ZWtIQm9KMjBXVG5TbEVIVzk2UFNYQldJYVRpWlBWZVREOWFKWDF5bXZfdlpOQWowTUFLZ2Z4RTk3eDNseC1Qa1hNX2Ywbl93S2MyTHprSkpWeFNqbnJyRE90cTdLZ2owWV83TUNnclVueQ?oc=5",
-     "date": "2026-09-03T15:12:48+09:00"
-    },
-    {
-     "title": "明治安田生命、円建て一時払い「養老保険」利率引き上げ 30年ぶり水準に",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbmVEbVFZNVc2X2ZCOTVfd240MjlZTzBFNFBjWENrQW1ITHN0M2NmUlNPa21iMGRsNFhMZ2RMTk1tU2RqRGdOdHVnU3JDZTlwTk5xRmFIZnl4TE9CX0FpWlpTWDNndkUtemZXZQ?oc=5",
-     "date": "2026-08-31T17:30:00+09:00"
-    },
-    {
-     "title": "「オンライン診断書連携サービス」の利用開始について",
-     "source": "PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LQmNqMnJPRU4xUEg2WkRtMG9RdnNmdEtZLXRiWjNkNjNXc0xrREhrWUdKVVJBYkJnS0lKZWlrcENtaDE1S25ka25ZaE90VGI3bUFjZjdKQ2hETVI5TnRCT3VXNUhFUWdtcFE?oc=5",
-     "date": "2026-08-28T15:00:02+09:00"
-    },
-    {
-     "title": "明治安田、一時払い養老保険予定利率上げ 円建て30年ぶり高水準",
-     "source": "日刊工業新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uckN6TWI3cmNoMkctOTlncnhBdWNfX2xxRXZGcG1RSE5FMy1XMFRKQWoyYlNXMEhzVkRTYTRWZ1J6QWpFc3ZPYnFXLUJxSXBPa2dHWDF0eno?oc=5",
-     "date": "2026-09-01T05:00:00+09:00"
-    },
-    {
-     "title": "シカゴ225先物はドル建て65775円、円建て65780円（28日）(フィスコ)",
-     "source": "Yahoo!ファイナンス",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT19hZVNtTzBvbzZfQVo4ZVEyUmpRNndWUXMzbVVSSmdMYnRSWmRFSDlFZ29GUEFfdjRJT1A3LWpCQnMxcjBJX1hxZjRPSV9HQnlvQk5IbmV4YnE5SDhxbVJ4Q0h6QXpBT1BLelRDLWxiUFpMQ3hBTHpWRnJaZldvR091eWRrU2s?oc=5",
-     "date": "2026-08-29T08:09:00+09:00"
-    },
-    {
-     "title": "第一ライフが反発、ニュージーランド生命保険会社のフィデリティ・ライフ・アシュアランスを買収",
-     "source": "株探",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Uy1tZ3ZXRHZjZ2dsOGQ1X2JsVkx2NDBwOXNYZ1R0QjZyNXpWbXJMaC10cHNHMERzc0l1c2JyVnZ4QnlUTzNUa3loTm5oM1JOTnpmNkk3dXlvLVd1U1ozSw?oc=5",
-     "date": "2026-09-03T14:47:00+09:00"
-    },
-    {
-     "title": "兵庫・姫路市マンション男性殺害事件 生命保険金100万円をだまし取った疑いで殺人罪で既に起訴の男を再逮捕",
-     "source": "朝日放送",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iMTJWZTdET2ZBYzB5SExFLWZYdjFOdDk0cnQxbFJpX0MwaEROTnlBaUZMLTVscXl3OFNwVWZURERPdHZqNXJvU21weEppanc4cFdFcHZLQWZPMXp3WDZsdWd3?oc=5",
-     "date": "2026-08-31T21:23:00+09:00"
-    },
-    {
-     "title": "ニチコンが3日続落､ユーロ円建てCB発行で220億円調達へ",
-     "source": "四季報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14b2FTWlJ3a0dQbk1RekF5TE1BajVfREZ5LVk5YjUwQmg3TnBxRnFVTGJJbEphbmhfZ3RBd2l3YTVoZkVETmVoZ0phZHAtVXdCckNQWFlGWQ?oc=5",
-     "date": "2026-09-03T10:01:31+09:00"
-    }
-   ]
+   "items": []
   }
  ]
 }
