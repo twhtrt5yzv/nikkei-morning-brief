@@ -1,23 +1,11 @@
 {
- "updated": "2026-09-18T05:58:11+09:00",
+ "updated": "2026-09-18T07:40:09+09:00",
  "categories": [
   {
    "id": "asa",
    "label": "けさの朝刊トピックス",
    "emoji": "🌅",
    "items": [
-    {
-     "title": "トヨタ、内製ヒト型ロボ「エリー」40万台を工場に 従業員と協働",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUUJtUm9tVFJBdDR6NWF2TEk1cVpTVWM0T0ZTVzRzdGFXUFBHUk5lTzRaUWxTWWpyMUw4VFI3eEFOdzNjdkJJTTREN0RQTWRpZ05IV1pHWVJMMTFTTkt3SGNwby1QZFBFZVlQUQ?oc=5",
-     "date": "2026-09-18T00:00:00+09:00"
-    },
-    {
-     "title": "チャールズ英国王、AIで「存亡に関わる危険」 NVIDIA首脳らと議論",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5URmFQRlRiLVhRQ1dkX25XVEZwNXI2VUt1aDlkcXByYVFjb0FDMzRmeEE2cDI2Ni1qeHR4MkU4TTd2YnVNVjloQlV4MWUzaGF5M3VJZTV6ZnQ5eFQ3RDFfN3JNdTE4T2RkZjV0aA?oc=5",
-     "date": "2026-09-18T03:16:51+09:00"
-    },
     {
      "title": "トランプ氏、23日に習氏を直接出迎え 歓迎式典を開催",
      "source": "日本経済新聞",
@@ -28,25 +16,55 @@
      "title": "NY原油、6日ぶりに一時100ドル割れ サウジの供給拡大に期待感",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2MDdZN19OdThTT0UzcXo5cFhvTUVDVUY0OGRPLXNlRWI5cUlhMWVjckc5N1JOVnUzR1Azdk45YWREMXNBcXI1d0hNZjJUb1dYSWN4NVd0R0N0X0JLYXVzdVpwOTdNOWRvbE8zbQ?oc=5",
-     "date": "2026-09-18T04:46:24+09:00"
+     "date": "2026-09-18T01:52:57+09:00"
+    },
+    {
+     "title": "半導体株「バブルじゃない」 データセンターの新展開で需要大幅増",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUy03QlZXZVZwQzROQ1Q1Z3I2clpIQmUyd2x5MGtxNE5ic202YmpwVWV4TVBaSlZQSlJXWlU2WEdnMFZ0bHRuWWZtbTRZbnBaNmQ1V05CbGtOd3NkeVRTWkI5YV9rT2V3VVI4LQ?oc=5",
+     "date": "2026-09-18T04:00:00+09:00"
+    },
+    {
+     "title": "決算:LINEヤフー、シナジー不足に投資家不満 カカクコム狙うも懐疑的",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NYVVBQW1OdU81a3k3dGNudUVPVlpWVHRSWTVQN19HYXZtNThKT1NfRTJaX0VkSWhZRDcySVFTRFlfOWhDX2hRYTZzWlJIdzBGSkdqeDRhcFFGS0xNczNTNmlTc1Y2b05xZlNDbA?oc=5",
+     "date": "2026-09-18T05:00:00+09:00"
+    },
+    {
+     "title": "チャールズ英国王、AIで「存亡に関わる危険」 NVIDIA首脳らと議論",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5URmFQRlRiLVhRQ1dkX25XVEZwNXI2VUt1aDlkcXByYVFjb0FDMzRmeEE2cDI2Ni1qeHR4MkU4TTd2YnVNVjloQlV4MWUzaGF5M3VJZTV6ZnQ5eFQ3RDFfN3JNdTE4T2RkZjV0aA?oc=5",
+     "date": "2026-09-18T03:16:51+09:00"
+    },
+    {
+     "title": "トヨタ、内製ヒト型ロボ「エリー」40万台を工場に 従業員と協働",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUUJtUm9tVFJBdDR6NWF2TEk1cVpTVWM0T0ZTVzRzdGFXUFBHUk5lTzRaUWxTWWpyMUw4VFI3eEFOdzNjdkJJTTREN0RQTWRpZ05IV1pHWVJMMTFTTkt3SGNwby1QZFBFZVlQUQ?oc=5",
+     "date": "2026-09-18T00:00:00+09:00"
+    },
+    {
+     "title": "〈Market SCOPE〉米利上げでも底堅い金相場 渦巻く財政懸念が下支え",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80T3NGUXBlV3BjUTZGSVZaNWtJQlRpUG0wbldTM1E2LUwzQ3FmbGZzUDFPTjJCaDZPaHRCZk9PdXlIM21ZaG5HUFh0bnFVakNGcFBWYkcxejNXamp5bmpjeGZfZHZhSllsNnh4Vw?oc=5",
+     "date": "2026-09-18T02:00:00+09:00"
+    },
+    {
+     "title": "福岡の水産卸、アジ・サバ輸出拡大へ 島根に80億円投じ新工場建設",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MdlpZcVRoUUd6cVlyX0h2THJwQ3hKUU1hWVhudTBucW9hdGRfTHQ2a1BmamVuVTVtSGlwbHhhX2NrWjVBNGxBNHBzZm5TdFJDSjRyWEo0RWxXX3lSZHNLQml6MGw2V3JxTUpoNA?oc=5",
+     "date": "2026-09-18T05:00:00+09:00"
+    },
+    {
+     "title": "「日本はフィジカルAIに勝機見いだせ」 ジェトロ理事長に聞く米国投資",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UkdLMFFBbjFtT1hNV2FEN21UYnpoTGNWOHhUY0J2S0hpWUNfQndDb2xZMlhLVHVZREJQMVdMTU9GUDRISm85Tm8yZmhQX3czc2U2QXR3UV9GQnRMUGhLcGNVY25ibzVwcmQwVg?oc=5",
+     "date": "2026-09-18T04:03:01+09:00"
     },
     {
      "title": "概算要求143兆円、霞が関が「ショック」に配慮",
      "source": "NIKKEI Financial",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzBIWVNQZU1KdTRLX25Lc1pOS1Q4UnpVWTZkdzBEMzJEa0ZwMklFX1pFalJWQ2NPNXloYklmSmNjZXdZcGtacmtGLW5lMF9nU0o1MVNDd1RDNmRJYUM3LXUxcmpyUmZDNU5SeGFGcU9zYnZzUHlDQWg0aXV6ako4cENVXzkxcnVKdFdRVVRJbmZuaDd2Zy1sMg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWY1bHZfV3I2akp5UDBGbXF6SW9zTndHX3lGX0ZTZE01eVdmVkR0bGZfUmY1cHJjbXFJOVVSWlFvcUxxRnc2eWhtSElTbTZjUl82ZHIxRmxaMVF5ejFHWXBtZUtkQk90ZE5aZ28wTDhoblNGSXRBOGtBcjExVXlEWW10YnNFdy15ZlkyVVBYaTg0QWFt?oc=5",
      "date": "2026-09-18T05:00:00+09:00"
-    },
-    {
-     "title": "8月の米住宅着工、予想下回る ローン金利上昇が重荷に",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aYmsxNVZYZjhuYTF1U21LZHNtck4zek1CY3JDRW1xa0FQM3UybXlFTXRXYklaQlRBT3kwemdMVUdualh5QjhHdGZXMUZabWMtMXdHTW9uVndVZUEzWWpPVDdjakhCdElCamg1dw?oc=5",
-     "date": "2026-09-18T00:10:22+09:00"
-    },
-    {
-     "title": "高市早苗首相、改造内閣発足の記者会見要旨",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VUlhYVlc2VERvSHBGN3EtZ1duenoxVWxHQjIzdk9yTFhGRWtmTmdNNlhzQ0FPV3EtYmllMkpJeUJHaDJVZi1iUE9Ca0hnMEpMenNwSHJsN2xsSU8zS3pyUDN6SXZ2WTVEcW5pSg?oc=5",
-     "date": "2026-09-18T00:00:00+09:00"
     }
    ]
   },
@@ -86,6 +104,12 @@
      "date": "2026-09-17T17:00:00+09:00"
     },
     {
+     "title": "東京エレクトロン、スポンサー付きADR開始 米で投資家層拡大狙う",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMDlncnFuaEpaRm1QZHp1TTEtLXZfc3Q4TnNPaE9CZk5fdkctUVlRTXIyN1d6ckRtV1c1TjhmcnRDWW5BZE1iRkVPanJiaVdxd3lNV0J3OVZnWGIteXRFalRZcWpHdHd4VUxTcw?oc=5",
+     "date": "2026-09-17T20:23:23+09:00"
+    },
+    {
      "title": "半導体関連情報を中国企業に漏洩か 愛知県警、旭化成元社員を逮捕",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03dkxLWlplOUZ0TEUwb3FOZWlFbHVfUFpzTVNzck94UXF3SjhUUkw4aTRpZ1dyNlpIbkgzU0ZtQmtzUUlSZ0gtSmxGaXNxa0xPQ1BjaThJWlpPNm5GUHdMZnBtNElQSGdpYXN6UA?oc=5",
@@ -96,12 +120,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bd2ZCVkpOMXFfOGNwRS1qSW1WbG8xVEVfQ3ItVk15am5NSmszaThpamxoU2lNaUlqbGhNOGFubjRYd2YtSC1ISlhDT1NQaV80NUxwTFdNMHhZM1k1SGJKcHV5S0w5UXVDWjU3dQ?oc=5",
      "date": "2026-09-17T10:52:49+09:00"
-    },
-    {
-     "title": "プロ野球:ソフトバンクがパ・リーグ3連覇 福岡移転後初めて",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YdUxRWFFJdjJrZnEwX0sxNms5dld0RnozRUUyeGdJTEszYnluNU1mSzFXWG9FblZKUVFheUJ1TWFHX3JhY2IxZ1JIbl9zQXBhQWFDZFRxZVh6czlyNWJwZV9iSzEzYXc2SGZhbQ?oc=5",
-     "date": "2026-09-17T21:13:05+09:00"
     }
    ]
   },
@@ -153,10 +171,10 @@
      "date": "2026-09-17T14:22:52+09:00"
     },
     {
-     "title": "東証前引け 日経平均は小幅続伸 自動車や金融が支え",
+     "title": "日経平均、続伸で始まる 一時700円高 AI・半導体に買い",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CZWxhRVpKNVZRSUFjZWdEWGtPTzVRSkxsb2xpaW9vR2REa205d0g5TzY1RnhXQWJGSS1mMDNiWnpKREg2TVZRRnUxTUJVT28zM0RCWk93REh6ZGhtdTdmMG1Mc1AycUJzX1l6ZQ?oc=5",
-     "date": "2026-09-17T12:03:12+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uYV9taTBHX0o1NXBCYlk3Ymh5Q2xURDhjVnBTVVpJVFlqYWtEVzhnQ25KTmlCeDRQVTkxU2Q3RWN3UHRCeVdpQTVGWk1nQ2k1c0wtQkNDeUVPQXBFdzc5QW1lM3YwWldBZzNTYw?oc=5",
+     "date": "2026-09-17T09:10:41+09:00"
     }
    ]
   },
@@ -282,7 +300,7 @@
      "date": "2026-09-18T00:00:00+09:00"
     },
     {
-     "title": "NYダウは反発、一時400ドル高 原油安・米金利の上昇一服を好感",
+     "title": "NYダウは反発で始まる 原油安を好感、米金利の上昇一服も支え",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12NG5xWUxkT0JwemROdDdWQVNidzZ3TDdERFJCdF9LNWpZM0hSUHgwMG54WGVpUkFnWVp0N2NtblYzdWhGaUF3YkNnSjFkOFpNdkEtT1hhbjZiN1pkM2VtelB6UmQ5T2prZDBpTA?oc=5",
      "date": "2026-09-17T23:15:53+09:00"
@@ -329,7 +347,56 @@
    "id": "yen",
    "label": "円建て・保険",
    "emoji": "🛡",
-   "items": []
+   "items": [
+    {
+     "title": "日本生命保険相互会社と健康増進にかかる連携協定を締結しました",
+     "source": "city.mine.lg.jp",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZW1DNDJqUE1XVzBVaGxLazNFQldwamtlTkphRlJkdWtqMjdfZXp1TEhZWTJuRElWWjBFQ3JUdjU2R2V3WmFiR2lIOXdjM1NZYVJqRG4wa0N4b1dXUjFDSjFCTjc1U2ZaMGN2M0JBYm5NdnlVcEZUMDVhaDNtZFlDdnFNTElhdnBZejR3NA?oc=5",
+     "date": "2026-09-11T09:00:18+09:00"
+    },
+    {
+     "title": "保険事業 オリックス生命保険 社長メッセージ│オリックス株式会社",
+     "source": "orix.co.jp",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFA0VjhidDVYaFpfRDlHSVExTVhOSFNPeWI2cGZBbnBubUVJLUxEQzJWYkFfaFpXNXZnMWZ1d0ZSMy1UTWlLSUNvS2lSaUpmVXlrWDh6R3pLcDNPZ25HU0dqWVF3N0toZTNVSlJHNGNkOUZOb0N1MlJTdU9BMk4zbExBaDM?oc=5",
+     "date": "2026-09-11T15:43:33+09:00"
+    },
+    {
+     "title": "タイの生命保険市場（2025年版） - nli-research.co.jp",
+     "source": "nli-research.co.jp",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91a1dRNV9HUHFLNmM4Qy1LRDhyZGZzTjF3NGVWREhTNnZoWVBWa2tFUDVaOWpFU2tXR1Z6eWxaeW8xT0xxQ1VUUkE1SUJvZkZ3Y3lLakkxNFJjbXZxTFU0THE2SnB4QlJiNFNEVGN0MWF1MnNpN2w1c1RvM2VSZ0HSAX9BVV95cUxPdWtXUTVfR1BxSzZjOEMtS0Q4cmRmc04xdzRlVkRIUzZ2aFlQVmtrRVA1WjlqRVNrV0dWenlsWnlvMU9McUNVVFJBNUlCb2ZGd2N5S2pJMTRSY212cUxVNExxNkpweEJSYjRTRFRjdDFhdTJzaTdsNXNUbzNlUmdB?oc=5",
+     "date": "2026-09-15T12:59:38+09:00"
+    },
+    {
+     "title": "ライフネット生命保険[7157]：執行役員の異動及び担当変更に関するお知らせ 2026年9月16日(適時開示) ：日経会社情報DIGITAL",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TNmV6dHM1REUwd0ViQjVrVHJoX0RNQXpqZnl4dU01d19PRkg2clVMQzdNbVRiXzdRVUxXT21pTEl5Ukh4QWZLUlF0MjRMTXlMWlhOOS04eEE4ME1uSnFpSml0cE1rR2QzdXc?oc=5",
+     "date": "2026-09-16T16:30:00+09:00"
+    },
+    {
+     "title": "急増するニセ警察詐欺を防げ 佐賀県警と生命保険協会、特殊詐欺被害防止で連携 JR佐賀駅前でチラシ配布も",
+     "source": "佐賀新聞",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DLXFBZThoQmhSMkozNFlvWFJqSk91VzFtTE01VUVMYW5fVURmNnVvNVRHRFA0ekRHejJHYWtPTDdxVWtBamwyVlFzbTVjYzBMSTRTS2xB?oc=5",
+     "date": "2026-09-17T20:00:00+09:00"
+    },
+    {
+     "title": "生保で広がる「資産集約型再保険」、バミューダ籍の再保険会社に巨額の国内生保マネーが流入する真の理由とは？",
+     "source": "ダイヤモンド・オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzeDhUSHJHWVBnSlhvZkNkUjh4MU5Mak5PYTFKYlFhLUI5RENaVXN2em9zYUh6WWFLUW02cjJ4cjlEZ3lIcDdvbUpwdk_SAU9BVV95cUxQa1FUa3FjdEExd0NZNG9OSmFuYWN3MTJhQnNoQTVMVVlsQTM1WjBtbXVnWHVUWGE1Wk85ZTM0bnlOSmljdEFaZkI4OF9TSlZV?oc=5",
+     "date": "2026-09-15T04:50:00+09:00"
+    },
+    {
+     "title": "プルデンシャル生命保険で漏えい 元社員が１５００件持ち出し | 全国のニュース",
+     "source": "福井新聞社",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sbEZ6NTY4RXVwaW1JbmJBemQ4UExKZnRQVGpaX3F3MVFBNDFrbld0ZHpnRzFudUJkVzVVWk5JV0hLR29YSDBxVWdYMjJTU3hQakRfRkFZdTBodzh5cEE?oc=5",
+     "date": "2026-09-14T17:23:23+09:00"
+    },
+    {
+     "title": "《2027年卒業種別人気》金融は日本生命保険、商社は伊藤忠商事、マスコミは博報堂が昨年同様首位。レストランは吉野家が首位。",
+     "source": "PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVOWRQUllhUlJ6LTVPM0owemhzckExZmZhcWxRZ2ctd0tRSXV5Ql9JM09DX3VnNHZSYUVtN1d6YU9vMTRYaU8zYTAzYXZQVDdsZG9vbUd2NHlzNElucWxUd3BCNi1ENVY2bHc?oc=5",
+     "date": "2026-09-14T07:00:01+09:00"
+    }
+   ]
   }
  ]
 }
