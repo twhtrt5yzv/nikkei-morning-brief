@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T05:15:07+09:00",
+ "updated": "2026-09-24T07:40:10+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,10 +7,22 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "万博跡地開発、応募ゼロ「シャレにならん」 国際観光拠点は霧の中",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQzFKU085SHpMNzhzTEJ2clNOOTdidWdpRHRaMmN6V0MyT3JfVTZCNl9Gd0stLUpwVi1xNjQtb3lRbFotYlNLMllpQTdYTElqcTFibEhMa1lBMG1HdmpkSFV5SnJ5UFJwRnEwSg?oc=5",
+     "date": "2026-09-24T02:00:00+09:00"
+    },
+    {
      "title": "全日空機、乗客ら158人緊急脱出 エンジントラブルで那覇着陸",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3YURnUjlJUlZWOHhuck9kcUx2Wkp5UnRaUFI2NGFCdjNaX3RMemNsUm8zdXVuUVVkQnRFRUFUbVdNbWM1WU1RYlJCZjJnbmw1ZXdFT0lWWktxbWVndXQzRlBCbE1uVnRUNFd2RA?oc=5",
      "date": "2026-09-24T00:42:27+09:00"
+    },
+    {
+     "title": "メタのAI「ミューズ」登場、旅行予約や金融株が急落 顧客離れを懸念",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YclQ0VVgzX3RQZWlJMXhPR2lkQXB1OElVMmtmckVoZEp2cjlWRy1hcEEtZmJkcGJfV09pRzZNYlhPRDFydGxGSktoNm9XVTVsbGdxVV9mVGhDR3IybDBiWnV3NTBrT3NyYW5zVA?oc=5",
+     "date": "2026-09-24T06:05:43+09:00"
     },
     {
      "title": "JR九州、銀行・証券サービス参入 SBIと提携し総合金融アプリ",
@@ -19,52 +31,40 @@
      "date": "2026-09-24T02:00:00+09:00"
     },
     {
+     "title": "テスラ、ハンドルなし自動運転タクシー配車開始 新型ブレーキ採用",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Yc1M0dEQ3bnpaeEZTdlBIZFhjTmNUSVRYbEtzcUUxdXBzaG1BekxMTDVsaUFmS2FwSHVVb21MdllrUG5DQU9qWVZQU1ZtVjRnZWZ5S0Qwc2RncWZxMkVQeS0xTFBUdDhTMjlfQg?oc=5",
+     "date": "2026-09-24T05:00:00+09:00"
+    },
+    {
+     "title": "デジタル庁から伝わらぬ危機意識 サイバー被害、公表まで2カ月",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WWWNJSWZrZFFyc0FRV3IwQ2dFS1RQZGJsNFJOdkNVazhQdTh4VHJKYmZaWDNoV0hhbUgwVnlvN2hNam1XMjNDVmpTckN0eTNrR3YwTEhNcTc2QXAyMVpUSUd0bnNKM1l5WHZ2NA?oc=5",
+     "date": "2026-09-24T05:00:00+09:00"
+    },
+    {
      "title": "ルビオ米国務長官「プーチン氏をG20に招待」 米ロ外相がNYで会談",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQYTFxb3padGNvSUhTYzlqSFFJOFp2bFhSVUZQRUhaT2M3X0hvWXpfSy1abFh5aUxhRFV5b3FoVmJqSG5YM3JkRFk0RDNPaF9BYzFsQkNWMUx3NFFlRzFFbGtlVTk5TlJOY2JucQ?oc=5",
      "date": "2026-09-24T01:01:58+09:00"
     },
     {
-     "title": "万博跡地開発、応募ゼロ「シャレにならん」 国際観光拠点は霧の中",
+     "title": "出版で広がる小ロット印刷 品切れ防ぎ在庫抑制、広済堂が新サービス",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQzFKU085SHpMNzhzTEJ2clNOOTdidWdpRHRaMmN6V0MyT3JfVTZCNl9Gd0stLUpwVi1xNjQtb3lRbFotYlNLMllpQTdYTElqcTFibEhMa1lBMG1HdmpkSFV5SnJ5UFJwRnEwSg?oc=5",
-     "date": "2026-09-24T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ga3I0NzBucjF0cURVQkJjcGF1em9aS2ZBeDZoM1NfYl9pNjA3ajZtcWIxcllYM2VEZEhpUjBUNXYyeU5rd2djU3pyY0dHanJFSmdQaWVzZGs3WHRoWklnSWpxc09SaEhOajdEUw?oc=5",
+     "date": "2026-09-24T05:00:00+09:00"
     },
     {
-     "title": "ギフテッド教育、支援拠点を拡大 「才能の伸長」「困難の解消」目指す",
+     "title": "ドラマ「VIVANT」爆破映像にAI テレビ局、制作コスト削減へ活用",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14YmN6aXFnaks5NWVSR0tubTducExTSnlKbFJSRndCQlJuSlREb0hERzB5NnBMaWJNSzIybnBOT1hVOUg4MG84cDRPQmJjWUxnWG1EU0dXZ3Y2b0lNRHZNUVFqdDZUek9GdzJ3MQ?oc=5",
-     "date": "2026-09-24T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRQ015VENMR25WakNqSmc2QUpKZWxPaWNHeXpERFA0d1NsOHp1WEJZQUF3RzB0Y0U4UzdRSjJxWmN0TTdhUzEtWlhkM0hsc1FDenM2ODVkemZmNnptYjQ5dVRVZnZBN2JISnk4Uw?oc=5",
+     "date": "2026-09-24T05:00:00+09:00"
     },
     {
-     "title": "教育現場、生成AI使用の全面禁止が必要 酒井邦嘉氏",
+     "title": "米マクドナルド、世界の加盟店に1.3兆円投資 AI使った店舗支援導入",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObm9zRTMzemU0WTkyNVFaSDQ2eUxhckxRUkpva0R1a0dRTm5CMVdFM004ZjItb2lQajk1d0Q5SkNRMGpfMW5nTDc4U3U1b3pzb0NDcjQ1b0tSWnRwTmJhNWFoRGFNMGQ2dHBfbg?oc=5",
-     "date": "2026-09-24T02:00:00+09:00"
-    },
-    {
-     "title": "9月の米製造業景況感、4年4カ月ぶり高水準 価格指数も上昇",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50V2UwRDZFaGpkMlBRaGFZckJvX2ZzalR3YXhGRDVnMFl5dmVYS1ZnM1VLbFd2Z1FOWTltZks1QWxrNHBFNENZVzdvRF9jVjdNX3JfOTZ4aWtUMEZoY2pnZGNUVWxLMGFSTkhDbQ?oc=5",
-     "date": "2026-09-24T00:15:41+09:00"
-    },
-    {
-     "title": "英ポンド、対ドルで2カ月半ぶり安値 景況回復せず利上げ観測足踏み",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50bWpGRHc1S2JMbGxEVXp4dnY0S2E1N09NS0VVVDg2dkh6VVhZNVc3eERwVXZGMHY3NTk2Q01JVDVZRFd6OENQVDRhYlJOeXNGNlBaRUMxNmJNWXZUaDFyQkl3YjZxVlpudUNRTQ?oc=5",
-     "date": "2026-09-24T00:49:04+09:00"
-    },
-    {
-     "title": "トランプ氏、軽油輸出禁止を検討 中間選挙控え価格高騰に対応",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JUjFnLV9PTW4wTERib2d6TllLQTFLdnpHMS03VHZIeEd6TjhrMlVWWEV1WFRBU09YTi10RXR4RGYtV0k3cVQ0ZGxQRDJtRTJ3dW1ha0kwZkJ6c3l2d25TbjA0bU1kdWhiNGFsQg?oc=5",
-     "date": "2026-09-24T00:54:55+09:00"
-    },
-    {
-     "title": "ロンドン外為23日 ユーロ、対ドルで一時約2カ月ぶり安値 良好な米指標受けドル買い",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CZnRxclJ1dWUwV0hBa2REanhyR0dKQ0NLX3VENTU5YXRaWVdfTGxCWjVVamVCX19WWVp6QTVUSmNQQXJYSHNQNVFrMEtBSEJJME1rNkw0WmlfQ2V4SjNGQnJKSExfZC1TWjQwZw?oc=5",
-     "date": "2026-09-24T00:37:49+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xYnNBLTdjUFFlUXBaellGMTlFaTNEX3gxR1JtMDVMMWdjTUZjMTRuVnJDbWlGbWQtRThVNHFHeUZZbXNibUM3RmhzME9yQmVsTXlZeDdhLUh0a0NGMWZSeWFUeTZFc0ktOElBcA?oc=5",
+     "date": "2026-09-24T04:00:17+09:00"
     }
    ]
   },
@@ -80,10 +80,10 @@
      "date": "2026-09-23T20:13:28+09:00"
     },
     {
-     "title": "円急落158円台、レートチェック前水準に 米長期金利5.1%に上昇",
+     "title": "難関国立大学の入試「脱・学力一辺倒」 東北大や東大、面接・書類重視",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdlcyV2FnWUhMemhwdUlvVTZZNzBybXNaZG5GZGtxV2tncFU5blh1ak8zc0NWMkVYaTBBSVBqQnl6UnlqQ0d0YlJoSUxFcmJoZGNkQTliUWw0VVVtZzJrMTNZYmltTVQ1eEFDRA?oc=5",
-     "date": "2026-09-23T23:03:57+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzS010NTRfQ2xCSi04cXhVTFFnaEZzOXBmaHlTWmdKNmM2Vm9BRThreE81YkUtMVdHSW5OeHdUUG9UVmVNZ3FuRF9TTk1LMERGX3FDdEV4eVQ3WjVWbGgwcVctV05nMGpKWWdYcA?oc=5",
+     "date": "2026-09-23T18:00:00+09:00"
     },
     {
      "title": "中国、国連憲章の旧敵国条項は「現実的意義」 削除提唱の高市氏に反論",
@@ -92,10 +92,10 @@
      "date": "2026-09-23T18:18:03+09:00"
     },
     {
-     "title": "難関国立大学の入試「脱・学力一辺倒」 東北大や東大、面接・書類重視",
+     "title": "円急落158円台、レートチェック前水準に 米長期金利5.1%に上昇",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzS010NTRfQ2xCSi04cXhVTFFnaEZzOXBmaHlTWmdKNmM2Vm9BRThreE81YkUtMVdHSW5OeHdUUG9UVmVNZ3FuRF9TTk1LMERGX3FDdEV4eVQ3WjVWbGgwcVctV05nMGpKWWdYcA?oc=5",
-     "date": "2026-09-23T18:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdlcyV2FnWUhMemhwdUlvVTZZNzBybXNaZG5GZGtxV2tncFU5blh1ak8zc0NWMkVYaTBBSVBqQnl6UnlqQ0d0YlJoSUxFcmJoZGNkQTliUWw0VVVtZzJrMTNZYmltTVQ1eEFDRA?oc=5",
+     "date": "2026-09-23T23:03:57+09:00"
     },
     {
      "title": "日立、オーストリアの鉄道信号システム受注 30年で2300億円",
@@ -110,10 +110,10 @@
      "date": "2026-09-23T17:32:28+09:00"
     },
     {
-     "title": "ロシア国防省、ウクライナのJT工場を攻撃と発表 負傷者なし",
+     "title": "ノーベル平和賞の有力候補にICC・ICJ オスロ国際平和研究所が予想",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYnhGVE9adkc3ZGQxUUJYTEVhUUZjX0x2VDVuNVVTRGRxWThnQ0ZXZjBBdVpSTTcyX1lVZUwyVUZmR1B2V2JoS0ZqdDdwV2xfT0lYcVRpUGhKUWtJdVIydXo1djVYdW1rYUJhQQ?oc=5",
-     "date": "2026-09-23T20:12:10+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTHA5MjZ2V3FHWTJQM2NTaHF5YUxMQWwzSWtWNnJZWk95TGlwZlc1T2dJRkdFbUwxV0NNckRYcFZiSzd6NnUwOFAxUEwwZTFIME9wTUt5LTN6d1JGM195YktxdmFBZnhYMEEyRQ?oc=5",
+     "date": "2026-09-23T19:41:08+09:00"
     },
     {
      "title": "中国当局がKimiやDeepSeek調査 AnthropicのAIに機密情報転送疑い",
@@ -141,22 +141,22 @@
      "date": "2026-09-23T06:13:27+09:00"
     },
     {
+     "title": "今日の株価材料（新聞など、19〜24日）ソフトバンクG、外債1.7兆円発行へ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZ05wOUJnM05oNmZKSzd5cDZZZHhnX3ZJWU9TZXpwY3Y1WXhYTzJ3NlpqckdNLTFJcllVQ29saFlvNzJsdGtQb1o3Nkw3d1NaeVprelBHWTZ3NkNQOUNwTE14bWVXbHlJR1E1Uw?oc=5",
+     "date": "2026-09-24T07:17:05+09:00"
+    },
+    {
      "title": "日本株ADR22日、売り優勢 銀行の下げ目立つ",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRlhWeFRHajRuWDhEXzFDOU9ZMWNPQVdBUzBOZ1dfR0NYX1RJb1psUXpCMVN3TXdoa205TmJacy0yd3ZQWnFsWTNOUTZiWG8yNkRUWDU2d2swU1VMbjFGZl9mODFaeHY4YW1uTQ?oc=5",
      "date": "2026-09-23T05:25:58+09:00"
     },
     {
-     "title": "日本株ADR21日、ほぼ全面高 三井住友FGやみずほFGが上昇",
+     "title": "米国株、ダウ続落で始まる 米金利は一時2007年以来の高水準",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTmhYY285ZkZEeS13V3hvWUluMU9XUE9WZTVjMkMxZEs3WDU1QUVkY1ExclNRY0t1a2hoVGw1LTR3OWVoXzJVX3Z5MG5QUEdpSXJXOGN5OFZnTVo3cDZ3bkY5dVdxR0lJZERaXw?oc=5",
-     "date": "2026-09-22T05:43:11+09:00"
-    },
-    {
-     "title": "日経平均先物、大取の夜間取引で上昇 1280円高の6万6380円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoc1VPMVhXbE5aMFY0eV9TTDRrVk5oRXlYaHJQc1RGbWNHejZZSkItNzRmVnpWOE5MNElTamV3SUN6cFVVNjNpU3AwLXhhaURONnFQUXE5bjhORExkVUJoWDVCcFVoQWp3NkliZg?oc=5",
-     "date": "2026-09-22T06:20:30+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMzNjM1VMbXRZdXBROHZxZDAxN1dqa3hiSlhIN0loOHNEeVFvdENrVEZLUnpfdDl4d3o0aC0zbmdJMklxZFU5VkV1WlJyeTdQeFRaeDFNT2RkY2U0TXVoYm9WMWhNSkpTaFFSNw?oc=5",
+     "date": "2026-09-23T23:28:41+09:00"
     },
     {
      "title": "ロンドン株23日 小幅続落、原油値上がりでインフレ警戒",
@@ -171,10 +171,10 @@
      "date": "2026-09-24T02:30:52+09:00"
     },
     {
-     "title": "シカゴ日本株先物概況・21日 日経平均先物は1440円高の6万6400円",
+     "title": "ロンドン株22日 反落、銀行に売り 中東巡り様子見も",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tRnU2WEhMRzlQSGlRM291RnM1T3VyZjdMUTN0Y0JTbks4VTJhSVRwN1hiLU9nMHVlcTl0b1EtazBiRXRZekNMNXd1a2VTeml2UWpWbGowNHBYVncwclhMaV91QkhpTVd6eUtJWA?oc=5",
-     "date": "2026-09-22T06:02:40+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJNWxrQ3hfdWJ0Y2s5a2FZYlNyVlhZanpHWFlhVHdPQ2Fsd19nZGZFRWFxQmRyby1hMmp0QVhORllPY19McXlWWm43VnhfNV9kZ1FnTmZuRzFYUjFpQXJJZkpzY09EUXFWblE4cg?oc=5",
+     "date": "2026-09-23T02:21:25+09:00"
     }
    ]
   },
@@ -190,10 +190,16 @@
      "date": "2026-09-23T06:51:37+09:00"
     },
     {
-     "title": "NY円相場、続落 1ドル=157円30〜40銭 中東情勢や日米会談を見極め",
+     "title": "NY円相場、続落 1ドル=158円30〜40銭 米長期金利の上昇が重荷",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54UEVLanJyVmpyclJDdVVFWW8wbko4RUNSajRfRFU0Z3JvUG9hVUdjelExc2V0VVJ0N29xVFljTFVVTWhDQzV3Rm4xc2dRYnZ2bWtucTNfSnI1Mm9sRE9PYnVoYmtxNFF1Rmk0SA?oc=5",
-     "date": "2026-09-22T07:00:48+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWnBBalBlTGlqNWQ2ak45VHJYZ0hWdzlvWVBodXVJVXo0ZVZfZURpUmRnOHFGMUdNTk5tS3VESnhiR0FfSUZPd280ZXVGRC1MS25La2xTdkx3d3NJcTNVYlB1Z0xQYWwtdng3ag?oc=5",
+     "date": "2026-09-24T07:04:22+09:00"
+    },
+    {
+     "title": "日経平均先物、大取の夜間取引で上昇 840円高の6万5940円",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SG9uUTFhR0NQYV9SLUZlcnB3d3h3YzRLQUc0ZlBZVzBIR0hUQkdGdGQydENYMUczVmZRQ0lLNVlPY2JjblFyMW5NWDJ0TllpMkhhb0VXVGQ2OXI5TkFRWXB3UHRlSDZJdnBxTw?oc=5",
+     "date": "2026-09-24T06:14:03+09:00"
     },
     {
      "title": "ニトリHD株が戻り歩調 「ねだん以上」の新商品目当てに客足戻る",
@@ -224,12 +230,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zVGNCTFV3YWoyYl9jUW9JOTFOYXpRTjBIVVR0WDFNT2pZdmRreEVQYmRIUnNobFYwT3YyY1BTbnJVRTNxdGNTZ2dFSWVjQm5DMHNSUFF6VURKd090a0JEYkxnRy1vcVEzLTh1TTROVmRvdWJ3dE5BOXlDWTQ2UQ?oc=5",
      "date": "2026-09-23T22:36:24+09:00"
-    },
-    {
-     "title": "ロンドン外為22日 ユーロ、対ドルで下落 原油下落でドル売り強まる場面も",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tLXZwQk9yQmZFSUxXVFh0cXQ3S19uUlItckdraXpmRkpEY0JzOFNQZ2E2VGo0WXI0ekJ2VExCSFFHeU5wZEVVOU5ZSjZodXVHVnNzR1Zia0RmQzBlS2xrRk5oRE1yTE9BSGhIcA?oc=5",
-     "date": "2026-09-23T00:50:17+09:00"
     }
    ]
   },
@@ -239,16 +239,34 @@
    "emoji": "🏦",
    "items": [
     {
-     "title": "米国株、ダウ続落で始まる 米金利は一時2007年以来の高水準",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMzNjM1VMbXRZdXBROHZxZDAxN1dqa3hiSlhIN0loOHNEeVFvdENrVEZLUnpfdDl4d3o0aC0zbmdJMklxZFU5VkV1WlJyeTdQeFRaeDFNT2RkY2U0TXVoYm9WMWhNSkpTaFFSNw?oc=5",
-     "date": "2026-09-23T23:28:41+09:00"
-    },
-    {
      "title": "ソフトバンクGジャンク債に発行額2倍の需要、10%の金利も 米報道",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhaFBFeUJqcnN2NGhUNkEzSjdJZlZISDhRY2pZbkFZbFNMU3lKRTdKVGgxeGtuTVc4SjR1Xzk4c2xqbmlVWEJleEhETXNXOERJNzBmMzdHemFsMGI5Zy0yZmxkSUROQ2tPcnFyaA?oc=5",
      "date": "2026-09-23T04:55:27+09:00"
+    },
+    {
+     "title": "野村・奥田健太郎社長「社債市場をもっと大きく」 金利上昇にらみ拡大",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JMHZrQ2lyOXZiWWhGSWkwX18wY1V2eDhVTjdIZFZfWUxFZGxrZmdfeTEtTEpDX253VWRDRTFTVmFDLXRYX3NKZnRFU1pTc3JxNUZ6TUNfbXJNTllsUGU0QzRXb21QQ3owUFdnSA?oc=5",
+     "date": "2026-09-24T05:00:00+09:00"
+    },
+    {
+     "title": "NY株ハイライト 米金利急騰、リスク資産に打撃 原油高で一段安も",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zR1NONmFVaHVKUjdsbFNVeFdJOS14anhRTDRXUGl0YndrYXRad0FLX2xpTm5QUnpNTVZ4bm1tZjVVQlEtcXduODNSbUxOWDdvTTVmMHpMS1BxbG1DbkxXdUk5RjU4VUZYcEVibg?oc=5",
+     "date": "2026-09-24T07:05:02+09:00"
+    },
+    {
+     "title": "NYダウは続落し352ドル安 米長期金利上昇を嫌気、持ち高調整の売り",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aR0FqQlBNdkVFRWY4dy1JWXlYem5FZm9Pb3lEQ2hlS1RMSWlBR2VPcjJuVU1sOUxFaVNSQ05nZ1ZxbXhjbklIdi10UGl4WjIyRWowWnB1ZzJER2NIRXE1NjdHZVRVVXJ3MWIyQQ?oc=5",
+     "date": "2026-09-24T05:32:30+09:00"
+    },
+    {
+     "title": "米国株、ダウ続落 米金利急騰を嫌気 米利上げ観測が重荷",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IY1c4Yk5zOVRWTTR6czIxNXRFVUlfZ1dXdm5vanBDOElld3JiSVlEOEZBREQ3eXYxQ1Z2RWRfRzVILWVVNTlKWlNLbjNrSWY1NjFhZUZwcWtiVFl4TldLQTZUZmltQ0duM01RVQ?oc=5",
+     "date": "2026-09-24T05:06:07+09:00"
     },
     {
      "title": "欧州国債概況23日 独10年債利回り上昇、欧米の利上げ観測で",
@@ -257,34 +275,16 @@
      "date": "2026-09-24T01:19:41+09:00"
     },
     {
+     "title": "米国株、ダウ続落し352ドル安 米金利の大幅上昇で ナスダック反落",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTmlnTXNoUXJVVzNiRkpjdVQ0eUdGV3g5RThkUjgwQ0R6R01QMk9FTExnNDNCckcwbDBwbkYydENTTllLZXBIT0xoZVFiaE9QTUdpQlVUMFpER1ExWFZXeWFqVVlFWG11STlUNg?oc=5",
+     "date": "2026-09-24T05:26:01+09:00"
+    },
+    {
      "title": "直言居士の大酒飲み 日銀国際局長・河西慎",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PMlVFUmlmQjRZbmhGV1pjNkgzZktueTU1eGhuZnRBdFVvdmFkZS0xMlRlRzdIYTZIMkxBejgwWDNnNzNvM3V5MlozYllVcTBtQnFCRHlTUHNNM0kyWmlITFdSXzJ6NTRHZkUycA?oc=5",
      "date": "2026-09-24T02:00:00+09:00"
-    },
-    {
-     "title": "英長期金利が一時上昇、5.2%台 8月の英財政赤字が予想上回る",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYXpDOFluVGlkNU1UT3dDUUVmWWJwWE9KMHZpYU9INnpVaWdOdnY2SXM4MkQxSkZwajRrYTJDdThJN3pGeDNLY2RqQ0pteDRmRDNfb3ptWHo3OVdJZEJUX19BczItelIyM2RXTg?oc=5",
-     "date": "2026-09-23T02:15:01+09:00"
-    },
-    {
-     "title": "欧州国債概況22日 独10年債利回りは横ばい、原油下落は相場支える",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XOHpqLXg5VEYzbU5YNXFuZHZ3eUYwdnVMeG50YWJ3RzJNUDctNDNVaXZnS2ppb0tfNWl6YmRHME5xcU5DOU11ZGg4RnZKeVREcG1DRlA2SlE0ZkpiUTdLNGhNeENtcGFqdEdaVQ?oc=5",
-     "date": "2026-09-23T01:52:12+09:00"
-    },
-    {
-     "title": "金利急騰下の針路は NFインタビューまとめ読み",
-     "source": "NIKKEI Financial",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DZ1V2TmJRNGliX2pfaDVMODhISTVYM1dCY0ZHd2w1QUdCbVUtSm4tRWtOVi16NjAzRndFQ0pjSmtkLXJQM0tLNU1fS3RhWWFIVEVDaW5CdGgwVkt2bG82ZmUwaGdORGZXdUxKQlo2aG4wZm8?oc=5",
-     "date": "2026-09-23T05:00:00+09:00"
-    },
-    {
-     "title": "野村・奥田健太郎社長「社債市場をもっと大きく」 金利上昇にらみ拡大",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JMHZrQ2lyOXZiWWhGSWkwX18wY1V2eDhVTjdIZFZfWUxFZGxrZmdfeTEtTEpDX253VWRDRTFTVmFDLXRYX3NKZnRFU1pTc3JxNUZ6TUNfbXJNTllsUGU0QzRXb21QQ3owUFdnSA?oc=5",
-     "date": "2026-09-24T05:00:00+09:00"
     }
    ]
   },
@@ -293,12 +293,6 @@
    "label": "外貨・ドル建て",
    "emoji": "💵",
    "items": [
-    {
-     "title": "米国株、ダウ続落 米金利急騰を嫌気 米利上げ観測が重荷",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IY1c4Yk5zOVRWTTR6czIxNXRFVUlfZ1dXdm5vanBDOElld3JiSVlEOEZBREQ3eXYxQ1Z2RWRfRzVILWVVNTlKWlNLbjNrSWY1NjFhZUZwcWtiVFl4TldLQTZUZmltQ0duM01RVQ?oc=5",
-     "date": "2026-09-24T05:06:07+09:00"
-    },
     {
      "title": "ソフトバンクG、1.7兆円規模の外債発行へ オープンAI出資に活用",
      "source": "日本経済新聞",
@@ -312,10 +306,28 @@
      "date": "2026-09-24T00:00:00+09:00"
     },
     {
+     "title": "原油高より怖い「ディーゼルショック」 インフレ解消ますます難路に",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kS0xlOTloem9ZejgzU2lpNENBSE1JXzJSYXdlT1VlZmxKV0VsbXFmRjBqOEJ6a1RGc25JZGl2MkowODVfdm5FdVpzZUt1NDFKcTBIZTZOXzBNcmlISjV4T2hfT09hUXVTRnEyeg?oc=5",
+     "date": "2026-09-24T05:41:05+09:00"
+    },
+    {
+     "title": "NY債券、長期債大幅続落 10年債利回り5.11% 米インフレ懸念で一時07年以来高水準",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VW4yalg3SHByUzFTVXZoU0lTVHVjYUlUdURqMGdueU9xV3lENFBUbFZDOFNCRFhWNHRzU0xYTTFDSlM1dUFNT3l4dmY1cjlpd1hhMUkyWVB2VWVET0hPenhHcDRIV2xVZG9XTQ?oc=5",
+     "date": "2026-09-24T06:16:23+09:00"
+    },
+    {
      "title": "米国株、ダウ反落し185ドル安 持ち高調整の売り優勢 ナスダックは最高値更新",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NGdpVHpHRGpGRGNmb3BsRXlKOVluOGl1T2NIdVR5RHdmRVY1bmx1bGJHcjBtd2hkdWtyOEV4M25HZGdlUVJsRVFmeDZTTTdnWW1RdHIwUUlwWXZHN3NJSjNGNFBMSnhZYy1qMg?oc=5",
      "date": "2026-09-23T05:53:20+09:00"
+    },
+    {
+     "title": "NY債券、長期債小反落 10年債利回り4.96% 金融政策の不透明感が重荷",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YN1Q0d1I4RVRYQlBsOFdZUkpqNnNqakRqZ2lteUxKanh6eko3T2xTWDhaZmk4Sm9yYXlyVkRWU2dKYjNIMlM5TElSdGE3cTJtZWxmS3FneFJUYXEzTnRQRHFyMWtCSFRibmtpZQ?oc=5",
+     "date": "2026-09-23T06:13:49+09:00"
     },
     {
      "title": "米国株、ダウ一進一退で始まる 原油安支えにハイテクは高い",
@@ -328,18 +340,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTXdUX05TWWJsQldQUDJmQlo2cFFKdDQwdjdoOGduWWVUYmNKaGRPcEZlTlJ5U01XRFZWVU8wQ0FKWTRXdGJfOFNKcEkzTDZ5S3ZvZlotVXpjb3JjX2gtZHVEQnE0U1dmWmtNQw?oc=5",
      "date": "2026-09-22T06:07:29+09:00"
-    },
-    {
-     "title": "トランプ氏、「ICCと取引禁止」検討 米報道 制裁強める",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRREw5VHBYR2dOd2E5cmN5OXNjd29WMzFYY0NlTkkwQkZHNkVxSG16amQ5dVdrb29kV2l1VlNwSTczZUVkOEliNGU3SlRGZTlCN2pUeU05dWJmT0d0ZEYxY1hSOXFHa3BPYnlScw?oc=5",
-     "date": "2026-09-22T02:00:00+09:00"
-    },
-    {
-     "title": "NY債券、長期債小反落 10年債利回り4.96% 金融政策の不透明感が重荷",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YN1Q0d1I4RVRYQlBsOFdZUkpqNnNqakRqZ2lteUxKanh6eko3T2xTWDhaZmk4Sm9yYXlyVkRWU2dKYjNIMlM5TElSdGE3cTJtZWxmS3FneFJUYXEzTnRQRHFyMWtCSFRibmtpZQ?oc=5",
-     "date": "2026-09-23T06:13:49+09:00"
     }
    ]
   },
@@ -350,7 +350,7 @@
    "items": [
     {
      "title": "日本生命保険相互会社 シルバーパートナー契約締結（継続）のお知らせ",
-     "source": "veltex.co.jp",
+     "source": "VELTEX SHIZUOKA",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTLVB1cTJnLXIxNXpoYUJfR0NlNEF5X01RX1c3SXBkSW1MT003ZUp3TDlfektUT1E2Y0lqNDBwU0FxR29SVGxydkVEWVYtSkFfOVJF?oc=5",
      "date": "2026-09-22T09:59:17+09:00"
     },
@@ -391,10 +391,10 @@
      "date": "2026-09-22T05:00:00+09:00"
     },
     {
-     "title": "保険営業は「顔を出さない方が売れる？」はなさく生命が仕掛ける「テクノロジー×人」の“非対面”営業戦略",
-     "source": "ダイヤモンド・オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oZlc4bDN0UlFLdDQySThNZDdUS3JLOW83TWVnUlVKNUppekVhcHRDTXBxY1I1WU5LbEhBblFaSTUxa2Q0NU9SZnphaVM?oc=5",
-     "date": "2026-09-24T04:50:00+09:00"
+     "title": "円建てCME先物は23日の225先物比1045円安の65925円で推移／先物ＯＰ市場ウォッチ(フィスコ)",
+     "source": "Yahoo!ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGt0RkZvbC1YeDlWcEt1cVRTSURwc3BaVW9Mbi03WUhfUkdacjM0RkgxcWN4N1lYZFAwVkdtNVRVRG0xY2lDM1RGZFZETldsa2RkclBFUGo4N2ZBcGZkSEt3RmZPRUxhcmJfbGd1LXZaVVo1X0xrMjl4THVyVU9FWWxpcmFOTmc?oc=5",
+     "date": "2026-09-24T06:51:25+09:00"
     }
    ]
   }
