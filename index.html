@@ -303,7 +303,37 @@
     padding-left: 8px;
   }
   .digest section:first-of-type h3 { margin-top: 4px; }
-  .digest h4 { font-size: 13px; margin: 10px 0 4px; color: var(--ink); }
+  .digest h4 {
+    font-size: 13.5px;
+    margin: 14px 0 6px;
+    color: var(--ink);
+    background: var(--accent-light);
+    border-radius: 6px;
+    padding: 5px 9px;
+  }
+  /* ポンチ絵（Mermaid）：描画後はSVG、失敗時はコードをそのまま表示 */
+  .digest pre.mermaid {
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 8px 0;
+    overflow-x: auto;
+    font-size: 12px;
+    white-space: pre;
+  }
+  .digest pre.mermaid svg { max-width: 100%; height: auto; }
+  .digest .mermaid-copy {
+    padding: 5px 12px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: #fff;
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .digest .mermaid-copy.done { background: var(--ok); color: #fff; border-color: var(--ok); }
   .digest p { margin: 6px 0; }
   .digest ul { padding-left: 20px; margin: 6px 0; }
   .digest li { margin: 3px 0; }
@@ -585,6 +615,7 @@ async function loadDigest() {
     const d = await res.json();
     if (!d.html) return;
     $("#digestBody").innerHTML = d.html;
+    renderMermaid();
     const g = new Date(d.generated);
     $("#digestTime").textContent = isNaN(g) ? "" :
       `${g.getMonth()+1}/${g.getDate()} ${String(g.getHours()).padStart(2,"0")}:${String(g.getMinutes()).padStart(2,"0")} 生成`;
@@ -599,10 +630,79 @@ async function loadDigest() {
   } catch { /* digest.jsonが無い間は非表示のまま */ }
 }
 
-/* 端末内の音声合成で即時読み上げ（音声ファイルが無くても使える） */
+/* クリップボードへコピーしてボタンに完了表示 */
+async function copyText(text, btn, label) {
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand("copy");
+    ta.remove();
+  }
+  btn.textContent = "✅ コピー済";
+  btn.classList.add("done");
+  setTimeout(() => { btn.textContent = label; btn.classList.remove("done"); }, 2000);
+}
+
+/* ポンチ絵（Mermaid）を図として描画する。描画できない図はコードのまま表示 */
+let mermaidLib = null;
+async function renderMermaid() {
+  const nodes = [...document.querySelectorAll("#digestBody pre.mermaid")];
+  if (!nodes.length) return;
+  nodes.forEach(el => {
+    el.dataset.code = el.textContent.trim();
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "mermaid-copy";
+    btn.textContent = "📋 図のコードをコピー";
+    btn.addEventListener("click", () => copyText(el.dataset.code, btn, "📋 図のコードをコピー"));
+    el.after(btn);
+  });
+  try {
+    if (!mermaidLib) {
+      mermaidLib = (await import("https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs")).default;
+      mermaidLib.initialize({ startOnLoad: false, theme: "neutral", securityLevel: "strict" });
+    }
+    const valid = [];
+    for (const el of nodes) {
+      try {
+        if (await mermaidLib.parse(el.dataset.code, { suppressErrors: true })) valid.push(el);
+      } catch { /* 文法エラーの図は描画しない */ }
+    }
+    if (valid.length) await mermaidLib.run({ nodes: valid, suppressErrors: true });
+  } catch { /* ライブラリを読み込めない時はコード表示のまま */ }
+  nodes.forEach(el => { if (!el.querySelector("svg")) el.textContent = el.dataset.code; });
+}
+
+/* 端末内の音声合成で即時読み上げ（音声ファイルが無くても使える）。
+   ポンチ絵・改善ポイント（section.meta）は読み上げない */
 let speaking = false;
 function digestPlainText() {
-  return $("#digestBody").innerText.replace(/https?:\/\/\S+/g, "").replace(/[▼・]/g, "").trim();
+  const metas = [...document.querySelectorAll("#digestBody section.meta")];
+  metas.forEach(s => { s.style.display = "none"; });
+  const text = $("#digestBody").innerText;
+  metas.forEach(s => { s.style.display = ""; });
+  return text.replace(/https?:\/\/\S+/g, "").replace(/[▼・]/g, "").trim();
+}
+
+/* コピー用テキスト。描画済みの図は元のMermaidコードに差し戻して含める */
+function digestCopyText() {
+  const swaps = [];
+  document.querySelectorAll("#digestBody pre.mermaid").forEach(el => {
+    if (el.dataset.code && el.querySelector("svg")) {
+      swaps.push([el, el.innerHTML]);
+      el.textContent = el.dataset.code;
+    }
+  });
+  const btns = [...document.querySelectorAll("#digestBody .mermaid-copy")];
+  btns.forEach(b => { b.style.display = "none"; });
+  const text = $("#digestBody").innerText.trim();
+  swaps.forEach(([el, html]) => { el.innerHTML = html; });
+  btns.forEach(b => { b.style.display = ""; });
+  return text;
 }
 $("#btnSpeak").addEventListener("click", () => {
   const btn = $("#btnSpeak");
@@ -627,22 +727,8 @@ async function loadShiryo() {
     $("#shiryoSec").style.display = "";
   } catch { /* shiryo.jsonが無い間は非表示のまま */ }
 }
-$("#btnDigestCopy").addEventListener("click", async () => {
-  const btn = $("#btnDigestCopy");
-  const text = $("#digestBody").innerText.trim();
-  try {
-    await navigator.clipboard.writeText(text);
-  } catch {
-    const ta = document.createElement("textarea");
-    ta.value = text;
-    document.body.appendChild(ta);
-    ta.select();
-    document.execCommand("copy");
-    ta.remove();
-  }
-  btn.textContent = "✅ コピー済";
-  btn.classList.add("done");
-  setTimeout(() => { btn.textContent = "📋 コピー"; btn.classList.remove("done"); }, 2000);
+$("#btnDigestCopy").addEventListener("click", () => {
+  copyText(digestCopyText(), $("#btnDigestCopy"), "📋 コピー");
 });
 
 /* ================= キーワード絞り込み ================= */

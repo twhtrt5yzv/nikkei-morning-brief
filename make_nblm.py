@@ -22,6 +22,8 @@ class TextExtractor(HTMLParser):
         self.lines = []
         self.buf = []
         self.row = []
+        # ポンチ絵のコード（pre）と改善ポイント等（section.meta）は音声化しない
+        self.skip = 0
 
     def flush(self):
         text = "".join(self.buf).strip()
@@ -30,6 +32,15 @@ class TextExtractor(HTMLParser):
         self.buf = []
 
     def handle_starttag(self, tag, attrs):
+        if self.skip:
+            if tag in ("section", "pre"):
+                self.skip += 1
+            return
+        classes = (dict(attrs).get("class") or "").split()
+        if tag == "pre" or (tag == "section" and "meta" in classes):
+            self.flush()
+            self.skip = 1
+            return
         if tag in ("h3", "h4"):
             self.flush()
             self.lines.append("")
@@ -46,6 +57,10 @@ class TextExtractor(HTMLParser):
             self.buf.append("\n")
 
     def handle_endtag(self, tag):
+        if self.skip:
+            if tag in ("section", "pre"):
+                self.skip -= 1
+            return
         if tag in ("h3", "h4", "li", "p", "ul", "section"):
             self.flush()
         elif tag in ("td", "th"):
@@ -58,7 +73,8 @@ class TextExtractor(HTMLParser):
             self.row = []
 
     def handle_data(self, data):
-        self.buf.append(data)
+        if not self.skip:
+            self.buf.append(data)
 
 
 def html_to_text(html: str) -> str:
@@ -82,8 +98,8 @@ body = re.sub(r"^\d{4}年\d{1,2}月\d{1,2}日（.）作成[^\n]*\n+", "", body)
 header = f"日経モーニングブリーフ　{gen.year}年{gen.month}月{gen.day}日（{WEEKDAYS[gen.weekday()]}）"
 text = f"""{header}
 
-生命保険会社の法人営業（支社チーム）向けの、本日の経済ダイジェストです。
-中小企業の経営者に向けた財務・事業承継の提案につなげる観点でまとめています。
+生命保険会社の法人営業（支社チーム）向けに、今朝の日経新聞朝刊をもとにした「経営者との対話ネタ・営業トーク（6本）」です。
+経営者との関係づくりを第一に、資産分散・手元流動性・事業承継などの提案へ自然につなげる観点でまとめています。
 
 {body}
 """

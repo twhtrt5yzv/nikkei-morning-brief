@@ -18,6 +18,8 @@ class Speechify(HTMLParser):
         super().__init__()
         self.lines = []
         self.buf = []
+        # ポンチ絵のコード（pre）と改善ポイント等（section.meta）は読み上げない
+        self.skip = 0
 
     def flush(self):
         t = "".join(self.buf).strip()
@@ -26,21 +28,36 @@ class Speechify(HTMLParser):
         self.buf = []
 
     def handle_starttag(self, tag, attrs):
+        if self.skip:
+            if tag in ("section", "pre"):
+                self.skip += 1
+            return
+        classes = (dict(attrs).get("class") or "").split()
+        if tag == "pre" or (tag == "section" and "meta" in classes):
+            self.flush()
+            self.skip = 1
+            return
         if tag in ("h3", "h4", "p", "li", "tr", "br"):
             self.flush()
 
     def handle_endtag(self, tag):
+        if self.skip:
+            if tag in ("section", "pre"):
+                self.skip -= 1
+            return
         if tag in ("h3", "h4", "p", "li", "tr", "td", "th", "ul", "section"):
             self.flush()
 
     def handle_data(self, data):
-        self.buf.append(data)
+        if not self.skip:
+            self.buf.append(data)
 
 
 def clean(text):
     # 記号・URL・番号を読み上げ向けに整える
     text = re.sub(r"https?://\S+", "", text)
-    text = text.replace("・", "")
+    text = re.sub(r"^・", "", text)      # 箇条書きの先頭記号
+    text = text.replace("・", "、")      # 「資産分散・外貨終身」等は間を取って読む
     text = text.replace("▼", "")
     text = re.sub(r"^\d+\.\s*", "", text)  # 「1. 見出し」の番号を除去
     text = text.replace("P/L", "損益").replace("B/S", "貸借対照表")
@@ -56,7 +73,7 @@ p = Speechify()
 p.feed(d["html"])
 p.flush()
 
-out = [f"日経モーニングブリーフ。{gen.month}月{gen.day}日の朝の経済ダイジェストです。"]
+out = [f"日経モーニングブリーフ。{gen.month}月{gen.day}日、今朝の日経新聞をもとにした、経営者との対話ネタです。"]
 for line in p.lines:
     c = clean(line)
     if not c or c.endswith("作成") or "作成" in c[-4:]:
