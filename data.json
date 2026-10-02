@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T05:15:08+09:00",
+ "updated": "2026-10-03T07:40:09+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,58 +7,64 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "NYダウ続伸250ドル高、米雇用統計が予想下回る エヌビディア最高値",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TUWJvR25YOXdoRGJjS0R4SllTNkpzTmI1QnV3cHE3dmVBMWJiUWpkeE93OWJPTUV0dl8ycVZQQkJQV05OYkt1SXNBMURkMFNmOVhfWkhMQVUtTWpxUmpzbk9odUlFN1UtZ21MSg?oc=5",
+     "date": "2026-10-03T05:44:53+09:00"
+    },
+    {
+     "title": "自動車部品の総合力、デンソーが首位返り咲き E2E自動運転へ投資",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMVU1TjFobk1lRmZYVzFTSEcwMUdiMGtCby1GMXhYV2lWanhvVm1PX2hoSHd3cDJPZm9jSlNXNnhwS1NKSjhpSEUxQXg5d0N6UVMxZW54bGVWQWlvUlBDMFIxUnpBME1HV3l5Vw?oc=5",
+     "date": "2026-10-03T05:00:00+09:00"
+    },
+    {
+     "title": "OpenAIの｢暴走｣問題、影響100件超の可能性 カリフォルニア州も調査",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TSjZLbXpHZUJyaG1MUVdnOGpWTkJyUmZGakllRzNMSHduci0zQTBwZ1NPQWo1LXk4Z09qSkU3NmtleEFNSWN1TFo5anQwdE93bUtlcUVQNW5zX3Fkb2xTUm5tYWktcHhNZW85WQ?oc=5",
+     "date": "2026-10-03T05:53:17+09:00"
+    },
+    {
+     "title": "神のゴーストライター キャンディダ・モス著 識字奴隷から世界史再考",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96MERmdVdHUFV0NkZYa2JWTEtLSklTeS0zU1R0eGRlOVFkZ09IaWhERzQzZWplLWRtd0E1QlZ5YzRoNm05b2YxTWdta1M0b0gybVYwcDVCQ2NYc0F5TXJJTU1MUXU0RUNYVHZVbQ?oc=5",
+     "date": "2026-10-03T02:00:00+09:00"
+    },
+    {
      "title": "ユニ・チャーム、糖尿病の多尿対応おむつ 中国・インドに照準",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fSzZHNC1DNlFDMmZKUVMwcG40ZDFHLW9ocEt2ck1rOThUSy1mVWFvMkJrRFdMRFJWeG5MaE9aQWxOTlNYVGtQNWVRazg2VWdTaGt3YjlpYVprX0RnZF8xX2d3dDlEVGlkNlg2Rg?oc=5",
      "date": "2026-10-03T02:00:00+09:00"
     },
     {
-     "title": "（人事・保険）損害保険ジャパン",
+     "title": "(漢字そぞろ歩き) 異序同義語 「紹介」「介紹」逆でも同じ意味 阿辻哲次",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQY0dJX2VKeDh3X0pVN0Zvc01nX3BzdHJCN1c3Z1NfT1FOeXVtM25tUkxQTkpMMTlfWWo0cDJuN3VpRVgyajEySjFXSmlXLXZqTzNob3I0TUpIR21HSzE3UjFodEdPM2RtYndMOQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XeFYwbVh0dkxYUEpLQkdIa2FUendiMENZRTZYS3JQemxxNXBWUVZfbmdrVG02R0VQQ21YSUZ0N2ZUaWxmT051Q3ZkUmhuMFJGVzZ3dTFTOUZoeDNIeWZfdUc2QVR6VnFJZHlhbQ?oc=5",
      "date": "2026-10-03T02:00:00+09:00"
     },
     {
-     "title": "金融庁、プルデンシャルを処分へ 金銭詐取で販売停止",
+     "title": "世界一の消費国、メキシコで卵が高騰 過去20年最大の値上がり",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWHVBRmVBOWlzQXg0WkF3bnZxQmlMSWdBclZqaWNTV1lJanN6TEtfWDdRSS1qazhCUU1RRE9nRlZteUtXREtYbV9PaUVnQmhxcHRjNjNJZE01QUt0YkY3WWZHM0JSYXJacloyZg?oc=5",
-     "date": "2026-10-03T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42LUkwQXdvY1dudGZwQjRZWW5JZjVjVmZ3LVhxYVpOenZXU0FZbFpMYVVxSWZ6dXRiVFo3dTBWNl9UOEJRbF9LZU9XU3BpMDYyZnU4ZUVDVE43bWZZY2pTdWJPbXZ0bmJrOUxnZQ?oc=5",
+     "date": "2026-10-03T05:00:00+09:00"
     },
     {
-     "title": "欧州むしばむ燃料高 家計負担軽減の追加対策、財政制約と板挟み",
+     "title": "つながる車の特許使用料は高すぎるか テスラ訴え、英裁判所が判断へ",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMU9tQ2F2LWlYa1RnT240ZHpvMjlxUkctY25HSEduN3JlRURhWHU3aEk1bmtBXzV1N0tnZkk0a0tGekg2SnlBUVktaWdRMUZ1NGFQLUdJNy1MbHlPTkZya1NfQVNhcE9pekE2NA?oc=5",
-     "date": "2026-10-03T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2emJZWi1kMUZob1NLWGdtT2tHZC1mX0NFRFdsZF9mTHYxN05mQ2xreU5tNHVBTTdseDlpckdPQjFHZTl3V2l1TXU4aHVqMXlvMm55NE5ocU9NQnFVa0dQNUFHWnhlb3pQM1pqQQ?oc=5",
+     "date": "2026-10-03T05:00:00+09:00"
     },
     {
-     "title": "SOMPOケア社長 鷲見隆充氏 読んで書いて 思考深め",
+     "title": "1兆円減損のニデック戒田理夫社長、子会社から立身 永守氏が｢評価｣",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OSjBMYkhReG1vM3FCU1Naam5hRHR5TkpJWWphai1WWnAtWUdTT1dnTmhMU1dKUDg0bHlXVHVLSmhaaWxKVkNRdFFKZVpBdUlVcFRiMVpIckxXbjBuWnVGa0dLLXRKQUxoVFNadQ?oc=5",
-     "date": "2026-10-03T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XaUgyWE1PeFRrX0I2SVV0T3RPcHFaV25GV1VuLVRfWFpYOHVtUUphR2ZLLU8tUkVQRmlsLUJ1cG5wWU5vT09vTnl4TVFPUTBlTk9xcHB5MEdxcVJpdmk1Y2NCNkNUTWE5SGlZQw?oc=5",
+     "date": "2026-10-03T05:00:00+09:00"
     },
     {
-     "title": "おひとり様高齢者、難しい身分保証 入院・介護へ備えるサービスに需要",
+     "title": "香港でオーバーツーリズム、政府が自然公園立ち入り制限 本土客が殺到",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGU0UWFXOW1Ea1Q4dHlMS3h4VHdQZWI0cUJIVEM5UFRmSU5ObFJsaUIxYjFiZDQ3M1NIdGpzRDV5Z2NBRndPX24yNk1BVDNRakVRMXo4ZUtya3J0TEFCQUE4R0dyOHRrR0h5NQ?oc=5",
-     "date": "2026-10-03T02:00:00+09:00"
-    },
-    {
-     "title": "埼玉西武ライオンズ、グラウンド開放で心も至近距離 観客伸び率12球団最高",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUEdFaGdiTkRJQ05DSC00MEx1Sm4zSUk0QW5PSXlnREJ4NEZhbnlXNXl2dzduQXkzVlExRE1DM3pocWpRR29ETHJMbDBFMTNSNG5BUDNfUGRVa3RxZHd0aFdPY3B4cXBHZ1VLQQ?oc=5",
-     "date": "2026-10-03T02:00:00+09:00"
-    },
-    {
-     "title": "2日の高市首相の動静",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQ01kXzlTVkF0bC1mWkJuUk01d18zVklodEJRVEhBbU15Y1oyUEhuRkpmdmlzZE5RM09qLWRUSk1HajZKR0lXZHE5OUhyU2RpcDc1LWl5LUVJVnc4X3l4dnNYVzI2U0ZlZkVxOQ?oc=5",
-     "date": "2026-10-03T00:00:00+09:00"
-    },
-    {
-     "title": "フランス金利上昇、欧州金融株に波及 不安連鎖で｢ユーロ危機を想起｣",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McldFMkFfamhmZi1YQ2dHRlhNS0FZXzVvNWZvUFN2WG1sSS1tOTVHWFduUHJxVnhDX0ZRQkl6NGNGd19lU0Iyd2xNQUlmWnFMWUtRRzRNdjRzSW1fa3ZUb2pWSUY5ck1TTjV4RQ?oc=5",
-     "date": "2026-10-03T03:14:43+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lcFJMeVVwS0JING1tTXlmaXl5LW9WSGV0SGFVc2dXdy1qcEhELVpjR1BRWE5PVi1wb3pMR3gzdTZhVGlnMXhXMXo4eTlDOTA4RWlqb0xiOUhkaWpWeUo4NEdvbkZzYUc5UVJMVg?oc=5",
+     "date": "2026-10-03T05:00:00+09:00"
     }
    ]
   },
@@ -74,10 +80,10 @@
      "date": "2026-10-02T21:54:24+09:00"
     },
     {
-     "title": "郵便局の金融窓口を土曜営業へ 日本郵便、宮城県内6カ所で試行",
+     "title": "G7、石油備蓄1億バレル協調放出を決定 ディーゼル高に対応",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10NFRhR0NLNjlYbFBJbFQwVHNKVEUtakI2M1ZzTUg1eXNWSWxCYnNLSG1ZVkhnTHQ2MXdqV3VqcW1xWXgxUEMxVXdXVVBDYXpLaWkydFoxTHZiV2VTbjlXZThsaEgyWkpHdXg0Tw?oc=5",
-     "date": "2026-10-02T19:28:14+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fR2dMME5iUnZRZU04cXNHYVlEMHROa3dMcjRpbG1kZWF5dVFyTFBrQ2R4SDJyZlBldXkwbHgxcHVTdTZjcEdESlAwRlNoWFItNGhTMzFxb1gwZjdMWlNlTE8yTGFfcmV6bXJmdA?oc=5",
+     "date": "2026-10-02T23:57:21+09:00"
     },
     {
      "title": "プルデンシャル生命、金融庁が処分へ 保険販売を3カ月停止",
@@ -86,10 +92,16 @@
      "date": "2026-10-02T17:15:40+09:00"
     },
     {
-     "title": "G7、石油備蓄1億バレル協調放出を決定 ディーゼル高に対応",
+     "title": "米就業者数9月2.9万人増、市場予想下回る 失業率は4.2%に上昇",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fR2dMME5iUnZRZU04cXNHYVlEMHROa3dMcjRpbG1kZWF5dVFyTFBrQ2R4SDJyZlBldXkwbHgxcHVTdTZjcEdESlAwRlNoWFItNGhTMzFxb1gwZjdMWlNlTE8yTGFfcmV6bXJmdA?oc=5",
-     "date": "2026-10-02T23:57:21+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Y3RhM242anRNem05MmJrRndmc3JuX3BTLTFmUWo0SVNNY1NOUG1IU2VnUTZPQUhWQ0E3ZDBkeHY2TWhCaHROa09SQm5VYWl0T1lHTE1tTnFzdGltNUR6aVRLbHZ3NVRMMU10eg?oc=5",
+     "date": "2026-10-02T21:43:49+09:00"
+    },
+    {
+     "title": "郵便局の金融窓口を土曜営業へ 日本郵便、宮城県内6カ所で試行",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10NFRhR0NLNjlYbFBJbFQwVHNKVEUtakI2M1ZzTUg1eXNWSWxCYnNLSG1ZVkhnTHQ2MXdqV3VqcW1xWXgxUEMxVXdXVVBDYXpLaWkydFoxTHZiV2VTbjlXZThsaEgyWkpHdXg0Tw?oc=5",
+     "date": "2026-10-02T19:28:14+09:00"
     },
     {
      "title": "自衛隊の新型ミサイル、低コスト品量産へ 飽和攻撃で相手防空網を消耗",
@@ -102,12 +114,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lLU9CSWZfQWRLeExuV21xd2VqUHF4UHFmcTJRS0xTYmhnUUlMbndONUlJX3REZTVMdENDVHRWREVGOUxEZGQ0eFlTQWVyeHlTTWhjd24wVDEzWUM1amtDR1UyazBSc1lMQzlZcQ?oc=5",
      "date": "2026-10-02T21:18:32+09:00"
-    },
-    {
-     "title": "米就業者数9月2.9万人増、市場予想下回る 失業率は4.2%に上昇",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Y3RhM242anRNem05MmJrRndmc3JuX3BTLTFmUWo0SVNNY1NOUG1IU2VnUTZPQUhWQ0E3ZDBkeHY2TWhCaHROa09SQm5VYWl0T1lHTE1tTnFzdGltNUR6aVRLbHZ3NVRMMU10eg?oc=5",
-     "date": "2026-10-02T21:43:49+09:00"
     },
     {
      "title": "コクヨ、大阪・梅田で屋台イベント 副業や趣味の「B面」交流促す",
@@ -165,10 +171,10 @@
      "date": "2026-10-02T10:30:58+09:00"
     },
     {
-     "title": "東証前引け 日経平均は反落 前日まで急伸の反動 中東不安も重荷",
+     "title": "ソフトバンクG、株価一時4%安 OpenAIへの追加出資で材料出尽くし",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56YXpld3FrNjJZMmtSY0NoUEdjQnp6cWZiWkJ6aWpfemNaY25qMDhad0lQU2RBaUJicHJQdmFTV29hOGhLS0ttaVNxdk81VU52V2R2aWtQTWJSQklKUUFrdWRra2tXYXluV0c5Vw?oc=5",
-     "date": "2026-10-02T11:59:13+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNGRuVi11TmlPVTNUNVdPb0FZRGVhMEgybjl6WXd2VjJxbi1XeXpRc2h2S0hLa2lTS25GZGhsa3Nfb0xWelhWREJmX1VtN3BvUTZPcWRRVEk4MXEwM3k1bTJjd0pzQTY4Q3FuTA?oc=5",
+     "date": "2026-10-02T10:26:40+09:00"
     }
    ]
   },
@@ -184,16 +190,16 @@
      "date": "2026-10-02T08:59:47+09:00"
     },
     {
-     "title": "NY円相場、続落 1ドル=158円00〜10銭 原油高が重荷",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fRHc1eHVVRS0xd01XTEJwVW1QR1dJd3lBYUZLQmpLSGVzVUd1cWQ3SWlrMUlOOGNLWlktR085UU9sbnh1VkdoU0dRbEw0Y2ludmZ5WEJUM2c0dWVmdFptSy1lbWlqSjJqVjh5RA?oc=5",
-     "date": "2026-10-02T07:01:44+09:00"
-    },
-    {
      "title": "外為12時 円相場、上昇 157円台後半 早期の米利上げ観測後退で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WbFlOaFcxX1pMNlNrUmV1MlRJTE5wMVF5S1JHRWlwSUNvbkpfdTJmcFpLcWVrR2pGdi1DYVhfZ1JHNFhtQ0NKVnRTX0p5X2VBZmNheHRRdFlBNEh2NW1CLWlFbzBCUkZ3S0JJMQ?oc=5",
      "date": "2026-10-02T12:18:08+09:00"
+    },
+    {
+     "title": "NY円相場、続落 1ドル=158円00〜10銭 原油高が重荷",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fRHc1eHVVRS0xd01XTEJwVW1QR1dJd3lBYUZLQmpLSGVzVUd1cWQ3SWlrMUlOOGNLWlktR085UU9sbnh1VkdoU0dRbEw0Y2ludmZ5WEJUM2c0dWVmdFptSy1lbWlqSjJqVjh5RA?oc=5",
+     "date": "2026-10-02T07:01:44+09:00"
     },
     {
      "title": "東証14時 日経平均はさらに上げ幅拡大 一時2000円高 アドテストなど高い",
@@ -208,6 +214,12 @@
      "date": "2026-10-01T10:16:52+09:00"
     },
     {
+     "title": "NY円相場、反発 1ドル=157円80〜90銭 米雇用統計受け",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaWZPcXdnbi1ZbzlSMmd5LVU5eFdPeld4UnlvLUc3MEJBUDRKZUJzbGpWM0ltaUhtSmdsOFM3aElFSU95NVV2YW0tRVJlYmE4REloMjJsWVg0eE5LVllCZE1qc0xNcXRBRXNUMw?oc=5",
+     "date": "2026-10-03T06:57:21+09:00"
+    },
+    {
      "title": "日経平均大引け 続伸 2203円高の6万8956円 1カ月半ぶり高値",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pT2JjVnlGcy1xeGV1cUhIZFloZDdXdHJRYnhyOGNYb1VmaGdFVU0xbjYwd0pMeHBVVFlhOHo2UXUzUklWeUFmN2xKVnhaLXZwNnJSeHY5UUExSEJRYjFvclNaOEZSRTdQSmZ3SQ?oc=5",
@@ -218,12 +230,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53VEdJQm9vWTFpX28yRTc0QWVpclNMSkt1S3FBbzFqSjk2MlYtOF9GYkY2dTVac0puYUxxeHE1Rk9aUS1NaGFFejVKRkZBX3NwWWhSTTVoem1zWF9LRHJ4X3R3ckxYanJFaHNlTA?oc=5",
      "date": "2026-10-02T17:33:09+09:00"
-    },
-    {
-     "title": "外為14時 円相場、堅調 157円台後半",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZWpfeVNIUjlmUG9KWnI3WkdWSGhnLTJ4TUZfNng3Nk4tQ3lRTFZueWs4X3YwX01OcGt3UUlhejk0QXhPeE4zNDJCcmNTQnFZRVVRR0VqalB1d2hSSzBKNWtOSlFSbWxMaEp2Wg?oc=5",
-     "date": "2026-10-02T14:12:41+09:00"
     }
    ]
   },
@@ -232,6 +238,12 @@
    "label": "金利",
    "emoji": "🏦",
    "items": [
+    {
+     "title": "世界で金利が複合上昇 AI投資で景気拡大、フランス起点の国債売り",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRkNidmthUnNBQ09yWjZWSllETklWaDd2bW95dFVMdnpXdlFBVk9uY0NkRl9Sa3JmTGd6SVV6NktLTEpHTDdmSHVhaFdPcGV3RmtIUHlTNzhLTmY2dHN2Rk5SdDVTdWRTek8zQg?oc=5",
+     "date": "2026-10-02T17:30:00+09:00"
+    },
     {
      "title": "米長期金利が24年ぶり高水準 住宅市場変調、債券売り「悪循環」招く",
      "source": "日本経済新聞",
@@ -263,12 +275,6 @@
      "date": "2026-10-01T13:18:58+09:00"
     },
     {
-     "title": "新興株2日 グロース250が3日ぶり反落 金利上昇が重荷",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbDdtZGl0azNnNk9MdFdYTTVDMW5qaVFMT2ZYcHJXa0RtREt3RWhmMldZX3dRcWhJMGlUeFRkZzFVVWZqV1V1YmZQa2FxYk5RQ1VEaXF4aW0zVlA2aUtrenllQmFaQ2dJUGhrYQ?oc=5",
-     "date": "2026-10-02T15:39:02+09:00"
-    },
-    {
      "title": "ドル高に逆らい続ける円 日銀｢主な意見｣公表でも円買いの思惑崩れず",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdnpCLXZQc2pKWWJTSkZrejdtaXVHYUduaTdXOHpfc2RjNVR3UlQ0YmN2NEVhdVFDMm10UmFUWms5ZnktMWY2aXdEWGpXVmRiN2ZJUG5NYU5oZWdjaU1sdFc1bHg5cWFvRm9VMw?oc=5",
@@ -287,6 +293,12 @@
    "label": "外貨・ドル建て",
    "emoji": "💵",
    "items": [
+    {
+     "title": "米金利高で進む「質」の選別 小型株や低格付け債に逆風",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCejhUZ0FadnlnbEJENFNnUmRXUE1ub1VoWHRTVlp3OVFzYWZhMXRvNkpCdXdrN1h4MWUtSktxamwzcHBQQVJjVWg5X1FlNXZMcnVmOE5xeFhVMnhzY1FPcVB4cndaTTNnQnBQMA?oc=5",
+     "date": "2026-10-03T06:18:11+09:00"
+    },
     {
      "title": "米国債、売りが売り招く「悪循環」 9月長期金利は4年ぶり上昇幅",
      "source": "日本経済新聞",
@@ -316,12 +328,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQ1U5WURxeTlGVDlBLUxVNUpZS0dKcW5vbDhoWGg0dUJSc2x6cktfa01HRDRpdUlILUtFbkpfazFlOFlqbGs0bXBZZ2hKU0wyUWhXTEtyWGNWM25ZQ2hucUU4dVp2ai11bGhhWA?oc=5",
      "date": "2026-10-02T02:00:00+09:00"
-    },
-    {
-     "title": "米国株、ダウ続落し131ドル安 米金利高が重荷 ナスダックも続落",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUkYwMVV5bGctdzQxYU5Qd3BVUUk5Smg3ZXFTakZSQ2tjdVUwRUVLZF9vX0JxRU1LZ2xQbGxrWlJ5alRlTUctRGVfZkU5U2ZSQmtnX0dGMmQ3QU9LSm5SczJvQU5SczBORlRIdg?oc=5",
-     "date": "2026-09-30T05:47:40+09:00"
     },
     {
      "title": "NY円相場、反落 1ドル=157円40〜50銭 原油高や米金利上昇で",
