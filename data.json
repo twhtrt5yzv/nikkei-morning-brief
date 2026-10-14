@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T07:40:09+09:00",
+ "updated": "2026-10-15T05:15:07+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,64 +7,22 @@
    "emoji": "🌅",
    "items": [
     {
-     "title": "アンソロピック、AIが家電を乗っ取り「増殖」の可能性と指摘",
+     "title": "Netflixが従業員1000人を削減へ 米報道、視聴時間低迷で成長鈍化",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQzE4Y0hhZERlbEZxZFp5bWIxUXUwS0o1QnlCcFh4eWk4YU4tblkzeDkzdkNnYkEtejFpd2FDOUh2WmhjT0ZQSF80RG5GbVpIVHZteUl3U29QNEl0R0JTdi1kNHFCVjVQbDZVOA?oc=5",
-     "date": "2026-10-14T06:20:39+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uZzZ2TDNkUUJOZE5tU2xaMnFoWmd6eERVelVHaWNQVFg4cnZJRnI0RmtYd29NMl9rRUc1andZV0ZhRlFnQVkxZHdBX0ZsWVZsYngwUVZuV2MxeWxEdG1DWmpGdVRXcTl0S2wwdw?oc=5",
+     "date": "2026-10-15T00:53:03+09:00"
     },
     {
-     "title": "セリア、従業員1人あたり売上高首位 100均維持の秘訣は「小さな本社」",
+     "title": "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZXRVbnZ4RUJOWXJaNVVtb0pidWJLU3BnR2ZXZzJMM0tkNUxZRVc2OUswN2xCQ0ZhSDVyY01aNGRSaXp6QVpveHBBOEhXbG5IaWNRR2wxWGhvWFFqNUFqQzlfY00zd2pIYWFfUA?oc=5",
-     "date": "2026-10-14T04:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iTjYyNVA3RUc3Q0ZVSkRSMjcwWDZFVllCOXhmeEwxM2JVUXI5QVJZZWdXd1R1Qk9La0Ffc0k2UWJ4eUNKemVVUGJxXzEwSDg0TThNQkJQdUI3ejNIdnhPczVERGY5aHMtR29LSw?oc=5",
+     "date": "2026-10-15T02:00:00+09:00"
     },
     {
-     "title": "ソニーG、アニメの海外配信「翻訳にAI使わず」 キャラの言葉に配慮",
+     "title": "米半導体大手、3兆円でNY州に新工場 日本の対米投融資の一環",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ib1ZzQ18wckRfSEowMjVwSXZQM09wRWdEUjQ2YTQ4NWRvMDFSRURobkZFXzZSMzNGclVpeDhla0hVZmJWdllZWDE5a2lwTEtBbE5GcktsNDI3cENvQnRNNm9pX1FiN3V5ZllnbA?oc=5",
-     "date": "2026-10-14T00:22:37+09:00"
-    },
-    {
-     "title": "「パレスホテル箱根」29年秋開業 九州電力やクラフティアと新会社",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvcjhWSVk5Wk0yVFpfNko0dnlLbFYwcGlyWjk5SUV4OVNwMDRNMUxCOFppRWhKWDM4a3RxWmJrbXdSWHBCZ3JwcjF5RVhackFLakxGREpRbU81emFnTEFXSjdOUmp2M05RRHN1WQ?oc=5",
-     "date": "2026-10-14T02:00:00+09:00"
-    },
-    {
-     "title": "中国軍の司令塔に生粋の軍人不在、矛盾抱える習体制の「厳しい統治」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQWtKQzhaTktOd1l6VjZpeXRSNVNzY0g2UFdidWFiQUkxOHpxb1VQbXRLZW5wbkdQVE9vR09wUzFuRm52ZW9QeDlYTmNNUGxqZnBVYkFMdFpXVFFKZGdvbGJIazJfdFRZMHdCUA?oc=5",
-     "date": "2026-10-14T05:00:00+09:00"
-    },
-    {
-     "title": "NTT、巨大AIインフラに照準 成長軸はスマホからアンソロピックへ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CUTdIT3N0eEpveFY0NG4zNEt0SE1GVGhwaG9IZ3hlT215V2dRZkRLUHFZMkl2bEFlci0tQkZLWTJ3dG03UEJTWDF4QlktcHFtU2VJZ3Rfb3pGWXh1alZKRVFzcG9mTlBubE1GbA?oc=5",
-     "date": "2026-10-14T05:00:00+09:00"
-    },
-    {
-     "title": "プルデンシャル、覇気なくす「ゴリラ」部隊 転職難しく座学1年",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CcldMbDFIVVFnckR5VXNHc2p2em1pcS1WeWNrY2xNZ1V6MUN6RUg2TV9NVnZKbHlObXZ1V3NGeElSdWcwOVJqOG1qcDBRMUhuLWlLRERaeHpSSWFybmRUUEhaTG1rQU5jQVhaSQ?oc=5",
-     "date": "2026-10-14T05:00:00+09:00"
-    },
-    {
-     "title": "決算:米JPモルガン、7〜9月6%増益 ダイモンCEO｢顧客の動きやや鈍化｣",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUOFJXWUpyNjhCYW53NkJObmlSLTk3VlBEQ0xGdm52WXdEQTFXaF9iX1VuUUVrZUdoYXV4UHB0TUw1R0lMM3BYVXJkbVBXUjd6aHh0cEVvcEJVWjlrcFh4bGhFblUzMEsyY0gxMA?oc=5",
-     "date": "2026-10-14T06:41:53+09:00"
-    },
-    {
-     "title": "写真販売の米ゲッティが破産法申請へ、非公開化で再建 AI台頭で苦戦",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4em5HaTVoazBMQ1Bvak96VjdMYUpTVmp3TDFkZHVYU2tHMEVGMEFWcklneXI1dEU2REhMY2RRUlF3ZGdUMGRsbnR6eTV0emNsM08wSVhNd2ppQTRLZUUzT0kxMG03bGJZM21xNg?oc=5",
-     "date": "2026-10-14T05:01:42+09:00"
-    },
-    {
-     "title": "NYダウ、反落し180ドル安 景気敏感株やヘルスケア関連に売り",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40STFTNVRDazE0T0czcktJOFpXOWdqOGFLUjlVVVZxV1RxLXN3eW43S3NpZ1VSTFlDN1lqOHZrbmFoZU4wNnhVZGQ1R3FlOXEtR0dvRGVoUGRMRExBQmZlUFl5cGdubEg3OWVTYw?oc=5",
-     "date": "2026-10-14T06:06:39+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82LVZmSG54U3Q0aHhKck52UHdoYUFGUERLb2c0V0hLMlVkdEZ5U1k1VHFmV1dOdm11ZHBwbHYxTzFvVnQ4VEc5V3puTEVVY2hTS1VBNnFaY0pscXZwemYxRy1vc3UzRmNsLWZBdw?oc=5",
+     "date": "2026-10-15T01:01:21+09:00"
     }
    ]
   },
@@ -74,52 +32,52 @@
    "emoji": "🗞",
    "items": [
     {
-     "title": "デンマーク880万件情報漏洩、原因はパスワード「123456」か",
+     "title": "75歳以上の医療費負担、29年8月から金融所得反映 厚労省方針",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ON0djYkVoNmM5RVhhQlRqWG80WjNfVmYwNEppcWRxY1oyWHdoNzU1ZUk2aVBGMkJhODhEMlI0RU1oeFhUbHk3MGhndGwxVXFFN1EyS3RTaF9WV3I4UmtvOUN0SE5PYmxIMzRESw?oc=5",
-     "date": "2026-10-13T23:40:44+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FZlQzWmZ6N3lfbkhuRnV6ZjByOUxIVzNmVGhaaDNkLWFURzZUQ2RiQzF0MjFOSnprWDA3ZG9fQS12MC1qYWo3QTRQdXdZRk5wLVRqdFVHZTBISVBFRzZQSjhHR0NYUEVISU5oZA?oc=5",
+     "date": "2026-10-14T21:19:52+09:00"
     },
     {
-     "title": "タカラトミー、「ドラクエ人生ゲーム」の発売日を31日に延期",
+     "title": "決算:サイゼリヤ最高益 27年8月期、ミラノ風ドリアは20円値上げ",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VWFdKcGpGT2VsVVUyelByU2RYNHFKdE4tZXk4S1c0OHJPdU9qNHhFNzZzRHJTalJzWjBHTS1fX25sdHhtMjF0dThJbmVWaHpKTWpWd3Z6aU5STG9ySWdQbmZLdVpwYm9KNk1FTg?oc=5",
-     "date": "2026-10-13T18:45:36+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04Mi1WSEdUcm1CaWNkbVpYSklzbDRsSkFER0MyQmtyUVl6NXE1WElDTkZuS0dfRHlZbnNoT1N2SEJNOHM4U3FjVEFoVE9sTWZxUGwzSDdFX2ZCdGNiX1h5TzZSSS16bFRhQVZibQ?oc=5",
+     "date": "2026-10-14T15:59:03+09:00"
     },
     {
-     "title": "S&P、キオクシアを1段階格上げ 「トリプルB」に",
+     "title": "国内の偽サイト半数を生成、ツール販売サイト閉鎖 米マイクロソフト",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42N1hjUVZwS2tlNmRVVUhwZnVkQUZnN0UybkU0VjE2aXN4QjVLZzdFcXF2NGVfT1BScVJnZFZpRlJOZTQ1QkRfeVhoWTFieUJtbjhuVTRwNXhsR3JYRVAtZlI1aGFpd3lrT2kxNQ?oc=5",
-     "date": "2026-10-13T19:39:43+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mOENnS0ZDbEV0eDFSMlY5M0d1VkhMcldyY2tPeEZEc0ZXbjdaYVhKSUFvLWNxSnVEcVBhS1Z2Q2ZNa1lCS21VeV9UUzVscG9SMFRudzNsSXlMcG1IaFpRR1VKdkViUUZCZERDcg?oc=5",
+     "date": "2026-10-14T22:00:00+09:00"
     },
     {
-     "title": "防災情報サービスに不正アクセス 自治体向け、メアド313万件漏洩か",
+     "title": "決算:ASMLの純利益2.3倍、7〜9月 CEO「28年まで需要満たせない」",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc2tNVHlPQ01Jbk1NRUltamh1a1VtdENTT3NVb2FCd3VJc3pscU1GcWFuV24wZEdtZFM5T2tTbVdNVDM1VnFoWnhPNDdKNnhlcmdDSEZ4V2NtT1FMbnhGenRoUzd0VXNPcTdTWg?oc=5",
-     "date": "2026-10-13T20:45:29+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OczBrNS1odGtuWE55TndZeTdyelVwYlFRQm1wT0JxUldkZ0RLQ05TaWlsT2xXUFZNaVVmenp3YVRlMzM4MzNnS1lmVU1JVE5iRmlCUlZSTVRCS3E1aXlFSEVLbTloMTJDYlpDMA?oc=5",
+     "date": "2026-10-14T14:25:27+09:00"
     },
     {
-     "title": "折りたたみ「iPhone Duo」、ソフトバンクは41万円台で販売",
+     "title": "ワールドとTSIが経営統合へ アパレル2社、27年3月に持ち株会社設立",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxd2JUZ0puamRwMTg2dkowZk5CWmhkYzhUWkNQWE5rWUJiVzF3MkJVdGpWeGh2N01OZzNuVzhTYUNPMXBtV2NvS1NtSHhSblBYbzFmZmxOT0F0eldPUUVvUFZTSHEwR0dKZnNKbw?oc=5",
-     "date": "2026-10-13T17:55:21+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTFVSLVlVd0hJNnhNMGtPbnVvSWxOWGtCYWlYNzlCb0xNdC1UUkNhTnJoWER0TDZLT2pTVEl3LTNpUVp4UXo2QlJTS0swQWxuMHFQdXZMY2szcENhZFNvZWdqbDRMVnNKbWVyUA?oc=5",
+     "date": "2026-10-14T15:40:42+09:00"
     },
     {
-     "title": "NTTがアンソロピック向けデータセンター 日本初、大阪で開設へ",
+     "title": "高市首相「化粧や料理で男性より余分に時間」 国会改革めぐり",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PS3hBVUZyVmlIbnpTMlI0MGlLUHJaS2Q5eEo2NDdwX2hZQVlYWVM2Vm9WTXFDYjgxX1E1TU1hUmxuMVhuUS1LMEVjVnMzc2lhbXlWR29pQ0VHeF9uT2tLcTVSYXZIeWNKLXJTQw?oc=5",
-     "date": "2026-10-13T11:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SSkdFa05RWm9ZVDlqUEw2LXlXQ0w2UmRDSjdvMXBISkRVbFoyM3pocVItSk9qWVBhNDcyTDFJdEdDWHY3Ri1tWDc0TmJVZHRhT1FxNEJ5NTN1dk1TdTVleWtnS0hjYVkxRkQzbg?oc=5",
+     "date": "2026-10-14T17:00:00+09:00"
     },
     {
-     "title": "日本郵便、最大4807件の顧客情報漏洩の恐れ システム不具合で",
+     "title": "簗和生農相、首相に辞表提出 道路予算カット発言などで引責",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PdE5JNWVsRGdpdDNqSllaRlpOUkVFMldJQzRXbmVoZHQxakFERnA4d3lXYVJoWF9XR05WZlJudFU4NnFsM2J2X3FkMmFMNmlLeVIteTJPWnFDNnRYdzdyVFBoUFQ2T1AzQVNwOQ?oc=5",
-     "date": "2026-10-13T21:10:37+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZVdhU3lWOXJCLUtJRnhYVVdFUXNmVkhmbExydlpnMjhENmIyYXJ3V0p4QmN1SFRxTkVXQWttZlpnMTZxN1NnSFE2WmUzQ2xVaExkQmtHTW9IRDhIZlIzZVdGZFhqUXZ1bGhROA?oc=5",
+     "date": "2026-10-14T18:48:02+09:00"
     },
     {
-     "title": "ブックオフ、約642万件の会員データ漏洩 退会会員も対象",
+     "title": "［社説］簗農相辞任でも残る疑問と政治不信",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FN0xzSERIZ1RLNXktZlExbEJZZmNJSWxQc0h0RFNyQXI1MFljUTVCSFdlRWdSM0ZHQXk3Q0o2MmlqcUJJdDhibW1RdnBNS2MwNWZDeTZqV1BoQ0drVWZTcGhOM0FvdGpWRGkwSA?oc=5",
-     "date": "2026-10-13T17:51:33+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVWxuaEs0UWhjMUtNQXRMRXliRDBval8wOF9BYkJROG9PY255emJrVlpHVTJKVWdWajNIazduZzIwTHBPcXdsR2MyaXNDWGl6LWhSWU4zbi1fZkpaZHBIWHNBbnBRUTI2bnBWZQ?oc=5",
+     "date": "2026-10-14T20:15:00+09:00"
     }
    ]
   },
@@ -129,52 +87,52 @@
    "emoji": "📈",
    "items": [
     {
-     "title": "東証大引け 日経平均は4日続落 米半導体株安で 中東不安も重荷",
+     "title": "イオンの株価、1年で6割下落 総合スーパーの本格回復にめど立たず",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZd3FXZDBOTE54aUFYN1lsUDhnazE2aXN5QkZFUS1KVjI5RzI1WkVVTFBhWER6aDFUOW9TZzdCeVEwVmpYOWJOdjNBbFlOZEFWVWY0RWY0dnY0czdKSWwtZmRha1VIWVl4aGg5ZQ?oc=5",
-     "date": "2026-10-13T15:48:34+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82RG1fc1RhUDdqS0VXSHpzSTJ6X2prSUliRVRHUkxsVDZXd0ZsN2p5emo0N2RfNGxuZWdFX2FBT1NMd2FMd05Mc19MMTdWdHlYU2std3laUDFySzk0OUIxWEhGZXhLSTRrWkhsdQ?oc=5",
+     "date": "2026-10-14T12:37:00+09:00"
     },
     {
-     "title": "キオクシア株が急落 中国企業との競争激化懸念で（13日の株式市場）",
+     "title": "日経平均終値33円安、堅調「M7」が支え 先物主導で下げに転じる",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16blJnMlRVekVqUUMxWF9WTW1MTkoxRk15Yk1KR1k0cUhsdWRGVmJ0V29kRS1jUjBvaWlWaEw2cnp3SjYtTnFYdUk2dmNKMnhxV1FmMTFtQXhBX1BDbElYNjZvTWhTSGZRaXBwZQ?oc=5",
-     "date": "2026-10-13T16:34:23+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0azhNZlk1WnN2OFN4TFNnbmZSMDNmOEdJZEQ0c3pOZktUQXlGWk9GcC1MdHA5VEtEdFZfdTU2X2ppU29HUkYyZVduSWJOSXZWYm82dW92V1A1aVZJd2Rzcnk3SUVTQ3Zvc240Sg?oc=5",
+     "date": "2026-10-14T11:45:31+09:00"
     },
     {
-     "title": "キオクシアHD株価が一時10%安 中国企業との競争激化懸念で",
+     "title": "キオクシアHD、株価反発 急落の反動で自律反発狙いの買い先行",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56YTdKdmoyZnhWRklyb2FYSl9XaV9yS3dnVHZ5WHkyeVVJOS1NQkNrVTE3Z3lBR09GV3p4SmRLWlNKQXZ5NnpGY082MGFuVXgtUW1oSXpkTFBkd0M2ZXhzTXJyelM3VVpqRlo4aw?oc=5",
-     "date": "2026-10-13T10:01:10+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80cEVlWnVJYW02czVjbWFSZzU4aUlVQnJKa3pEeHhxeFd6eEV4UUMyeHNyYzFaM1VjNjRVLTZxS3BxQkhHNWRLdEZ6WFZ5alRGMWdkV2NocjV2UmZkdWVpSlFYMUZXTEdDX1haVA?oc=5",
+     "date": "2026-10-14T10:21:36+09:00"
     },
     {
-     "title": "東証寄り付き 日経平均は続落で始まる 一時1500円安 米半導体株安が波及",
+     "title": "東証大引け 日経平均は5日続落 蘭ASML決算後に売り膨らむ",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRElJVUlKY051SlhwVzBwRVg5dmQ5SnFxR2R0emhDYVpHUGJTbFFxQ0lvV21yejJiRjhWcmcxYURIa3ktRFhjaDV6allZMTRaMnlxSFEybVdXZlJ3R2hzTmdXeWVJUlp0MjV2bA?oc=5",
-     "date": "2026-10-13T09:25:51+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Uck1NWWNIRTFhR3o2Y3ppOXVramdRTm1VdFF0eW41bllUVUdZLUZObTR0eDVReUdnLXdLUk5wM0pyS2lYcEdLN3ZLLUhYTDlab1YtX2JYNnBId3RMdmVkVUNUdllnWGw0ajAxZg?oc=5",
+     "date": "2026-10-14T15:57:03+09:00"
     },
     {
-     "title": "日経平均株価、4日続落 終値は1253円安の6万7777円",
+     "title": "オリンパス株価急反落、一時16%安 品質管理で米FDAが警告書",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16TVpJeGVpVE9aSHI0ZUhrUUxRaHhtb1lnRWF2VGx5cDJXZmhfT2ZDRVNDVU5EaFZQTURjc0RuVG5GRHlSZ3VLQ3QxOV81eEtud1RBMmpJRnJ6NWlzaVpRSi02cHRNSG1sdWR4bQ?oc=5",
-     "date": "2026-10-13T09:04:56+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuNTM2MjJmVWtlcU92aUtwbWFpaHRTaDBPSXdxQThMVUNaUTBvU0JNOUdGSFpNQVhmMzVQQnk4am9wXzJzV2NRcHRNVm9XVFFJZFJPYjFPMlBodWg2alBkOFRWdWllU1F4bzFZMQ?oc=5",
+     "date": "2026-10-14T11:09:26+09:00"
     },
     {
-     "title": "Sansanの株価が一時12.7%安 個人情報の流出を嫌気",
+     "title": "東証14時 日経平均は上値重い レーザーテクや東エレクが下落",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40X0JQY010bHFTSnFOOUJBU3JjZUtUR0wtTTRWR1JDSFFxY2prUmp2aDJwWENLenh1bkMyMkZaTUROSDlldnVIeUc5WFV5SUFRVkdOUWpBTzJnRXllMDhZcGhsMGxhSC1PWmtRQw?oc=5",
-     "date": "2026-10-13T13:41:46+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wTTB4WjNlQW9ubG1kVUJuU3NWazg0a1hoUEZGLUc3MldNTkEzYkM1alJOMlJNS3FRV1RuRFBvYUJPTURkeF92RW1mT3MtX29RNklJTUFnYmpnVDd2b1hwVDJmaUhGXzJlUVprMw?oc=5",
+     "date": "2026-10-14T14:18:57+09:00"
     },
     {
-     "title": "日経平均株価、米半導体株安が重荷（先読み株式相場）",
+     "title": "日経平均大引け 5日続落 33円安の6万7744円",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxYXM2UnB5dVh3NkFwd0tPMlJ0RzRUQWE1MzllZUlCbXlmUDZlUVdXdXdQbE0xQ2UxbnRlZUJXM0dNY0c2bFNSeGVUYTVUTFI5V244Yk5ObElhMlF5clFKVTZpcE9mQ2sxU2hDag?oc=5",
-     "date": "2026-10-13T07:30:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Q0NJemwyUHV4cVlmTTVGQVpfdkdpS2Z6MXlfZ1lzbmxGU0diU1BrRWhNQllIbU16VGZoQ25QWGlPaFRnSjZZeFBnWnU1ZUdyVjFpNmtnRmZxQnZxQmRqZVNaSF9JRERaVzVJdw?oc=5",
+     "date": "2026-10-14T15:40:06+09:00"
     },
     {
-     "title": "東証後場寄り 日経平均やや下げ渋り トヨタやリクルートは高い",
+     "title": "東証前引け 日経平均は反発 アドテストなど半導体に買い",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TSXVKTWl6U0E4RF9BNmg0X0FLdmJ5b3F4dDVBWHA2SE56Q1k1ZkVUR0RpTHR1b05MNjBUQVJNTVF2dWV2a0pzYnBqbnRXUV8zeGg3ZU5FS2w3WjdCUEgwUnFaeENlWm94Y0haVQ?oc=5",
-     "date": "2026-10-13T13:02:14+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcl9EeTVZSEFvbWxpZm9yVjZQaVFodWdQb1JjOXdxbFR3YlJiRG91eGozbDZVdWpHVGJOUkw2Wm1IRHdJVHZoZjNHZzNmeDhXcV9UejVVbm5TSFhFY1V0dmpPZWlWRmFUQjNQZA?oc=5",
+     "date": "2026-10-14T11:44:42+09:00"
     }
    ]
   },
@@ -190,28 +148,34 @@
      "date": "2026-10-13T11:52:40+09:00"
     },
     {
-     "title": "外為17時 円相場、6日ぶり反発 158円台前半 原油下落で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DcDhXU2JUZ3RqdHBIOXhIc3lDU2l1RHVtZ2NxSzI0UmczWFdLQmNtNks1RVZqb1BhbUtfZU5zM21uSE12cFpZbzNlNkZzZnhNcXI1WWFqOEpZVlJvV2k0cmpBcU44MmZ2NUpKXw?oc=5",
-     "date": "2026-10-13T17:28:01+09:00"
-    },
-    {
      "title": "日経平均大引け、4日続落 1253円安の6万7777円",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tUkthdFBOUnAtaFQ1UzNoZTBQeHh6OWJuTGFKOXVyRDJtN1ctN18xeWVmU2RsX2tNXzJfX1MwTkEwRV8ybzhpUi1iWERxdkVhV05KcG9pLUl5Wk5XUHVaWEtVMFVIbjlPSWE0eQ?oc=5",
      "date": "2026-10-13T15:36:32+09:00"
     },
     {
-     "title": "日経平均先物、大取の夜間取引で下落 1090円安の6万8380円",
+     "title": "東証寄り付き 日経平均は続落で始まる 一時1500円安 米半導体株安が波及",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xel9FOWJPcExCTTRjSklEcUFZWEhUOEtHQTlUUlY5S3JnZXZKbWxETHRyYW4yUzM2amVMaTBMdklYZnRiSW4tYU0zcjdkMzVDdXhkM3hxNFZIUDRuQjZNeTFWN0ZrbDVpaUhYYQ?oc=5",
-     "date": "2026-10-13T06:09:12+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRElJVUlKY051SlhwVzBwRVg5dmQ5SnFxR2R0emhDYVpHUGJTbFFxQ0lvV21yejJiRjhWcmcxYURIa3ktRFhjaDV6allZMTRaMnlxSFEybVdXZlJ3R2hzTmdXeWVJUlp0MjV2bA?oc=5",
+     "date": "2026-10-13T09:25:51+09:00"
     },
     {
-     "title": "外為8時30分 円相場、下落し158円台半ば 対ユーロでは上昇",
+     "title": "日経平均前引け 大幅続落 1738円安の6万7292円",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dW16dFFhTU8ybUxfWkhMbkljRHFFUUZfanZELUxTUHFBZFZfcUxscnBGcjlXUXlkT18waVhmalpXaENSUlJ4SkpvZUxBaTl3blYwOG1SczVmbG5TZUQ4dTJFZDc3SmVXOURaXw?oc=5",
-     "date": "2026-10-13T09:00:43+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZlIxQnBFT1NqdzUxTTFMcEpCTmFfQm9GVjZwcWt0ZzNBa3l1R3RXYzZTUzdseGl0VXQtM3JiU01LbzFVdW8yM0NzcjJpU284M09rTU4wSlBDVmFSODc0a0lQbGU4SFZzNG1paA?oc=5",
+     "date": "2026-10-13T11:37:27+09:00"
+    },
+    {
+     "title": "外為17時 円相場、反落 158円台前半 中東情勢悪化を懸念",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbEduTlRVaUxxMmNiTlFZcjhhZkZhTkk4SmM0ZWt3SDNMX3V3M2Z3bVpIR2JwQkpQVHpmQVR4azJtdEhYcktxUmo5d2lsamVsbHJfOG1mZ2NMV1cwSnpKeUt6WmNvRWFPV0NUTA?oc=5",
+     "date": "2026-10-14T17:38:07+09:00"
+    },
+    {
+     "title": "外為14時 円相場、上昇に転じる 158円台前半",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wczZjYnYwRmNWaVpEempVNVJqYzZXeXBfUkVZM09abFRkbDVhVEp3aEdjakNrSHAxbzJSYUFVWW9PTXktOERzcTB0cVFDV3I2VnVrcDRvclBRYmFBYVVJbnpuMThyNGVLUEFWRg?oc=5",
+     "date": "2026-10-14T14:18:50+09:00"
     },
     {
      "title": "NY円相場、小反発 1ドル=158円30〜40銭 日銀利上げ観測や米金利低下が支え",
@@ -220,16 +184,10 @@
      "date": "2026-10-14T06:46:12+09:00"
     },
     {
-     "title": "ｉシェアーズ 米国債２０年超 ＥＴＦ（為替ヘッジあり）[2621]：ＥＴＦの収益分配のお知らせ 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+     "title": "外為10時 円相場、下げ拡大 158円台半ば 中値「ドル買い優勢」の声",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bFJlbVhObEZVLUNvNHBEdm9Zcy1uOGNXX0RIckFtVEE4N0swN19tNTFkaGRwV3dQSmV1V2w3X3NjUF9TcFBGZjJBaVlINXN2Tmx0OVBFVkRUUWVvUTFBODBaTE41U3lNY2c?oc=5",
-     "date": "2026-10-13T13:30:00+09:00"
-    },
-    {
-     "title": "外為12時 円相場、上昇 158円台前半 米長期金利低下で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxZUpmenU2QlQ5N3diU3ZNZUh2NjFYUG8tUlVKZk1HZVo3UTFhZ0c5Y0E5ZVo5cWg0VTFLMjVhVWhONFlMR1Fwbmc1UFVVTS1IUkJoN3ZpeXptMER4MUxOWnF0SzlaYnlzaVJqMA?oc=5",
-     "date": "2026-10-13T12:34:13+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZWNSLVlqLVM1Nzh1WXRuRG1yQ25uWHJQVGswbVZZYWJkS01QQ3N2Z2JLanRaU1VLMjRWN3YxdXpaSV9GY2NJSFhTbWFLSmN6VUNjZ0NwRmJydXRjdmZyTHlzZ01qNGJPSzhpeQ?oc=5",
+     "date": "2026-10-14T10:31:26+09:00"
     }
    ]
   },
@@ -239,16 +197,16 @@
    "emoji": "🏦",
    "items": [
     {
-     "title": "フランス今や「欧州の病人」 金利はPIIGS超え、政治不安で国債売り",
+     "title": "日銀保有ETFの銘柄、大幅減少へ 4割減のTOPIX改革と連動",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04cXM5NG9KeUJHS3U0Um5XcjJqS09hUXVsNHNhYVZiY184bEZmVFFqbzhZd09ZdG5RTm9LWHp4cjZpdE9YcUFLOUJiczJ5YUgyYnBQbVh0ZEVwUXRNXzZqTVVyNnVSNlNSaDl1eQ?oc=5",
-     "date": "2026-10-12T11:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bFhwN0Q4THdwOUJqbDZyYXplZmhQZXJYNTkzWHJDclRNS3hGc0hydGRERmJHZllEVFBleS1FVFF2NjQ4S0FFbVpVdnQ1a2FIc0pVSWZCNE90WDcwZ3Rvc0pLeDNWTV81M0RRMw?oc=5",
+     "date": "2026-10-13T17:00:00+09:00"
     },
     {
-     "title": "岸田元首相、個人向け国債の税優遇「慎重」 NISA目的にそぐわず",
+     "title": "フランス財政に「不履行」の文字なし 危機の核心は金利より政治分裂",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tZWJ6YjIxSndTTnNvYzJKRG1yYTlvbVU5ekVSQW9RN2xjRG5IeWVjbWZ5NHBXSUMzTzktOXZDRENVZTA1YkVfUDJiLXNfajZ4ZjBzZDh2bjBZeXJiMnRqVUZjRGxfYXd1U2FPSQ?oc=5",
-     "date": "2026-10-13T05:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16Vm1xTHY3VmY0OW0wcFpjNTFPTHF4Z0RZdlVMcGItYm5RMVlJbXFWTnI2V3FybjBJdkQ0Z0hOX08wTUN5ZEZjekpIWmNvVC1tdHhDd3V3a0VSd0k1QmFkaDlUa29yVENUUkdxOA?oc=5",
+     "date": "2026-10-14T10:00:00+09:00"
     },
     {
      "title": "債券12時50分 長期金利3%割れ 米債高や株安で",
@@ -257,34 +215,34 @@
      "date": "2026-10-13T13:15:14+09:00"
     },
     {
-     "title": "変動金利の住宅ローン、銀行ごとにばらつき ルールの確認を",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWnNSdTJTTy1La0tROGdtam1MZ0syLW5JblRJUHQ0SnowbHY2MUJYRVJrM19yZmRKVmR1WWE1MTZYdlY4Vlk0dWxub0RKM3ZaT0pScng1ZExYV0NIaTM5TDZsakdVUU00YVJaOA?oc=5",
-     "date": "2026-10-13T04:00:00+09:00"
-    },
-    {
      "title": "債券15時 長期金利が低下、一時3%割れ 米債高で買い",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVC1qMmt2VVdfeGdwVkJiUnV4TG9KWHJ1QkpTcWNJWUdXby03cGZkZzZNdWl1dlgtTkgyNDZHeTh1cWpQd29GTFMwWm9zX1FpQ3NvdENObkswZlhyOTVNY1hTLTFhd21KQXZXUg?oc=5",
      "date": "2026-10-13T15:40:10+09:00"
     },
     {
-     "title": "日銀保有ETFの銘柄、大幅減少へ 4割減のTOPIX改革と連動",
+     "title": "決算:米大手銀行に高金利の恩恵、預貸収益11%増 投資銀業務には逆風",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bFhwN0Q4THdwOUJqbDZyYXplZmhQZXJYNTkzWHJDclRNS3hGc0hydGRERmJHZllEVFBleS1FVFF2NjQ4S0FFbVpVdnQ1a2FIc0pVSWZCNE90WDcwZ3Rvc0pLeDNWTV81M0RRMw?oc=5",
-     "date": "2026-10-13T17:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rYU5TZHFRUmtlV1V2aUh1S1dOT1JuOUpTM01wVXZESjhjUHliNk5ncVBQQlE2aWtodWdQcnNxYWtidGRJbnhYMmFNZmtmdjNTVTBNMVF6eDdBQnRaUTgyTlNDQVR5di1PMHM5bA?oc=5",
+     "date": "2026-10-14T06:14:57+09:00"
     },
     {
-     "title": "5年後の物価予想、3期連続10%超え 日銀9月調査",
+     "title": "社債市場で起債ラッシュ 上乗せ金利拡大も投資家は鈍く",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBocFF6eGtscnBXN1o3TGMyZnRwT01TYzVpWjAxU0h1ci0ycmxWeGNTTVg1ck01YVZnbnBLZ0xHNkREaFBCRmptdjZycmRHZmRveVZiQkFpM0RLajFHTW9DNjIyOENWRVBYLW9pZQ?oc=5",
-     "date": "2026-10-13T17:30:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVbXRQYTBtR0NyVzhicVJWaFNOeUYzVk9fWGdpNmQ3ME0wSV9RN253dEp1aHVJYmRZdndma1pKYzBocTFBUnNFMXdjclk0TS1VMlZyaTNPM3QyRnJNOE9lSW4zbVlPWUlyb1BfSA?oc=5",
+     "date": "2026-10-14T04:30:00+09:00"
     },
     {
-     "title": "欧州国債概況13日 独10年債利回り低下、フランス金利も低下",
+     "title": "前NHK会長の稲葉延雄氏が死去、75歳 日銀理事など歴任",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuLWtaUjNHWU9QNHlpTWQzZHlkMkMyZnhZUThLSHNOX0h5Tk1CVlpRUFdTbUlDbHI3UmVzeTVzYTJ5RnJtNjZEY3diVGdsX2ZBanZNbkRfNnNQWXZrOHdGTUdMenQ5UGNJSTN0cQ?oc=5",
-     "date": "2026-10-14T01:42:04+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EbXZyRWRpS1k4TXZtWTZucGVjY1ZhWmxvdUFfWWZfODNXZXh2Ym1pTmJGZ2V6Z3dJWnZ5eHhwcEZjQjdrZjk5TDFMNVM1c3pYVFltR1Q3MVQ3akV2b3I3cUYwM2dLVnFRNVZfTw?oc=5",
+     "date": "2026-10-13T17:42:08+09:00"
+    },
+    {
+     "title": "利上げで増える円金利商品の選択肢 みずほは16年半ぶりに貯蓄預金",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80dnNaZURQbWx0QkJlSlZEWjR1bVlnWEd4OVoxWWd4bkV1cW5JZXBsdG0tNWZuVkxTRnZrS0ZveXlzbXFaYmk5QkhyMGV5RVItd0hDZ1RXa3htUG5fU21HN0FuYmpSdkVaSmV3eQ?oc=5",
+     "date": "2026-10-14T04:00:00+09:00"
     }
    ]
   },
@@ -294,9 +252,15 @@
    "emoji": "💵",
    "items": [
     {
-     "title": "ｉシェアーズ 米国債１－３年 ＥＴＦ[2620]：ＥＴＦの収益分配のお知らせ 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+     "title": "ｉシェアーズ 米国債２０年超 プレミアムインカム ＥＴＦ[453A]：ＥＴＦの収益分配金見込額のお知らせ 2026年10月14日(適時開示) ：日経会社情報DIGITAL",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45WXFPTmQwTnZUeFNILTdmN3dhN1BBMElTMVJLYXZrVWdTZGlYNzR1dzRHWEQ4Rl9XYjA4VkxmM0RmVzdSV3I0SzBwWnNVQ1dUOWMwdXNHSko5aVJaSy16QnpTWWROWWtpZEE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhZHlkVDF3SjlzZ1RTLU5CRmVEY2NwRUszZ19hTUU0eW5SWG1MQzBIWHp0MjRDVE9lVHpoOVlHX0RtLVRuSlNfQU11RzFyX2FlTXZuYW9xdjJBalJ3eGp3OXd1dVJXTWNNV1E?oc=5",
+     "date": "2026-10-14T10:30:00+09:00"
+    },
+    {
+     "title": "ｉシェアーズ 米国債２５年超 ロングデュレーション ＥＴＦ[237A]：ＥＴＦの収益分配のお知らせ 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjSW5WUHNTQ3VxenZyNjRJOFo1b2hsMHVQcmRlWHdwSEY2eWhrU0RCNmJmekVMeGk0MG4waS1IcDZTVW4tNHY0RTRFRkNZUm4zck1BWkttcnlWUkdZRG0xZlFqWC1BRllVVlE?oc=5",
      "date": "2026-10-13T13:30:00+09:00"
     },
     {
@@ -306,28 +270,16 @@
      "date": "2026-10-13T10:30:00+09:00"
     },
     {
-     "title": "ｉシェアーズ・コア 米国債７－１０年 ＥＴＦ（為替ヘッジあり）[1482]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+     "title": "ｉシェアーズ・コア 米国債７－１０年 ＥＴＦ[1656]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfYnNGeE5EeE9uSWg1cTBVTzJnTjZQdThXcDRvT2VobzU4Nk9nNmxDb3ZBMUpyR3lLNGxvMGZfTjd4TF9vUEk1LVJtWTRnbVU0SGNYTWZiWVZtdDdPT0hlUE01TWFqbUE0aHc?oc=5",
-     "date": "2026-10-13T10:03:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQ0tDNjJoNGhCcHNybTBodzVzbGJ0Ui10WWRFbnhocFMtNUtzZFZJblYybjJaNUJrS3c0UnI4UVFfam85bmU4ZjJwaHJMOXQyelJRRzc1clhaVzQtczFKaTlBeUh6SzdFYWc?oc=5",
+     "date": "2026-10-13T10:08:00+09:00"
     },
     {
-     "title": "ｉシェアーズ 米国債１－３年 ＥＴＦ[2620]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+     "title": "ｉＳ米２５",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83d05ubmU0bTM3d20zMTVWQXVuUk93anJ1T01yVHJldUUwLXp0Rm45TXhPSEtWd3IxUWpFbTU3QXBrY0lDdEY5WFBLaTg5TlVodzdsREVGR3BpaGUzUVNId3ktSUowSnFvSUE?oc=5",
-     "date": "2026-10-13T10:10:00+09:00"
-    },
-    {
-     "title": "ｉシェアーズ 米国債０－３ヶ月 ＥＴＦ[2012]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajc1VUlxSzFqdW8yemdBM3dwU0RpcWVvN2tXaE5yNHJCamxCdmp6R2FOUVB1VzBKLVRFWndLQXRhRkFULU5VOWxWQ2RUT1JFYWVab3o0NmJkUzNXSXZvak1raXkwM0NWNTVyYmFxZEJuV2dkOXVFUXEzSFkzclZDdWVYR0pCeVcwQ1g0SU1GQjZCRTc5cGN6VEpRZWVjWU5fRk1HcklaRG5ZTDg3emZHcjVYYzAwSkl5c2JxRVhZNHJBVEwycEJsRHI2ZU4?oc=5",
-     "date": "2026-10-13T10:28:00+09:00"
-    },
-    {
-     "title": "ｉシェアーズ 米国債３－７年 ＥＴＦ（為替ヘッジあり）[2856]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWVM2UUtBRzR0ZFkwSjRiQ0lFQW1Gbm9QWVhqMkhTMTNxbW9Ea1I0MU5vS0xXWFZERDQ2WUhnUHhGODZMZGdOd3c1dmpqQ0lYNWpQVm9veHRXMkxCV3BUQnJKaFlDNnpUSFE?oc=5",
-     "date": "2026-10-13T10:16:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQckdNWnJrZWlWeEpCVTJqVVVFQWd2U3NNeklyaHAwRUFjZk1CWVh4WFV0RHJSa3Z0Yl9VZ212UXZ6U0tHVGx1R3lRZEVCaU9UcTlHTXpOdERhTWVlMUZOLVNXNGFiNlBQUE9QdHdLcF83WklqTUVJQ1AzNEN6ZE45RHJlUXpCVWdhcENEUXZCdnZmaldaOGVyTUJiZjI1NU8ydVJvYzFIenR2ajk5OFZvdUVadW9Nc3NfUW84YldzdkNFbkxGbmVic3VLVkM?oc=5",
+     "date": "2026-10-13T10:29:00+09:00"
     },
     {
      "title": "ｉシェアーズ 米国債２０年超 ＥＴＦ（為替ヘッジあり）[2621]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
@@ -336,10 +288,16 @@
      "date": "2026-10-13T10:11:00+09:00"
     },
     {
-     "title": "債券11時 長期金利、3.000%に低下 米国債相場の上昇で",
+     "title": "ｉシェアーズ 米国債１－３年 ＥＴＦ[2620]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uaWw1S3FJYXpFSEVWQzZMZHRJelF0SVBFdGZudDhtTW45bUthU2J3ZTQ5cjJwbExLWi1Tcy1mVnp4aURvSXNjNXRaMll1T0Vod29YT1VBU1Z6TkJUUEpEZ1pud2JabXNNSm52Zw?oc=5",
-     "date": "2026-10-13T11:36:13+09:00"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa2t0VzhpTjc0X1JSV2VLLU4zVktESHNFcnkyVUI3TTYwZzdaeG5qVFhrWkRRVklFb3RCV19zUjNOa2FUWnBoYVRISTlkVmtDWnZHSjdKd3NNeXZoMkxZSXY1bjczR3VJVEZzSGRpQ2xCWUJZSm5zRVBFVW5BMTJCQXJVS3pPc1h4XzN0eTJtbHVJNE1aMk1qTXREUGhrcFozeW1kZnRQczdoSVNtSWtBMXd5ZU9URGNJVXZpWDdhUGlfcE9RNkZyV3U2TGo?oc=5",
+     "date": "2026-10-13T10:10:00+09:00"
+    },
+    {
+     "title": "ｉシェアーズ・コア 米国債７－１０年 ＥＴＦ（為替ヘッジあり）[1482]：約款 2026/10/10 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlJGbU1iYTNIN18tZVQwbmNuUHhiSXdOVy1MR3dDbjhHdzdUZVQ1ZzF5YkQ1STRPMVVRMk9fWWkyaldUOTlKRFlUUk9fcnlQSGRGNEd2VVFiWnhnWVZvNE96RFVoWmV5TFp6QjNLTlBvTTdLR19DX1lYTERvbHQ4S2FOaG1NSF9FQmtwVThTT0xjZXJmM1JrUm5IZkFsdUNMSVFOZThxblhSV3hOX2FsZFVxODczQzI4RmVuTG9VVXdHeGZfUGxrMHlJdXU?oc=5",
+     "date": "2026-10-13T10:03:00+09:00"
     }
    ]
   },
@@ -348,12 +306,6 @@
    "label": "円建て・保険",
    "emoji": "🛡",
    "items": [
-    {
-     "title": "2026-27シーズン オフィシャルパートナー契約締結のお知らせ/日本生命保険相互会社 長岡支社",
-     "source": "新潟アルビレックスBB",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jRjQ2ekF5ZkY4eU5LRm85UXEwT0RoMWJOWnl5bkdwQnlGY01nYUdLWE93ZDcxc2hkaWdtc182VkUxOGdKd25SVEw3SjF2U3htODJQdGtiZw?oc=5",
-     "date": "2026-10-07T09:55:10+09:00"
-    },
     {
      "title": "【10/17(土) 横浜FC戦】 ジブラルタ生命保険株式会社プレゼンツ スペシャルサッカースクール開催",
      "source": "栃木シティ｜",
@@ -367,16 +319,10 @@
      "date": "2026-10-13T08:16:26+09:00"
     },
     {
-     "title": "NISAと円建て債券を組み合わせる新時代の資産形成",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUjVVM0RUbGpmaDNYbXMzMXNDQWUzM1BaN0R1V1JtUjRFcWlfeXFQQmJLTlJqbE0yOUZnWnlFdkR2Q3BvT1FXZU5yTHdqaGIzeXFxVEJiNDFWQXhtRG1ESTFvVEM2TGY0UWUtV3IzMGhkalRoUWdQV0hxOXpZdw?oc=5",
-     "date": "2026-10-08T05:00:00+09:00"
-    },
-    {
-     "title": "明治安田生命保険相互会社からの寄附",
-     "source": "板倉町",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlV5cUN5WDVCbVljMWpqSjlWeUxmMEtDQlJNNzgxQ1hfbVA2SHlhb0Z0S2hab1c3NW9MRW5sT01qbTFnQTRRWWtFQWNycFBFWUFxVEZPOXdCZmRjdTZ4WFAtY1pNdG5fTzhaQ0J5cy1wODJDTW5sMHJNTGlodjlaaFQ5a1dURFp6RXVTcjZ1bnpNTEgy?oc=5",
-     "date": "2026-10-07T17:11:14+09:00"
+     "title": "メットライフ生命保険の50代前半、営業職の年収は？【1万件の口コミ情報データ】",
+     "source": "ダイヤモンド・オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lSkVrZFhfNC1NOUtqRGM1ODlVVWRBT3RJdEd5VUdjdmpJYzZWY2xMVjUteVRMcDNwV2hVZ2JDZzZjRW1xazVFMURKckrSAU9BVV95cUxQR0NjUXItdVNjWWhnSnF5Zmp2NlZMLV93Sk1JNm1oMlFZeFJhNzRqZFpLRl8wbDY0OFlnMk1UOXljeThEa2l5cVlDd2dMbWpV?oc=5",
+     "date": "2026-10-14T18:00:00+09:00"
     },
     {
      "title": "生保幹部「最もサプライズ」金融庁がジブラルタにも停止命令の背景",
@@ -385,16 +331,28 @@
      "date": "2026-10-09T20:59:56+09:00"
     },
     {
+     "title": "【保険窓販情報】みどり生命、無選択型終身保険を新発売",
+     "source": "ニッキンONLINE",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwcFNIYUo2VzlnUFAxdldJelQxOTZGcmVtLVhHYmYxSXlDbThhR2NQNkZleTdqRzg2ZWZlZU5jZ0dzbGdoMVhHYVo4MllzTm1sb05XeVlEV0I5eVNrM2lqQ21tTk53RVBhNkE?oc=5",
+     "date": "2026-10-12T07:24:22+09:00"
+    },
+    {
      "title": "「有期払込終身保険（無配当）」の改定および一時払種目の販売再開について | ソニー生命保険株式会社のプレスリリース",
      "source": "PR TIMES",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9keWpGYjU5ZW9jRG9lWHdUWi1HZVJ2bDJkUmY4SVRIRzV2ZmhEOG93SE80UE1BeTdoRUlXY29ycmpMU3RqODZDMDVnb2NYUnBpNTE2TDdMYWx5WkFmWEdCMC11T1hxVUlocnc?oc=5",
      "date": "2026-10-08T16:00:01+09:00"
     },
     {
-     "title": "【保険窓販情報】みどり生命、無選択型終身保険を新発売",
-     "source": "ニッキンONLINE",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwcFNIYUo2VzlnUFAxdldJelQxOTZGcmVtLVhHYmYxSXlDbThhR2NQNkZleTdqRzg2ZWZlZU5jZ0dzbGdoMVhHYVo4MllzTm1sb05XeVlEV0I5eVNrM2lqQ21tTk53RVBhNkE?oc=5",
-     "date": "2026-10-12T07:24:22+09:00"
+     "title": "生命保険会社「大樹生命」の元営業職員の女逮捕 顧客から現金約500万円だまし取ったか 被害総額は1億円以上か 埼玉県警",
+     "source": "TBS NEWS DIG",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5teExuSUVjV2Z1ZkJlMWRQLXdrQXQwVGJScGpwaHBNZHVySmVGb2t3cW5nbC1PTzF0R3gxREhJeUVKWWZqRjkzbmR1N1ZpMUVMLVU4ZVJuVQ?oc=5",
+     "date": "2026-10-14T20:42:37+09:00"
+    },
+    {
+     "title": "プルデンシャル生命 第三者委の報告書を公表 詐取関与の64人解雇 [写真特集1/9]",
+     "source": "毎日新聞",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXRLV2d4dUJVdkFjYndjRW5qMTVrMDNIRk82WWswZmtkQ0VPU0NMdFVRUnVQMGRfZjlPR1Fmdjd0RlhaVlo4N3RTbE52Ukk3eXJvRkp5eElTWUdGX1ZuekhWdVk2cXB1TWZuSFZQei01dGhxbVBRQ3U2Zmo0eEFTOXpVa3pucGc?oc=5",
+     "date": "2026-10-08T16:23:44+09:00"
     }
    ]
   }
