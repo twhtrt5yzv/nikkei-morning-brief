@@ -1,354 +1,47 @@
 {
- "updated": "2026-10-30T05:15:13+09:00",
+ "updated": "2026-10-30T07:54:55+09:00",
  "categories": [
   {
    "id": "asa",
    "label": "けさの朝刊トピックス",
    "emoji": "🌅",
-   "items": [
-    {
-     "title": "ECBラガルド総裁「金融政策以外に関与」 仏大統領選前の退任を決断",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MS2tuMm91U0xpN1dGWHdwR0Npb1pFRVJ5cXpnVTF3UV9CMnJrUWtLRWxYVFhzazdmNGV1S3JXSTFfTExRcm40VmxZMWtRbHhidkV6UW1hR0ZNSDdsY0JNVlJZVllMMUlqb3NDZg?oc=5",
-     "date": "2026-10-30T03:11:08+09:00"
-    },
-    {
-     "title": "春秋（10月30日）富の偏在",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KMmhwUVh1cDI4b0Zzbll2Um1jNjllR3dRbHdvQkZzS0FicUZZaG5KdVRNaWpoWjlUd2JHN2JZc3dUOWhSZ1dXRl9YWkJ5eGFDM21VVDVEeU9hTnZtbGZzUFFYQXQ3ZkY2emhKaw?oc=5",
-     "date": "2026-10-30T00:00:00+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "top",
    "label": "本日のトップ",
    "emoji": "🗞",
-   "items": [
-    {
-     "title": "フィギュアのグッスマ、カード情報流出の恐れ 決済ページに不正操作",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTYWJuTXc2a3p3U1hMeGFaSkpXbTltSEtaUTl1eFFJN1Y3aHVrcmhpaDFabXdVRDVYanU5dnFfT2lsZzBFSVJKZTZtalBZV0dUWlBaQVNwZ1JlSnZITW5RVk82dnFQLTZDdkpmeg?oc=5",
-     "date": "2026-10-29T19:39:35+09:00"
-    },
-    {
-     "title": "ANAHD、ソラシド・AIRDO親会社を完全子会社化へ 国内線再編",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVFpDamFmbXlQYWRBV1FoaGhfUXNiN2lrbVJubWo4QlVrUGRUcDJ2N3lJYWowRV8wLVF5MzBYYjNCU0J0TkFtLTQ5V19JV05HUTc3MElmT0lrRDFldTVsRVpmb2ZwZ2xXdjFmcw?oc=5",
-     "date": "2026-10-29T15:34:57+09:00"
-    },
-    {
-     "title": "朝日新聞、顧客情報7万件流出の可能性 ユミルリンクに不正アクセス",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LOTdZN0hCV2ZabGFMNGNvRldSQTRsNXdKVjZJMXJXcXlsdnpaMzFFTmYwd0hCZzE3cFp6NEdzdG94Y1lBRWZodnE1VjhxRTNoVnJPSjFUcmg4eGdZaHEyekY5ZDNlb1dDYjdqOQ?oc=5",
-     "date": "2026-10-29T20:35:55+09:00"
-    },
-    {
-     "title": "「トヨタカレンダー」27年度は3連休4回に 家族と休みそろえる",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQlFQQ1BaQzdFNnJKT2c0Y2dqbmFIVmE2elI1d25qeVlDcE9pTlJBNWVsT2VURXFsTVNZWFR0Rkg3ZkRiZlJaUHpZU0FGWjl1YkpWdkdSN3ZRRUVGUkY4TjFwNHZqRE1SaDNBOQ?oc=5",
-     "date": "2026-10-29T19:41:32+09:00"
-    },
-    {
-     "title": "ユニクロが初の文芸誌創刊、女性の声を発信 東大と組みエッセー募集",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdzRJLVo5b0tBTUdQbnQweG9nZkJ5NXFnRmlrRkVDOERGLXhXZXhlLUJuVkZjcF9PY19FYTBEQjRGVERveGJnUXF1OGFOcTl5dnpXLVU1WnU3Q2xBakpWRjhkTF96aUtrMGhkWA?oc=5",
-     "date": "2026-10-29T13:51:30+09:00"
-    },
-    {
-     "title": "決算:ディズニーのOLC27年3月期最高益 相次ぐ値上げ、客数と両立なるか",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oYTVxbVlrb05SM1BNeHN1NHFfVTZNTXZwZmRTNldSNEpwaGdlcXBQM3lqbE16ZW44MDAtT29SQjdFUXRka3RKcFFrZEZwSWU4WHprYlpQajAyajVsM0loeU53Vk9HcWNpRUVCYg?oc=5",
-     "date": "2026-10-29T20:15:48+09:00"
-    },
-    {
-     "title": "中国共産党、軍制服組元トップらを党籍剝奪へ 5中全会きょう閉幕",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSld2WnozRUVQVWE1RmlUWmMxMm1ZcHA0OFR3US0yOVpGX3dFcG9hTDRwVE1jTHdDYU1fdHBBZVFyTmFSVTNUZXJ0cE5YWWNPb2c0aC1HRm5BVWZOQ1lMX0lwdnFocXg2U2twTQ?oc=5",
-     "date": "2026-10-29T11:00:00+09:00"
-    },
-    {
-     "title": "中部電力に業務改善命令へ 経済産業省、浜岡原発の不正巡り",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtMDA0b0w3VmJJOTEydGw3ZHpMOGJkbWc1UXVRV3ZIM0ZOd2Rla2JmVzMzb3pnaExhdUFTMkh5MWJmejJreXZ5ZzFwX192cmVBOXpNcWFWUjd3TnhRTVVuZjdsSktfVktZQVFkUw?oc=5",
-     "date": "2026-10-29T16:27:49+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "stock",
    "label": "株価",
    "emoji": "📈",
-   "items": [
-    {
-     "title": "東証大引け 日経平均は3日続伸 アドテストが押し上げ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMERod0FiYWxDU3hBY3BNQkRlY1NTeTUtcHczeVR4ZjAySkJLajdYalJDc0diQmJoUVB3eURDREE3NzBtZXdmU2UxLW13UjFjTE9BMmh2a2E2NkJNOGRyUldBTTBiUXAxb2kxZA?oc=5",
-     "date": "2026-10-29T15:59:03+09:00"
-    },
-    {
-     "title": "キオクシア、決算発表後に株価本格上昇なるか 29日には1兆円買い需要",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Y0Q0X3NZWlVzaktEN09sakpzR19nTlc1cHppVEc0LVRRdVdNUDdjb0YyWlFTNTczUXlFNWl4RGlFNEV0bHNZWWFOZFJKLTlUekJ5X29vbkR4Mi1CRzIxYmY4cm9pQkp2RDFVcQ?oc=5",
-     "date": "2026-10-29T13:15:50+09:00"
-    },
-    {
-     "title": "日経平均終値705円高、出直る半導体株 引けは「リバランス」の大商い",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eGNobkR3LUs5X0V5WUIwNnVWUXk4OUZJbV9QLU5HNUNfaU5kTkxuem9UaTNMOFNDMFhuTkpWWllNcXViRkdVeF83U3NCQXlUMFRZakVnMzFKSmlWeFAzNldNTFUya0lzMGtsSg?oc=5",
-     "date": "2026-10-29T11:56:54+09:00"
-    },
-    {
-     "title": "コマツ株価、午後急落3カ月ぶり安値 業績予想上方修正でも物足りず",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zaWxLc1FkWW9oNnY2emZDWHFhbE9fV3hfTEpwRzdWU3F2OGg5bEZpaUVwUWRWcTY0UThqOTBKQUtrOVlUZDdQRktpLVRCYUNhU3E2R1pjTXczU1lLRll4VDN3Z2ZXUldBRkxZNQ?oc=5",
-     "date": "2026-10-29T15:13:08+09:00"
-    },
-    {
-     "title": "NEC株価一時10%安 27年3月通期を上方修正、材料出尽くし",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvSVM2UmNMT3NlV0RsNU1qWC1HaUFxVnkteEQ1UlBReWE4Q3V6bnVNcHRiX2VxZ0p3WlIzN3V6NDhqNW1TNzhHR3VhQmtTN0VjUU93QXZyX3BycWNtc1A5b0I4Tno5eTlpOVB3cw?oc=5",
-     "date": "2026-10-29T11:15:31+09:00"
-    },
-    {
-     "title": "日経平均株価、米アルファベット株の急落が重荷（先読み株式相場）",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GcWQ5NTNfRUlBUUczVkNudGVudTdHcXA0Y0VvR2g0R2I2SHptMHNuZWx0dlktUjd0Tjl1NlMyOFNINDVReVBmMVdWX2UtRlpKRHRCY2M1Q0c2cEdjcnVWdk5Ha0MtVEU0R2o3UQ?oc=5",
-     "date": "2026-10-29T07:38:35+09:00"
-    },
-    {
-     "title": "日経平均大引け 3日続伸 705円高の6万4659円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YbUlubWFaenRQUTFsMkhFdnM1LXVSSVhHRzRCODUzS29OcDAxQ3RZUm5xV2cxVmhIMTJkbTJPcDdNbDU2ODJMbEpWZWtYOGJYSHVXdU5nMy1JSVRISVhkX18xOEN6R0FSRThTbA?oc=5",
-     "date": "2026-10-29T15:36:15+09:00"
-    },
-    {
-     "title": "日立製作所の株価一時9.1%安 27年3月期純利益、市場予想下回る",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80YWJENU1VaE1QV25MOGhZNUVmN0JobFVLNXplU1B5Yjh2MFUyVVMyMV9Ob2NxdVBwOGE3dno5bkFvNGpSaE5GX2VKbnNQZjEtRkFzVjM5cWVuVnJYb1czc2pwTmt4RlZhZkwxTw?oc=5",
-     "date": "2026-10-29T11:08:20+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "fx",
    "label": "為替",
    "emoji": "💱",
-   "items": [
-    {
-     "title": "日経平均株価、3日続伸 終値は705円高の6万4659円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ueHVNbjMtZWJHYVl4NllSN2lFQWp4cnBxZHN4RW1JLUY2X2tIb3lORnNZR2N3SDBJc1pqYUhLV2YwbTRMQXJoTjZTNndncnBYczBRN3dnRmxYNl9wVFhsY1ZQSGJydndyMzdnRg?oc=5",
-     "date": "2026-10-29T09:08:39+09:00"
-    },
-    {
-     "title": "日経平均前引け 続伸 798円高の6万4067円",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGZW9wSlE0bzVOTjdocGNuVUMyV25HZ2laVk1IWGdzZ3BJTmxsX25FT1JGeHV6dnozYlNQdkdGdlc5Q2FLV0JacGVaVG1jZUllTlVSUnBkN2V5Z0J4ZjVxX013ZGdsWVBGbWNWTQ?oc=5",
-     "date": "2026-10-28T11:36:18+09:00"
-    },
-    {
-     "title": "日経平均終値685円高、AI信用不安が一服 「ハト派FOMC」期待",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNEZJcDc0MXNsbW5WdVlzT1FJNnJEY3lUS0x5TlVtWG85SjdEYTZLejZOUXVoMms2Z0lmdjF6ZGhHei14MnQzRlIyTVJZdFQ3WGhvekQxeDhhakhjS0k0THRiUzNQZjBNWUhjVw?oc=5",
-     "date": "2026-10-28T11:50:50+09:00"
-    },
-    {
-     "title": "東証後場寄り 日経平均が上げ拡大 一時1000円高 韓国株に連れ高",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNVpiekpib0dTUzZONko4OHpqbW1JeW1RT2I4OFNhR2dfTnRwOHctdm1MY3gxd1FnWUVDM0NWZnc2bDBUejR2SFRoODNwVWp6RXJvVjVuR2NxZlY2T1BJV3d4SFpkNldXVTVwNA?oc=5",
-     "date": "2026-10-28T12:59:24+09:00"
-    },
-    {
-     "title": "外為17時 円相場、横ばい圏 157円台後半 日銀会合の結果控え小動き",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1valpIOEczc0lfZDI0MTBJT3RRbUhNUmNEcHU1ZEYzc3l1bURIMTd2NzcwQVBLNEwydXRWQTJmTHBhak9zNXhOVmpDQUEzQWx6QjhWUm9JSlVjYWgzMEFpVlh6T2hIV1l2OFUtaA?oc=5",
-     "date": "2026-10-29T17:19:46+09:00"
-    },
-    {
-     "title": "外為8時30分 円相場、横ばい圏で157円台後半 対ユーロでは下落",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05ejFjTFNLby1CcW1rWU13UllwWHBUanNTTGExcXYxNlI3RWJnY3lOajFra2s5Q2dBemZaUWdNQ2dvMDdwaDN3V1NhWmdUaHdJaDByUmtRS0d2UVBkQzMxdVVBMkN5Q1J6RDQxbQ?oc=5",
-     "date": "2026-10-29T08:51:10+09:00"
-    },
-    {
-     "title": "外為14時 円相場、157円台後半で小動き 日銀会合控え様子見",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16U1hJZVZ6dzRySXoyV09aVjd3cXRYeEtwSDNCTVMxeW9BTWlxWVRiMHFTOTB2dEQyOTBKVi1lMFUyamtrQ29IOXdvVWNGaWJ5NDBDX2h0M0tMZVJIV0ZON3RWakdUUWoxLTZ1aw?oc=5",
-     "date": "2026-10-29T14:14:06+09:00"
-    },
-    {
-     "title": "NY円相場、小幅反発 1ドル=157円80〜90銭 FOMC結果受けドル売り",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3QlFUSHNiUFZwY2oyRk85OVBXcFh2WEhwcjhmOWNYZG1lbXJoVU9TdW9IMzgtWTBjM2VNUDA2WkhYWnJXNjdFQVNzSGpnOWh5UlJKMTQwM2k4SzFheFA5NnFqdE41SUthNkUtTg?oc=5",
-     "date": "2026-10-29T07:12:02+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "rate",
    "label": "金利",
    "emoji": "🏦",
-   "items": [
-    {
-     "title": "城内経財相、30日の日銀会合を欠席 国会日程を優先",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwWWxCTkItV3VTWi1wQms2YUM3bC14WWxjdFNDTWY3a1BHazBZRXRHYlJPNmI5MC1uZUpZd2RYeTNiTDJGV2hfUXg5QXRSM3BxM1ZLeEY3dkFCZVFvRUZ6R0NlT1JYQlBvemZyVA?oc=5",
-     "date": "2026-10-29T21:44:13+09:00"
-    },
-    {
-     "title": "FRBが金利据え置き 議長「インフレ率高すぎる」、年内利上げに含み",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YczhScm1VTzFEVTAtcm1XZFBhZl9NcUJxcHNiV2l0ZWppZFhocmFKQnVHNHNPYVNYUWNXM2FJWk1GTG5OTEotU2FsdkFlY0ZLRFhqbVJRYW9rYW1mS2Z0N3JQbXIwUWU1b0hENA?oc=5",
-     "date": "2026-10-29T03:03:09+09:00"
-    },
-    {
-     "title": "GMO社債の売り膨らむ 不正アクセス波及、上乗せ金利が急拡大",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSVNZdVlpcXV1dE5zTGtHRlNoQW04cVlDSzFNb3FiX2Q2a0hPQWE2T3dzc2xrN2s4X2tkaGx0U0RVYmxkVGFic2h3UVE5VUJLbVVJSS05SkRkTG5xcWJvX2RvYXFocjhrMk8wYw?oc=5",
-     "date": "2026-10-29T16:38:56+09:00"
-    },
-    {
-     "title": "米長期金利、一時5.05%台 FOMC受け約1週間ぶり高水準",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbTM5bXh6ZDlSZ0o2X2dzdW56QkxnTEZhdjUyYzNfXzFJa3FaTWh6aDJyVnlzRml0MHFDZVFobzJlZC1ZNHp2aW9Lc0pQS20tVHRBWUF0SGVqbHpZY1pSQ0N6TVBaRjBUWV8xOQ?oc=5",
-     "date": "2026-10-29T04:28:46+09:00"
-    },
-    {
-     "title": "ECB、政策金利据え置きを決定 インフレ圧力は継続",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZk1vcF9CdEpTVnc1cERYNDBEdUZRQnJXLVZkOHR2WVdQUzlIZjgwdU80V3dKY29sRGpLdk9RNVpRWHNoYWtwTURFNkRTdGNtXzktanlreXpQZFNINjloNlU4WTJDWHo3VXhuZw?oc=5",
-     "date": "2026-10-29T22:18:26+09:00"
-    },
-    {
-     "title": "米国の個人破産がコロナ後最高 1〜9月、金利・物価高が家計圧迫",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSk5McjI0Zlh5ZGtiUmRIRGlQbkdFQlpqazJjT2lIYlVoM3lyVG1vTTNGSVlNcjYxQzRMOWhNREdPLWFPUWFVZ1FacncxVlM3SFdLemlSbXR5R1VfcEI0VjlhdDFna2tXaWlPTA?oc=5",
-     "date": "2026-10-28T23:07:30+09:00"
-    },
-    {
-     "title": "ポールソン元米財務長官「米国債の売り殺到に備えを」 財政危機に警鐘",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ma3dUQ0I2UmdfSGJuTjVRMmFpeUxLRlpkOGF0UFg4SU41N1dQRmoydE9hMTRuMVRLd003UEh1OHBSZC05N3pFdDZDV1lNZC0zUGg2WTI2Y1BpSW81Tm91YmFuam54ejBuMW5iZw?oc=5",
-     "date": "2026-10-30T04:51:18+09:00"
-    },
-    {
-     "title": "迫る日銀の節目 「基調物価」「2%目標」とは？ 注目ワードを読む",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYm1SbWpSR3JxaHJaMUlHWFVGSFk0OGlRU0F6ak9IeWhocmRQblJXb2N1QTE5WnI3elVIbk0wT2s4TG83MXJfVUJSYjdJNnZ0eVp4T2JTV2lUTDNaTjRRVWcwTFZXdFJ0UG5xTQ?oc=5",
-     "date": "2026-10-29T02:00:00+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "fcy",
    "label": "外貨・ドル建て",
    "emoji": "💵",
-   "items": [
-    {
-     "title": "債券11時 長期金利、2.815%に低下 米金利の上昇一服で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSDlBOUlTeWFtSGVfeHVMcl9RU2NvckNpdUF0cTBvVElpd2JmWTd6ZW1nTmI1LXRSd3pwLVdjTXdudExidV82Wm55QUJrVmhwMWhqR3g5cXoxTjc5cXoxQktjMkE5eEJvMGJlcw?oc=5",
-     "date": "2026-10-29T11:29:48+09:00"
-    },
-    {
-     "title": "債券寄り付き 先物、反発 FOMCは政策据え置き 米金利の上昇一服",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MZXZwQ1hCX2JKekRiQmhnYmVkb09QX3NTcWRBNjZUTFJZZ1NWWnZ1bE1YMXFHWUFwTXdleVVOVVo0TDBIZHFxZ0l5M3MzUE1weVVPSTR2NTR5WFY2eC15Ql9wSml4WTZIa25rRA?oc=5",
-     "date": "2026-10-29T09:00:47+09:00"
-    },
-    {
-     "title": "スリランカ、危機乗り越え観光客最多 債務返済へ外貨獲得の柱が復調",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZNjZTMjVsM2gtUEtYRWJLdWF0ODNndnZHTUdmMXlYNG9DbERTU3F0LXpRUExyZWNjREU5ZmVuRy1JWmtqMTFTTFdWTE5SdmFOcTJ4SlNlYUVsbG1qUVhYSzM1aUZWbU44SnZCdQ?oc=5",
-     "date": "2026-10-28T11:00:00+09:00"
-    },
-    {
-     "title": "新たな米国債保有の担い手",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oT0tBRFNzRlROZjZobGRPRTFOV0lkSF9DeTZVY0lmaExVTlFmUzlMNFdIUmhaOUltLTF4aUQ4OXNWaHFoYkhvbkNsZmt6MXI3NTJwVlp4akN0V04tV215Sk1mMXpEM0NFS0oybg?oc=5",
-     "date": "2026-10-28T02:00:00+09:00"
-    },
-    {
-     "title": "世界が認めた日本の才能",
-     "source": "日経クロストレンド",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXBjY0VSbzNWU3ZaV1Z4dDIxWTVWWE9wM2hkcDZfS0lxLVVKX254Y3hELXdORzFuZ0cyS2dyZU1DZ2lMczJDVkltNnhnMW84b0YzTGJfT0k3Q0M5ZHdwSWl5Y1hvQlBSWTZTV3lhVHRFSHJGNDE2Y2xiOTkySmNxUFhqeDJTR1U?oc=5",
-     "date": "2026-10-28T02:42:47+09:00"
-    },
-    {
-     "title": "日デコラ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEVUUTBYb2M0d3p2MGl0cnFiOEV1UUZLT2VYUVJvY2RaNjFhWDFwR0JTMlhFemxxTGZVQlhyck9uQkNSc2RXbVBwSUV4cV9QRDVOYVFpM0hnUzJpaUhWZm9WWG1jSXhhNzdLMFQwVDdjSGRkc2QyZ2thcDdvSTlMUDIxTUlTTTVYRG1HWkowbEtPSEVEUHBEYk9KaVZCYlh6RW82aGtDbXZuMEcwU3BQV1lnQ1JwNy1CQXoyV0Vic2I3XzNfM2kwZEZMSFk?oc=5",
-     "date": "2026-10-29T15:40:00+09:00"
-    },
-    {
-     "title": "2027年3月期 中間決算の概況",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0M1aHJPY2xjU2swYWtibDdaTkZUVlI5YmpaY1JRSVhlV0FCNFFxbnVYVEZGZmp3czZDdlJWbGRuZkNzeElOa3lGNUJQc0J4VENRZnNDYUU1UDVpUTJYQ2ttUkh1b3YteUJtakRpUW12SmdjMndSWW14VnhyTmFvY3NMcnB5OV9jWFJfYTROelhveFAtZEdkVUl0ZG0?oc=5",
-     "date": "2026-10-28T16:34:04+09:00"
-    },
-    {
-     "title": "中外製薬[4519]：2026年12月期第3四半期連結決算〔IFRS〕補足資料 2026年10月27日(適時開示) ：日経会社情報DIGITAL",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmtHODhzX29HSUxJWFBURFBZNHduXzN1eC1BQlFCazZnSG94Qm1qX3phdTJjbFA1ekhxZ2FackpPdklDOG9kSGRJZl85YWhpeE9Hc2dBSkFWSnVpNWdwTktWWG5oR1RzYjIxbmYyUExBdDRFWk1Kc1V3WFkzSUNEcTVZYkhRbUVUeUhmMFRQckx1bktyVVZxS0pySUtfOWtZc1cwQ056bTRHbzJUYVdPWmN6MDZoU19IejBWRFlheXBZQnFubnRoNkhRNlA?oc=5",
-     "date": "2026-10-27T17:00:00+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "id": "yen",
    "label": "円建て・保険",
    "emoji": "🛡",
-   "items": [
-    {
-     "title": "住友生命保険相互会社との健康づくり協定締結",
-     "source": "亀岡市",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HR0dWeUliRDBoMjYxejZjQlFpSWxyazRDNzIwMTQzR0VSSW1rdE9mVzA0aVdQWDBWcDQ0OGhCdVo5b1J5WC1ZTDI5MkdBSFZOYjFLZ3JoNEZaM1Z4czRTdENCRGNjQQ?oc=5",
-     "date": "2026-10-23T16:00:00+09:00"
-    },
-    {
-     "title": "10月13日 明治安田生命保険相互会社からの寄付金贈呈式",
-     "source": "三豊市",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LN0twWG5VMFlGclItSFpHVTd6SGdEWXBVYkowdWxybW4wRU5fYXlnaVRESENHVUZ4NDZOd2lNa0hQSDVzVW1HYW53T0g2VnRIaHY4WnhMX1NoSTBlc2ZFUnpCVmN2d2QwNjdUeVhLOVdJOXM?oc=5",
-     "date": "2026-10-23T09:53:57+09:00"
-    },
-    {
-     "title": "【市長フォト】寄付（明治安田生命保険相互会社）",
-     "source": "中津市",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56Y2dmYmwxaGFLVXIzWm1FYS1ydGlnOU54UVV0MFVSZmkxR2I2YVRybzFqQ1duQUFPM3ZZQ3Z6OW1VWlluMEVBWTEtYW1JSmtsMVMzek9sM3R1Q0lVSHRkdjd1OA?oc=5",
-     "date": "2026-10-23T17:05:04+09:00"
-    },
-    {
-     "title": "生命保険オプションの提供に向け準備＝ゴールベース型資産運用「ＧＢＡＳｓ」で－日本資産運用基盤とＴ＆Ｄフィナンシャル生命保険",
-     "source": "時事フィナンシャルソリューションズ",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUckVJNkd4T3BnYTJaNzR4ZmZQenUyZ0JuOV91VUgyOWljR09sWGtyYlZNS0FQc2ozdDExODhmdVNCWUJpMVRGSU42Q2dUYXhqbUVwbzZ6RVBndzFid1lpRDFMb1l4YTdNNmVHcks3SHlJc2VMMnc?oc=5",
-     "date": "2026-10-29T12:30:00+09:00"
-    },
-    {
-     "title": "明治安田生命保険相互会社様から寄附金をいただきました",
-     "source": "飯能市",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXNYQXpHbGIxZE81MTNkUlZOenlUV2JMVEMtalZodFAtbW1oaGxiLTVGR0MtU05lalpTeHdEdzRtS2tpdzlfRExXeGctZW9KVWFpYVA2dUJuRi0tSzRBTWsxUDlGcFF2MXlfeHE5NUFNZDdPN3VISmVSMllIT0xPbjdXTFBkamxBZjdFd1N5QWhsaHU1czlfNHJDVnhhVXNYUkFBLTF3MmFFZkJkaEtOaDUwMk8taEJ2QzM0NnFuSQ?oc=5",
-     "date": "2026-10-23T06:00:00+09:00"
-    },
-    {
-     "title": "物価高があたりまえの昨今、生命保険料が割安に？ カギは国債 “カラクリ”が…",
-     "source": "テレ朝NEWS",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTldaSGtLenByTVlSbklBYjBLTE9iT3NoeUM1NE1xZC1Jd1dYRl9ielV6ZWVqX0lxZEdOWm1sanJlMnhmOHpzM3paWDBXTEM2TS1Nc2VwcHctc2g2aDlTMzRNRkw4WjBjS1NTYS1sTXJiUQ?oc=5",
-     "date": "2026-10-27T19:17:14+09:00"
-    },
-    {
-     "title": "（26日配信記事） 円債は償還多く残高減、保険新契約対応では超長期債購入＝住友生命・26年度下期運用計画",
-     "source": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYcnZJd1hBeTBfV0hVbGlHY3hjRDhRaFhEU2o2YjNMSWhHODVpQzItX0NPNjhMVzVsS01iZjR1UFgzWTFpTTI2TUhSOGdGWW1mSVpaalpVMVhfWUlZdDIwXzlMZE1aY0VhVnFjYnpyaExFZEc3NWtReXdKR3NxZw?oc=5",
-     "date": "2026-10-26T18:00:00+09:00"
-    },
-    {
-     "title": "今年の年末調整「子育て世帯が得する生命保険料控除」とは",
-     "source": "毎日新聞",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMU8ydHhEZFFDTmlzb2UxWlNzSzBJcjZoZDdIVEpST3pYWlNhcENZcmgyRGFzRmF5NTh4OGJmMWtGWmhVYU4wTmxpNlFfbVVwSWFqVjROUlhray1DelBHZDRvaXotQVRtcG9nRzNic0tFLWFVS0xHY1BTdThTNW8?oc=5",
-     "date": "2026-10-23T06:30:00+09:00"
-    }
-   ]
+   "items": []
   }
  ]
 }
