@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T05:15:13+09:00",
+ "updated": "2026-11-03T07:44:36+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,28 +7,64 @@
    "emoji": "🌅",
    "items": [
     {
-     "title": "人口最少798人の町、補助金55件をゼロから検証 分配から選別に転換",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zNEVDU0RjMUFSZk9UWk5YY29uZldnLVIxT25hSzdJTHU1cmxJdzN6cWJQaHNvN2p5bFdTbFhXNjllRng5bVdkZVpNeGlzR1J5MTcwbDk3NVplT0dzTXlHLTUyWUV0dUJlRmpaVw?oc=5",
-     "date": "2026-11-03T02:00:00+09:00"
-    },
-    {
      "title": "「マスク帝国」左右する米中間選挙 テスラ・スペースX統合にも影響",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUnRMa3VpdlgtMFRPV0FvOTh1QTU4ZzZ1aENGOUdUdGVYNXU0SGNfeTM4NC1MOHFrWmEySkp0WHNYYTd5d2VsZDJ0b0NrM0xUajJTXzZzaXF6b0lJMi1FeU1kY3A0dDN2VTNaRA?oc=5",
      "date": "2026-11-03T03:41:48+09:00"
     },
     {
-     "title": "仮想通貨業界「青い逆風」を警戒 法案停滞やトランプ一族に監視の目",
+     "title": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zYzU3VWNlcF9Va29VVGtDUWlXVzFrdVpRZTNKQ203aXJLbTduQWozaHFCLVpSQl80ZWhKMlZrc1RmdzU5UGh0VW5XLUV6UjF3eDA5NWEwUU1qMHZmS2xkT0ZXRUFNOWQwLWdJNg?oc=5",
-     "date": "2026-11-03T02:26:27+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aW1ITDNkNTk4VGZDVmFiUjJKZmk5NmlvX084VWppWGRoWjBlb1o3S3BGcWdZd291UXBCTGx3S1dldldPNkU0eWVLQkwwZVhyN1o0V1czcnlvcnE2cWpQVXJfSmt4dUNLWHhFMg?oc=5",
+     "date": "2026-11-03T04:15:28+09:00"
+    },
+    {
+     "title": "トランプ演説「赤い州」が7割、共和に逆風 中間選挙3日投票",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlYmtDaTE3NG1ZaE1qalVvd0NlSWE2b1dTM1VMQVJEVVRWNGNDTTJYMm5QWXhDbVRmQUxieFZ2TklBZDlSak9nSFhFRDZ5Z2VTcGZ2aEtpMnBqanVCYlZzaHFXZzNjeGtwZ3RBbA?oc=5",
+     "date": "2026-11-03T04:52:11+09:00"
+    },
+    {
+     "title": "GMO不正アクセス、複雑な統治体制で防御後手 急成長で150社傘下",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pUHpRNmJ4YU4xdHJyOUdrZ3ZIVHhrTWF2UWFOU08zY25SWjhQV1FyQzFWSWdtU0FzN3hKXzlTNW1PbUQ2WUpqR3FjM0R1LVE0YVZWVVdOZER4cm9nbmFwVVY2UVFJdHl3VVNoNA?oc=5",
+     "date": "2026-11-03T02:00:00+09:00"
+    },
+    {
+     "title": "キオクシア株急落 失望売り促す「保守的」見通し、株主還元も期待薄",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UTjNzTkF0RUowZGxiSEFqVjVZSGN3OExrR1kwdHZySV9OYzZhWG90YlZ4ZHFhNFpwbXpIWE56QkgydzJnWWUyLTI0SFd1LVVGbGtsaGFkcjNma0ZIT3IxVUpPeHdZNEo2T0oxZQ?oc=5",
+     "date": "2026-11-03T04:30:00+09:00"
+    },
+    {
+     "title": "人口最少798人の町、補助金55件をゼロから検証 分配から選別に転換",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zNEVDU0RjMUFSZk9UWk5YY29uZldnLVIxT25hSzdJTHU1cmxJdzN6cWJQaHNvN2p5bFdTbFhXNjllRng5bVdkZVpNeGlzR1J5MTcwbDk3NVplT0dzTXlHLTUyWUV0dUJlRmpaVw?oc=5",
+     "date": "2026-11-03T02:00:00+09:00"
+    },
+    {
+     "title": "NYダウは反発で始まる、一時500ドル高 原油先物価格下落で",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ILWo5cHpuMHRJWFp2TkN1RzYxY0EteW5BdkRORldwTC04U1FpVUVuMWk0bHlXMFN2YTZMYXFUdnZqSHF1azMwMWNlRnNtSGJTNUtGVTRNX2JaMExCcFpYa1gzWUhkcFVYa1pwRQ?oc=5",
+     "date": "2026-11-03T00:21:56+09:00"
+    },
+    {
+     "title": "全東信に貸し続けた金融機関「情報収集弱かった」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yVHlYOXhydXhhNmY5N0kwQjdRNkZfcnpwNkRWem90aFgxV1M0eUNHMGdrdkdxOUgzMmV6Y3FpTUY5YnhxSWlqLWJQWXJiMkV5YjJncEl1dUVidk1UbUx5QVpGazB1QlV5bUc4aQ?oc=5",
+     "date": "2026-11-03T02:00:00+09:00"
     },
     {
      "title": "ブルワーズのワールドシリーズ初制覇、米国野球の転機に（田口壮）",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VM3hJWUx6YWNsaUhCLWZJQTlTaFNTek5QR1MtZ1dtbTZYRzRPdlE0Vm5EcHd4bFBGRGJRdVdWQmZBc2JDajQ2MlF6T1BsYktrdjNraEhQakgxR2dNbF9ac2Y1dnFxdUFydDNDTQ?oc=5",
      "date": "2026-11-03T02:00:00+09:00"
+    },
+    {
+     "title": "10月の米ISM製造業指数、1ポイント上昇 AI需要なお底堅く",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRWlFWkRDS3ZlaHdIVlk4UW9aVUpfVzRDMDVzdDNLaFB1OVkyTHVaZ0RSQlJlYzAtbkFEV09rT2JGdmdyQjU0alAtektfdGlzUjZkX3hoX2pSclVqNzhxZU83aHVoamxjcmF2OA?oc=5",
+     "date": "2026-11-03T01:38:31+09:00"
     }
    ]
   },
@@ -50,40 +86,40 @@
      "date": "2026-11-02T15:10:10+09:00"
     },
     {
-     "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85bXpyWXMydzNZdXpmYkdycHpfVU9NNWtjVVN3dTU1MEtJUm1HTnNPYXItbGw4eGphX3RaTXdLNGhDYkgwY1RnY3RzV0xnVkxoVzgwdlVoR25DbDdmbm1aVkhzVFdnVUprVDJ1OQ?oc=5",
-     "date": "2026-11-02T18:00:00+09:00"
-    },
-    {
      "title": "チームみらい、消費税減税法案に反対方針を決定 物価高対策の効果を疑問視",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTGhpQXdKZE5oTnd3Z0VyWkxFYW9hSW5kVTNvN2F6RUdXcDRpOEtDa3hRdVVHZ3htOXJfU3hGRG5pRTYzU0xpeGRkN2VsNnpXVEZrcWRpRHlQR29HZ2xueGQ3aEthYS1MSUFScQ?oc=5",
      "date": "2026-11-02T23:22:59+09:00"
     },
     {
-     "title": "NTTデータ、2789人の情報漏洩を確認 委託先の不正アクセスで",
+     "title": "ロードサービス企業で最大550万件の情報流出 不正アクセスで",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSThmRzBZWUwzcjNxdDNpYndUWTBoTURPN29QOWM3OW1WWGw0NnJOWE0wSDlNQk85TGpnNXBGc2VSMEdsNU1Keng1RXRsZnJaczVMMnZkbzRlNEZCbFpTRWpNME15ZkcwR2M1Rw?oc=5",
-     "date": "2026-11-02T22:20:58+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoaTZjV0N2RTB2bC1FNFBjWHM0eXJHSFNHdzB3elRSc25TeVNqdmxBNkFSaE82MkJlcGhqRm8tMjY3Q3N1Sy1jbFVzZFBZWlJ6ajdaSkN2UkRfS1IzOUpPZjU1clhscUVaVENWRw?oc=5",
+     "date": "2026-11-02T23:14:13+09:00"
+    },
+    {
+     "title": "ノジマ、ECサイトなどに不正アクセス 顧客情報700万件流出",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ybnVlWVI5bC1UZC00VlQxOFptQ0F0bnVzajhySnFHNFVIZWRyaEdjczB3YjU0b2cyUkR1X2xDcXZ0bEN2czZocDEtUk0yUTRtVkZsQUdHRjlxZFRvbF9fQlFkckx6bkxQakp4ag?oc=5",
+     "date": "2026-11-02T19:35:41+09:00"
+    },
+    {
+     "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85bXpyWXMydzNZdXpmYkdycHpfVU9NNWtjVVN3dTU1MEtJUm1HTnNPYXItbGw4eGphX3RaTXdLNGhDYkgwY1RnY3RzV0xnVkxoVzgwdlVoR25DbDdmbm1aVkhzVFdnVUprVDJ1OQ?oc=5",
+     "date": "2026-11-02T18:00:00+09:00"
+    },
+    {
+     "title": "米ファラロン、ヤマトHD株5%保有 長尾会長の取締役退任を要求",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02eWVYb0FzMXNmWXQ2QktCNzJaTEYtOVM5NjQzYUxaU2pEN0ZlX0VZeUpCMEpTRW1hSVlFX0dQVi0tQ3plOHNOeDIwSnRtdkpzcUMteG80LXFlVFhCeUFwRUEwZ0h5UFpZUGs5WQ?oc=5",
+     "date": "2026-11-02T17:18:16+09:00"
     },
     {
      "title": "GMO、熊谷社長の役員報酬を3カ月30%減額 不正アクセス問題で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUmpBVnRmRjRSN1hpOGc4UjVyc245VFBDX0VlQktYa0drbnYtRzlyNUQzU2ZCQ1FLZ1VDR0l1SWNfX0tTa1F4M28zX1VHN1QzS29DbmIwX2RkdFZvekZySm9zcnFvbk85TWpBUQ?oc=5",
      "date": "2026-11-02T15:44:23+09:00"
-    },
-    {
-     "title": "東京エレクトロン株が大幅高 半導体「スーパーサイクル」見方強まる",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BSk96aGFhdy1Vb2FHMl9ONm5WUG1OOU9OYWpxWnViWHFiakV2YzU0WnZsUDZ6b3VmNjFzWlZzMnVfNnpndEh6LUIyNlpQSUo4Q19zREtMRzRWZ1g2S0MtbTRfMjN5emZLbzhFMQ?oc=5",
-     "date": "2026-11-02T13:08:52+09:00"
-    },
-    {
-     "title": "4~9月税収23.7兆円、12%上振れ ペース続けば26年度は90兆円に",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2ZC05LVRIT0lJeE5reTYtMW1aS2xoMlRhMTFKM08tOGFobDVJTWpIWHN0Q2t6S2w0b2NBOWgwempLNGwxSTVBMFNyR21qVnhvOVBmVDZpVXQzNTRaN0x0aUt6emRZWGp0OVRRTw?oc=5",
-     "date": "2026-11-02T18:47:12+09:00"
     }
    ]
   },
@@ -160,22 +196,16 @@
      "date": "2026-11-02T10:30:25+09:00"
     },
     {
-     "title": "片山財務相、為替相場「前よりは改善」 日米協調介入から3カ月",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSUIyM1EzdzY1Q25tRlBNaC1HdTJSZ0V0ZUhKVzBfbzFWMGphLU11LXhodE15N0EyVUtpOGlOVHpRZHhld19ncjZhWGxQRHpudFJTV0Z0Vll4YV9iaDZHaXBGOGR6YzI5Vzh4LQ?oc=5",
-     "date": "2026-11-02T11:22:39+09:00"
-    },
-    {
      "title": "日経平均大引け 続落 208円安の6万3081円",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELW40UkoxTFFVYVhHY0x4QWFjTFI5cUpWWnV4Q2RvRl84blZrV2lBVFBMc0MyZnRPNXhIUDZjaFZDY1dIWUlOV1E2TTQ5NDRsd3h3bXZlSW11Y21Bd3Z0VHNua0s4dk5xN0hMdA?oc=5",
      "date": "2026-11-02T15:35:48+09:00"
     },
     {
-     "title": "外為8時30分 円相場、横ばい圏 157円台半ば 対ユーロは上昇",
+     "title": "片山財務相、為替相場「前よりは改善」 日米協調介入から3カ月",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xOGZOakhGS205Y1pWTmhpbW9ldW5qajdxY2F2cVNGQi1ORzJybjNMMTluTmFnd212TjlwRndDZHhqQktEX1JkX3kybUUtZW1UQVAyUzg5Szlla25Pa05IVzNyek1IQlY3UVo5dQ?oc=5",
-     "date": "2026-11-02T09:01:31+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSUIyM1EzdzY1Q25tRlBNaC1HdTJSZ0V0ZUhKVzBfbzFWMGphLU11LXhodE15N0EyVUtpOGlOVHpRZHhld19ncjZhWGxQRHpudFJTV0Z0Vll4YV9iaDZHaXBGOGR6YzI5Vzh4LQ?oc=5",
+     "date": "2026-11-02T11:22:39+09:00"
     },
     {
      "title": "外為17時 円相場、反落 157円台後半 米中間選挙控え持ち高調整",
@@ -188,6 +218,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OeFFjVy1LRWNsLUVvd2pfckhTaHMtSlFJd2hxallPTDNFcnltU1ZUdDBfNGFIem95bTZveUQ5d3ZMbjBySlhjNFJCT0ttMjBDdmdzcGZuYUctNUF0SHN0dFdlTy1CYmphYzB6Rw?oc=5",
      "date": "2026-11-02T18:12:52+09:00"
+    },
+    {
+     "title": "外為8時30分 円相場、横ばい圏 157円台半ば 対ユーロは上昇",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xOGZOakhGS205Y1pWTmhpbW9ldW5qajdxY2F2cVNGQi1ORzJybjNMMTluTmFnd212TjlwRndDZHhqQktEX1JkX3kybUUtZW1UQVAyUzg5Szlla25Pa05IVzNyek1IQlY3UVo5dQ?oc=5",
+     "date": "2026-11-02T09:01:31+09:00"
     },
     {
      "title": "外為14時 円相場、安値圏で推移 157円台後半",
@@ -215,12 +251,6 @@
      "date": "2026-11-02T02:00:00+09:00"
     },
     {
-     "title": "金利低下でも沈むゴールド 1年ぶり安値、米中間選挙後の原油高に警鐘",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QSXA2aFMtVkpzUmFLM2R3MHZvdTlCY3NDamZPbldLNHZaRjFENEF3aWNfMmxYblVzc29PT0VmV29KNUFkeHZ0ZEZMUzliNENfWU1hVlVGbF9HWDBDLWljZ0JaQ2VtaVBORU54aA?oc=5",
-     "date": "2026-11-01T05:00:00+09:00"
-    },
-    {
      "title": "フラット35の11月金利、3.81% 4カ月ぶり下落",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VXliMTlHS2NDeFBQTE1NVVFaR2V0X0U1WENCTFhBWkR3NC1URUdjNl9wWHJ5SF90Vk1OLW9HVXpNc1pEeWJPdFRqcFE3MkplaXRoSUZPN3JuQ001SWlRRkxKeHhMcDI3WWR0OQ?oc=5",
@@ -233,12 +263,6 @@
      "date": "2026-11-02T15:01:09+09:00"
     },
     {
-     "title": "欧州国債概況2日 独10年債利回り低下、原油先物の値下がりで 仏長期金利も低下",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWDN1NFljQ1RSUTF1cXRBQ2c5UWJPZVc2QXZLbmRIUElDOEpmejVoNXh0Q2ZTbDN1YVZVYi1LMTZQdng0SVI2LV9zcFdaXy1qc1pQcmpESnFIeWZnUkxBVWdNbmEzMHhXcVJTcg?oc=5",
-     "date": "2026-11-03T02:36:33+09:00"
-    },
-    {
      "title": "債券15時 長期金利、2.770%に上昇 株安一服と原油高で売り",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Hc2lqN3VZVUxzNXVyeF9oZ21qVmpBeHlMM2MxemNuTXR2WHgtSkdGU0UybTNPSlBxR0xnZm81TGhOa3ZQTjVMZzZ6d0RHb1hGQTAzV0trdVZLcjBjOTJjYTZqVkFqTUR3aHp6Yg?oc=5",
@@ -249,6 +273,18 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wM0hWMXpFLUhpMlBDS2V5d3FXb21qNmRBX3dZTllnZDU3YVp3aTlnTlN0ZThpZUstZC13cG9JM1VwTFhxMC1QbG8tVkNzR2IxaS1QSi04Tm5qOFQzal8xa1hWSFNtMEFPN3ljcw?oc=5",
      "date": "2026-11-02T17:40:00+09:00"
+    },
+    {
+     "title": "欧州国債概況2日 独10年債利回り低下、原油先物の値下がりで 仏長期金利も低下",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWDN1NFljQ1RSUTF1cXRBQ2c5UWJPZVc2QXZLbmRIUElDOEpmejVoNXh0Q2ZTbDN1YVZVYi1LMTZQdng0SVI2LV9zcFdaXy1qc1pQcmpESnFIeWZnUkxBVWdNbmEzMHhXcVJTcg?oc=5",
+     "date": "2026-11-03T02:36:33+09:00"
+    },
+    {
+     "title": "紀陽銀行、定期預金金利0.1〜0.275%上げ 5日から",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tdFFTMHg5VDBodDQ1VEZ5OE5ZVEpiMHJTSGJJODgwMUNrMjZaeEo2WXZadnN0NkpuQnBnNDhCZGtwZFB6N2hwdXMxVDFLaGc4VkJhVWtTQnJJazNoLVpxX1poVWtDTGpmdTE0UA?oc=5",
+     "date": "2026-11-02T19:16:46+09:00"
     }
    ]
   },
@@ -268,12 +304,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51aGpSdVcxQ0hxenlPRkJhbXdVSUdyaXFJT1Q3TWpyRngyd04taDBDanFMOWU1MzZoTFBMSUY4ZzBndWhOTTVkV1lDaDhRbXBqQkNQdnZDT0RXUk1jSkFHVjNidWFqdXJnS2tTWnRNMUtJMEpOWnJn?oc=5",
      "date": "2026-11-03T00:00:00+09:00"
-    },
-    {
-     "title": "世界が認めた日本の才能",
-     "source": "日経クロストレンド",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLeHhobWJhLWdpMkl4d3lMUXVkeUJtSTZvcE03Q0FpcDZLNlRCZ2E1cWNZNFkzamVEU2lhUU14Nm42T0V6SmlweDUxSC04Ry1XM084SU1pS0R1Q3N0QlE?oc=5",
-     "date": "2026-10-31T06:33:01+09:00"
     },
     {
      "title": "ノルウェー基金、エシカル投資が直面するジレンマ 見直し議論が白熱",
@@ -304,6 +334,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ib1hEakZWem5HczY4c2lGcWdNeGNuVlIwOHozWmZrNGZINDl6X2ljekdKb0dkOHFzOHZsdGFRY2lTQ2lrWG5teEhheEZBMlg3YmZiSWhvMU9HS3EzaUo3QWNKRTlIbFVPNmwxMA?oc=5",
      "date": "2026-11-01T18:00:00+09:00"
+    },
+    {
+     "title": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
+     "date": "2026-11-01T02:00:00+09:00"
     }
    ]
   },
@@ -325,28 +361,22 @@
      "date": "2026-10-30T16:00:00+09:00"
     },
     {
-     "title": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
-     "date": "2026-11-01T02:00:00+09:00"
-    },
-    {
      "title": "令和8年度 明治安田生命保険相互会社 目録贈呈式",
      "source": "流山市",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMZ3M3T1hKT0c5TzlrYW5wUWpVUmJFQ0NwWWdkN1NVNnpxcDBXQVVpQ1hHc0FEQ0FLZzNrVzBnVkxfZ2M5Z0xjMnZlZ1p2ekU3U0pXckJQbVVQTjRKRkdKVGwwLTN1RVRU?oc=5",
      "date": "2026-10-30T19:28:43+09:00"
     },
     {
-     "title": "プルデンシャル生命保険の50代前半、一般事務・受付・秘書職の年収は？【1万件の口コミ情報データ】",
-     "source": "ダイヤモンド・オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LMWpXVWNrZXJTTUhpd2VpWHF2LUNYeGdVX1VYWDdhT0g0eWdxWHZyMjBFYk5KdE43cVRSVHZ3Z0RQZnhqRGQtZGdLSUbSAU9BVV95cUxQUktNNjZoSmgwMjF5OEN5OFFVTzZSTlRBaUFfYjZVa3dkYVdGaDNOcllkT1pTMENOWl9fcVhvdVZCeG9oN0NiRzlGS2tjaUtV?oc=5",
-     "date": "2026-10-27T05:30:00+09:00"
-    },
-    {
      "title": "【2026年版】年末調整・確定申告で生命保険料控除を申告し忘れたらどうなる？対処法を紹介！",
      "source": "コのほけん！",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TRXQ3MHZ2XzJ2YXdKZ0dNM0FYa1pody1zRmxmOTFoYk9VaFhxU25lakFCcE5fZDBhcVRwdDYwcjRQTzI1Vk1IemJsWkdGMmM2YUE?oc=5",
      "date": "2026-10-28T16:00:00+09:00"
+    },
+    {
+     "title": "メットライフ生命保険の50代後半、部長級の年収は？【1万件の口コミ情報データ】",
+     "source": "ダイヤモンド・オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3eUN0c2h6aXdVZVF6R211NzZ4amc0M1AxYTE0Z1hFbjExWmJYR3htNXNaSDNXaHpFVkxLQmpiRWdlSlFidXptN0o2QkvSAU9BVV95cUxOYlBVR0dDMW12a3ZEemJFRjVaeE9Ka2R3U2RTTHExSHVzU2c1M0F5OXdDVGJTYlk1V0phVHlZSEl3Y3IySmx1YWg5bzJtTTFn?oc=5",
+     "date": "2026-10-29T05:30:00+09:00"
     },
     {
      "title": "五戸町の生命保険会社のオフィスに灯油をまいた男を送検 | ABAニュース",
@@ -359,6 +389,12 @@
      "source": "Reuters",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tTDNWcko2dXJGVnFvTmdDaGNfLVRTLV91Q0twa2MyMnpQbjZIcFo0ZjFyS2Y3dVVfVHVyNTgyNlBORkEwQ0hWcDh4cVgtZHRjQUUxdEt4RXpfeVJTRS1jeXcwQzZoOWNFRVFyczRyM2JMeExaYk5vcTI1S21TQQ?oc=5",
      "date": "2026-10-27T16:30:21+09:00"
+    },
+    {
+     "title": "生命保険会社に灯油まいた疑い 82歳容疑者を逮捕 青森 五戸町",
+     "source": "NHKニュース",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2OGhWVDhldWJQSHlJRExTM256MlBCa2xxbnlmcUNkN24wa21BYzVGejEyYUpfZnRpWWZ0ajlCal9lVlJMcExIMGQ2YUUzWEFxTkRzWFU1TVVTaXJIQXdB?oc=5",
+     "date": "2026-10-30T20:41:00+09:00"
     }
    ]
   }
