@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T05:15:09+09:00",
+ "updated": "2026-11-04T07:43:49+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,9 +7,15 @@
    "emoji": "🌅",
    "items": [
     {
-     "title": "三菱UFJ、新銀行でキャッシュカード全廃 サイバー防御へスマホ入出金",
+     "title": "ブリヂストン、直径4メートル巨大タイヤをフル生産 AIブーム下支え",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pODVBRkN6bkRTM0JxaGxsLWE0VklyTDNIWGJoUjVuQ1ItV2h1b1dmd1pwaGJobEtQS3RTUkI3MS1BVk1ybXlDQ3NtaGxONGlmT0g0ZFlRdjRjdWMyOWxrYURTdTByQkQ1SmhfWg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xLVZHU1h3dFlDYXlJdWNNdElzREM5LW9QMlk4Q01wdGdrMFJubGxCYTNMaWZNODB1YVhHRnZRUnpIVmRKNkl0SXhmV19nZFN0MkZJNGt0cVlHYU85aE1rczl3elVEcmRzQVhwLQ?oc=5",
+     "date": "2026-11-04T05:00:00+09:00"
+    },
+    {
+     "title": "トヨタが総合首位、全部門でトップ 日経BP「ESGブランド調査」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91TFBXVW1kakwzanh2eVFMR0pkXzJPRjVDVFBqVG85aThDRlV6cExZM3d5cl9ObEc0UV9PUXR0UlBmd1pDdGNMdmZsczE0SmpXSEUzSUZfcmpBclJxY2VTRlhWZllVWTNIQk9JZA?oc=5",
      "date": "2026-11-04T02:00:00+09:00"
     },
     {
@@ -19,16 +25,22 @@
      "date": "2026-11-04T00:52:19+09:00"
     },
     {
-     "title": "米アポロCEO「システム刷新に550億円」 未公開資産、売買しやすく",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UUdzRGFRV2tiQjQ5eXVsbndHZk1CMHctZjJVQ3E1Z01sLXlFazdGc19lMnRheEU5MG53Zm1iMzkweVI2UDBncmhyejR4MkttVUdXZU5SaDgzbjM0OWhOZWFhemR4Y1hsVlFGeQ?oc=5",
-     "date": "2026-11-04T03:28:01+09:00"
-    },
-    {
      "title": "AIインフラを金融商品に、米モルガン・スタンレーの「錬金術師」たち",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IYm4xRnVGd1FONWc1Y2Vqd2luaDlUXzNIM2JXeDBUVkVXbl80YmdQLVU3S2VOVy10UE45MUlyZWdnOFRIcUlQWTQ1VzROR1hWUFJvMjl6ZG5HM2gyQzZKMlh1bzZQdm1scnAyNA?oc=5",
      "date": "2026-11-04T04:00:00+09:00"
+    },
+    {
+     "title": "三菱UFJ、新銀行でキャッシュカード全廃 サイバー防御へスマホ入出金",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pODVBRkN6bkRTM0JxaGxsLWE0VklyTDNIWGJoUjVuQ1ItV2h1b1dmd1pwaGJobEtQS3RTUkI3MS1BVk1ybXlDQ3NtaGxONGlmT0g0ZFlRdjRjdWMyOWxrYURTdTByQkQ1SmhfWg?oc=5",
+     "date": "2026-11-04T02:00:00+09:00"
+    },
+    {
+     "title": "米中間選挙SNS分析 共和が唱えた「国の危機」、民主は「生活」に照準",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pVWZVTEI4dHM3QmNJS3hhZWdyR0VOdC0zSXlPVlZndV9FeERwbE9jSHlnSFlzRmVGclZCb0xJUTFhUWl0YXkxN2pRWDg3TmRyMXh6NldPQjVGUjNYTUctQ1pQbWlrbS1iSTlhVg?oc=5",
+     "date": "2026-11-04T02:00:00+09:00"
     },
     {
      "title": "米国の求人件数、9月は752万件に増加 4カ月ぶり高水準に",
@@ -37,34 +49,22 @@
      "date": "2026-11-04T02:41:38+09:00"
     },
     {
-     "title": "機内WiFiが7倍高速に 航空大手がスターリンク採用、単価アップ狙う",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DLW9YZDJjMDAwSDZrejQ5dHZDeTlEY2xPaWZZMXgybWpYbk8wOFhXVDJFS0Etd2E0TjJGV19BaUZ6OEFVVi00bU5VVVJsZFAwU0tqUW5TWlpqVWllRTFSa0hVNDNQTzR4ci1xNA?oc=5",
-     "date": "2026-11-04T02:17:28+09:00"
-    },
-    {
      "title": "デジタルバンクとは スマホ前提、システムを再構築",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uZnZxOFdiQzM0bkJZMzNQUFVqVEh5TW1wZkpfcHpiWk1CZGtNU25POEJ5c1dzQmtCTVYzNGpyN3M1R2RIY193dWVGaXRybjl5RlZDYXhobmNkRkhtZ05xWkYxLTNhWnJPSHVuOA?oc=5",
      "date": "2026-11-04T02:00:00+09:00"
     },
     {
-     "title": "地銀がサイバー防衛で共同戦線 九州など13行、システム調達で協力",
+     "title": "トランプ氏、イスラエル支援を打ち切り 中間選挙で民主候補から批判",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pMHlqLTMzMUNyTWpKT1ZwLVpJWlZ0aG92Z0p4TE5WbENlM1J6Nlh4ZEd2WkVQTmhUel9ReTJ0V0RZSXdwYW12NFBxVm9UQnpXX1NRZGVnSW8tNW04SjdDN1p4a0o4Z25hcThzNQ?oc=5",
-     "date": "2026-11-04T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RZTJoRjBYZFRvUXRXc2dSdDJHQXE5UEdYQVNpVzczRVV1b0FOSHFSSzF0UmxHY0szNHVjY1lmS05LVUd3dEJMT3pJbzhYRzM0YVdMcjFLZkQ1WF8yVS1HRXg2dWtBRG9SUnFnaQ?oc=5",
+     "date": "2026-11-04T06:19:55+09:00"
     },
     {
-     "title": "十勝の成長「AI農業特区」が後押し ロボトラ・ドローン活用も",
+     "title": "日本車4社、10月米新車販売は8%増 トヨタは電動車が3割増",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zVUJsd1lhNzRHV01PWFQyZk1Ua244Y0FnVTh4ZlpodzU3X1QzcW1TeWZRUURQTDZQb0d1ZGotZG1vdlp3YUdrQjJfcUpNZXdpa3k2U3ZwNVJXUU5VTE9VekVQbUVyY0VqRnY2Wg?oc=5",
-     "date": "2026-11-04T01:45:00+09:00"
-    },
-    {
-     "title": "米中間選挙SNS分析 共和が唱えた「国の危機」、民主は「生活」に照準",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pVWZVTEI4dHM3QmNJS3hhZWdyR0VOdC0zSXlPVlZndV9FeERwbE9jSHlnSFlzRmVGclZCb0xJUTFhUWl0YXkxN2pRWDg3TmRyMXh6NldPQjVGUjNYTUctQ1pQbWlrbS1iSTlhVg?oc=5",
-     "date": "2026-11-04T02:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wOFh1TWwxeFVNOG1QNURlSWZCY1F0OGtvdFFwMkNuMnFKUzI4aU9EM0F5Yy1UVjkwS1VvNXU1S3dHdUZ0TXVsN2VqekIxMnlId1RfTmhaWnVGTEk0QUJJOUJLRTJocGsxeDRsZw?oc=5",
+     "date": "2026-11-04T06:09:28+09:00"
     }
    ]
   },
@@ -74,22 +74,16 @@
    "emoji": "🗞",
    "items": [
     {
-     "title": "セブン、宅配サービス「セブンナウ」の顧客情報16万件流出",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Da1dDcEhFc0pQZ3gwdmRWMkRUdElCaWFIMkVDUllRVGdiTW5ObTl5R0RUTi1OUmdWb3VkSVZVRzN2eUFjelhZX3QwTy1HSS1YdGFfVTl3R2k2cldLc0lzUTVjTUU5YXVHWHN5dw?oc=5",
-     "date": "2026-11-03T19:56:38+09:00"
-    },
-    {
      "title": "独自動車部品大手シェフラー、3460人削減 欧州5工場閉鎖へ",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVVBFb1MwdXQ4V01vZGVmVFJoQjVFR0VjOG15YmV5eTRVdzV3MzVydjNYY1RtdnRscXMwdWI2WVJVbnA5Q0FkTnp5ek5PSXIwOTlEUE9iRE9PV0tROXpyYWw4SHpUSkNSTUVQWQ?oc=5",
      "date": "2026-11-03T22:35:42+09:00"
     },
     {
-     "title": "独化学大手エボニック「BASFによる買収交渉に応じず」 情報交換は継続",
+     "title": "セブン、宅配サービス「セブンナウ」の顧客情報16万件流出",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zWXU3djJqemZlNDlpRjhXTjVRd1d5amFTdV9RZ19CQ0xaVnFoWmtqNVlDVHdLeUNVbHktRnE0UUR6eEQzaVRPWjVWd3RjWjJIVGZWT0JsS2g1VnRKRGduQ0pnU2l0WlowUXRPSQ?oc=5",
-     "date": "2026-11-03T21:35:41+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Da1dDcEhFc0pQZ3gwdmRWMkRUdElCaWFIMkVDUllRVGdiTW5ObTl5R0RUTi1OUmdWb3VkSVZVRzN2eUFjelhZX3QwTy1HSS1YdGFfVTl3R2k2cldLc0lzUTVjTUU5YXVHWHN5dw?oc=5",
+     "date": "2026-11-03T19:56:38+09:00"
     },
     {
      "title": "私立高の納付金負担2倍に 授業料無償化も就学継続に懸念、NGO調査",
@@ -102,6 +96,12 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hOWx5aFJvMlU5OV9iTWtIREFvVlNsc3d4VGhncTlYVlhHRWNhT3F1Q3NGOWpWYlRaUmpmRVp0NXVIX0NTYmNtTGNOTlRjb0RfeFl4U0tVdUY2dU9KWHd0UktLR3JaeG5RZDVycw?oc=5",
      "date": "2026-11-03T20:20:23+09:00"
+    },
+    {
+     "title": "米国・ロシア・ウクライナがUAEで3者協議へ 10〜11日に",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVEVCcmdISVNCZEFTSFdKY0lkRWZKTFF0SnBPUTNWeDdGSTJrZTlXZjlZODdpSDd0STYtdlFiZWI3MzZ6c2VIQU9TWThYQ3UtdHY4MHdmVEpjdzJodjdZVzA1cUFzWkphVVBnbg?oc=5",
+     "date": "2026-11-03T20:21:12+09:00"
     },
     {
      "title": "タイ、輸入EVの物品税35%に引き上げ 国内生産促す",
@@ -153,12 +153,6 @@
      "date": "2026-11-02T11:57:36+09:00"
     },
     {
-     "title": "日経平均株価終値208円安 キオクシア急落でも売り波及は回避",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5naGxuVURXZGtjbDRYQldmMUs1anA5RVRHMFRlYWI2RGhIeHY0bXhrazJfRzdCd1VxemdWaVNudVB5TlZlQlZ5WEdzeFY1R3VNbmpiS1VVbFEzNHVPR3Z3enpaUENsUUIxb0JIRg?oc=5",
-     "date": "2026-11-02T11:58:24+09:00"
-    },
-    {
      "title": "決算:キオクシア株、一時6カ月半ぶり安値 10〜12月期の業績予想に失望",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oRFY0Y0VsLVZCcVIzbWhuV3NuY2xHYnFiUFBZVmNIcHUtZmJEbWpFY3NYOUNfTjVvV2RKVUlydXFoS3Z4RWwxQUVYZEZwblU4QV85aVBOZllhZ2dFMzU0ZlZWc3FQeGNva2VPQg?oc=5",
@@ -171,10 +165,16 @@
      "date": "2026-11-02T21:52:44+09:00"
     },
     {
-     "title": "日経平均前引け 続落 195円安の6万3095円 キオクシアに売り",
+     "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Xa25ld0NhQ3F5VklWQmg3Vmgya0lGbGtMRXRVSExpX2lzSFVuTU9NSnRMdlJYVnQ3REx0elRMZzZTWnlnQy1SY0hhM2diUFlrM3c3SWdwQjVFVTZTMUNoRHJUaGRoS3RmU2tMaA?oc=5",
-     "date": "2026-11-02T11:37:12+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZFRpUm5TTG1pRUVkOFZQTTFiLU51UzVLU0hNc1poLXk2LTlER3QwY0ZtbkNraGVwVERja2VWNEVEQkNlUVNoem1MTEhlOVpzTG5kTUVBcEl2OEdsbHQ4R2hSd3N1SWQ2LS1FWQ?oc=5",
+     "date": "2026-11-02T17:57:38+09:00"
+    },
+    {
+     "title": "東証大引け 日経平均は続落 キオクシア15%安、韓国株高は支え",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxSURFNnQ3eEZjcG9KMzJBU2FxTHFrMzBnMFJ0bWJ0M09kVHdRSlhsak1YTkR1cFpiMHowZUlGSVd5SzZHcmE4a2o3UW52b01DeHpiZUoxTVFJVGpONmppbndNa1lXSmhhNFFBbw?oc=5",
+     "date": "2026-11-02T15:58:30+09:00"
     }
    ]
   },
@@ -202,6 +202,12 @@
      "date": "2026-11-02T12:55:44+09:00"
     },
     {
+     "title": "日経平均前引け 続落 195円安の6万3095円 キオクシアに売り",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Xa25ld0NhQ3F5VklWQmg3Vmgya0lGbGtMRXRVSExpX2lzSFVuTU9NSnRMdlJYVnQ3REx0elRMZzZTWnlnQy1SY0hhM2diUFlrM3c3SWdwQjVFVTZTMUNoRHJUaGRoS3RmU2tMaA?oc=5",
+     "date": "2026-11-02T11:37:12+09:00"
+    },
+    {
      "title": "日経平均大引け 続落 208円安の6万3081円",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELW40UkoxTFFVYVhHY0x4QWFjTFI5cUpWWnV4Q2RvRl84blZrV2lBVFBMc0MyZnRPNXhIUDZjaFZDY1dIWUlOV1E2TTQ5NDRsd3h3bXZlSW11Y21Bd3Z0VHNua0s4dk5xN0hMdA?oc=5",
@@ -224,12 +230,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSUIyM1EzdzY1Q25tRlBNaC1HdTJSZ0V0ZUhKVzBfbzFWMGphLU11LXhodE15N0EyVUtpOGlOVHpRZHhld19ncjZhWGxQRHpudFJTV0Z0Vll4YV9iaDZHaXBGOGR6YzI5Vzh4LQ?oc=5",
      "date": "2026-11-02T11:22:39+09:00"
-    },
-    {
-     "title": "外為14時 円相場、安値圏で推移 157円台後半",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tdklJckZKVXNtZUhhUkJnVjdGSGxPNGxSeGFtWGNNN2xHai15Mmp5a0MyZWdOOTNubDk5NjVRTDNvSHhWZjZ2SjB5UHlnc0hGWXkzRFNhalgwQW5nZlZDaEZVdUJSZFYweWhvTw?oc=5",
-     "date": "2026-11-02T14:14:25+09:00"
     }
    ]
   },
@@ -245,6 +245,12 @@
      "date": "2026-11-03T15:41:58+09:00"
     },
     {
+     "title": "「カネ」は血液、「金利」は血圧 国を守る「資金の流れ」を読む",
+     "source": "日経ビジネス電子版",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14bEN3NXFYRjNWWXlrV3VLdUFMSVFvQnlWMWNZdHRDbHIybTVOTFlTenNyVUhvUHlTRWRZZ1BiMlYxTFZqN2VudWNxaFJMWG9Vc083cEhlS2FWLXNwWVFkRDExTnFYTE0?oc=5",
+     "date": "2026-11-04T05:00:00+09:00"
+    },
+    {
      "title": "長期金利3%、個人向け国債の販売好調 西日本シティ銀行は3年で17倍",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVkdTeVJROFF6LV91ckhYQmkzU19sQU0wNGlSLS12ZE5qQ3VORENyczlsQktjaDM3N2F6Q0IzVTVid0J0aW00SnNNdS1TNUhFcWNxQl8xeVF2RTVIa240blIyVE4tajdrVlpYWA?oc=5",
@@ -255,12 +261,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00RjEyY3Z5NjFvZnBWOU4tS3JvcUt0RVMwRGRlZG9zUXQyRi1aVU4ySGdrYVByeUw5N3RtQWc5MGktaUFvNUZQcnJWQlF6M19PREkyMjQ5NDVkLUFtVk1iVmpVQVd5Y1JrYUZHUw?oc=5",
      "date": "2026-11-04T02:56:04+09:00"
-    },
-    {
-     "title": "「カネ」は血液、「金利」は血圧 国を守る「資金の流れ」を読む",
-     "source": "日経ビジネス電子版",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dxR2xBV1NfMWYzT2FZOWFEZDBNdlowVFJycFBOVkR3WDBoNDg4bGhnWVJra2N6WG83YXVLSHZVOVZEdnpERkJtYlVQN2NZejFSZjJWaUZmWjVwa3MxVHlsRUdGTURjQUZrdHNNNXJkOUkxQWh3VENHNENtczRBRFg0X21rODFvZk0yYw?oc=5",
-     "date": "2026-11-04T05:00:00+09:00"
     },
     {
      "title": "欧州国債概況2日 独10年債利回り低下、原油先物の値下がりで 仏長期金利も低下",
@@ -281,10 +281,10 @@
      "date": "2026-11-02T18:32:23+09:00"
     },
     {
-     "title": "中国銀行、定期金利を引き上げ 1年もの0.625%に",
+     "title": "紀陽銀行、定期預金金利0.1〜0.275%上げ 5日から",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wM0hWMXpFLUhpMlBDS2V5d3FXb21qNmRBX3dZTllnZDU3YVp3aTlnTlN0ZThpZUstZC13cG9JM1VwTFhxMC1QbG8tVkNzR2IxaS1QSi04Tm5qOFQzal8xa1hWSFNtMEFPN3ljcw?oc=5",
-     "date": "2026-11-02T17:40:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tdFFTMHg5VDBodDQ1VEZ5OE5ZVEpiMHJTSGJJODgwMUNrMjZaeEo2WXZadnN0NkpuQnBnNDhCZGtwZFB6N2hwdXMxVDFLaGc4VkJhVWtTQnJJazNoLVpxX1poVWtDTGpmdTE0UA?oc=5",
+     "date": "2026-11-02T19:16:46+09:00"
     }
    ]
   },
