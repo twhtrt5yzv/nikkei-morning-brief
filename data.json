@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:18:02+09:00",
+ "updated": "2026-11-20T07:40:06+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,16 +7,22 @@
    "emoji": "🌅",
    "items": [
     {
-     "title": "アンソロピック上場、初値111.5ドル 公開価格3割高で時価総額220兆円",
+     "title": "アンソロピック株価「短期では波乱」 IPO米識者の見方",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcmZfNzBxeTR3VVR0dDZrb19tNDZhdFpzRkdkZlhpMV9YdGthT25LNDZ6ZUNmcXZjNXR0YnQ4c2hSNDBKMXZBa3hMM19WazZCVERiTENSclNpVGItUHpfa1F3YjRpZS14OWZGbA?oc=5",
-     "date": "2026-11-20T02:06:09+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WYWg3UEZjMjNfRTNpYlJPNUowYUV0M0FpRHhCLWpaMUxNU0I0T0NUeHFfUVJjclBJZ29uNGlLY3gzTGx6dFFSdEVLSFpGRHI2WmFkMjUtZHdLLUlGTWpGQXlydTVKWU5SOVRnYg?oc=5",
+     "date": "2026-11-20T04:31:53+09:00"
     },
     {
-     "title": "アンソロピックがナスダック上場 AI開発で初、気配値は110ドル前後",
+     "title": "アンソロピック上場、時価総額は203兆円 投資家の需要強く",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qX0xNOXRqUTg3dzRoQ3VoeWhkR1ozTU92OWIwRmZ4RFZJV3BBQ0lnR3NycC1PdGtVbnR3NE9WTEdzQnJwRVNkOWtXcUthb21WT2c4WDFaT2Y3QnZ4UVM4TDhoaTZVRlRMMkVWTA?oc=5",
-     "date": "2026-11-20T00:16:10+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcmZfNzBxeTR3VVR0dDZrb19tNDZhdFpzRkdkZlhpMV9YdGthT25LNDZ6ZUNmcXZjNXR0YnQ4c2hSNDBKMXZBa3hMM19WazZCVERiTENSclNpVGItUHpfa1F3YjRpZS14OWZGbA?oc=5",
+     "date": "2026-11-20T06:27:04+09:00"
+    },
+    {
+     "title": "NYダウ1100ドル安、5万ドル割れ アンソロピック上場で換金売り",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01d3lRM2hpWmFLRktzemFuZWJQYjd3ZnE5MnUxX3JXa01IakpuRjU3bmRyanV0Z19YRHREa3RTNDhVakplS3dVMTliS2VleVBwWjk4T2hMdkd3OTU4czVXTFZzWUVIWk5OLUhLag?oc=5",
+     "date": "2026-11-20T06:55:32+09:00"
     },
     {
      "title": "プーチン氏、ヤルタ会談「何が悪い」 現実受け入れ必要と反論",
@@ -31,10 +37,10 @@
      "date": "2026-11-20T00:46:34+09:00"
     },
     {
-     "title": "アンソロピック上場演説全文 CEO「100年の科学進歩、AIで10年に」",
+     "title": "「働きやすい病院」採用の武器に ICT評価、27年度に厚労省が認定",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5reWpwU2l4aXQzRnByOUVjOWFrWnNtZEFoeU5aUS1JSUZOTW5qQlF4TG5BVU9rV2E2VVJsR3FrZ1JHX1BnLXVmT1hnUUh0LUoxYnlybllGcnFka0JhWGlyQnZXSjZtN3JHMnNVZQ?oc=5",
-     "date": "2026-11-20T01:06:16+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sb1NGRnlzeV9oTjNMMDF6bTBuSk5TVVhTa1lmSmR3T3QxMUlXY2hiNWlCNnhfMHBLZURUZml0bTNjUVJHN2RjZllJdTE2TG5lRGExenlNdkstMVFKa3ZFekpmMl9vUEw4dmpQdQ?oc=5",
+     "date": "2026-11-20T05:00:00+09:00"
     },
     {
      "title": "化石燃料の段階廃止、文言削除で後退 COP31合意文書で修正案",
@@ -49,21 +55,15 @@
      "date": "2026-11-20T01:00:00+09:00"
     },
     {
-     "title": "マスク氏「私はMAGAじゃない」 共和党へ700億円献金を後悔",
+     "title": "米国株23時間取引、日本でも昼間の売買容易に 取引所間競争は激化",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LU2FabGhqeDZxQ2xjNHh0WlFmMnJkNjQyWTZKU2tWdmwzNXlBUUFuRExwM21hN3lSbERUWUMxUzJCMzlKbnVXSGR5UWdnVDZ2Nk1Va3UwMTdqcnZoWUV3QTNpTXpydTZhdko4Rg?oc=5",
-     "date": "2026-11-20T03:34:45+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQ0VKSVlid3ZJOE5iOTlnTGhxd19BQ0ZqaXpaVER2REZEcmF1YTRIbk5VaFRicG1vNnJ0RkZmc3N5QzVHTnF4aThTbDhlTmhRNHJQTnRXRndaZW50LVRma0lEMndGaGdRR3F2Ug?oc=5",
+     "date": "2026-11-20T05:00:00+09:00"
     },
     {
-     "title": "大阪駅前に大規模緑地 官民束ね事業推進 ｜ NIKKEI × PIVOT ｜ 日本経済新聞 電子版特集（PR）",
-     "source": "ps.nikkei.com",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ybm9nVFJkSUF0SGtzN0ZNR2hOdGhFMHlzTXlMUVFleEc3cGQ4NnVvM25BSXFzTEVCZFVBMUhqMVdndVgxNWRJbGRQTnc0WWRh?oc=5",
-     "date": "2026-11-20T00:14:43+09:00"
-    },
-    {
-     "title": "編集者の視点 ｢COP31で消えた脱化石燃料､CCUSを強調｣",
+     "title": "NTTデータG中山社長、データ拠点投資で合弁設立「まず米国から」",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZnJid0J0SGtYYkp2Q2Zid0JDdGEyVEdQZ0hnTVU5dUNBVXJSQl9neXI2VzUycnZKMFRzMHNseE9LZHBvaGdLb09IalFacUdaTjJJQkUwNkF2S1d5ZVJMT0NsZ3hvWVR5RGFOTm9JVFRmbDNwSm4w?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwT1pYV2xVSUdmd21HRlVhWnFFc1hVNnNPOHZ5ajZBWW12RmNuY25RTV9xZEFDM2x3U0picG4xS3RoUTZBdXBKT053QmNkRV83dmdTd0JTbmJBZEVNMHZEQU1yTWNMbFJiWlltbw?oc=5",
      "date": "2026-11-20T05:00:00+09:00"
     }
    ]
@@ -86,16 +86,22 @@
      "date": "2026-11-19T13:22:10+09:00"
     },
     {
-     "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏洩で",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNF9CaHBwbUNTVkFXdWp4SXJNZUJpNDV3Nk1BM1RRUDE1bUdONmFWcVVhWFI0MFk4Q29zUHRnUk96MUJSTjJPLU5kUDFRWlBud0dfVDZhQXJfbjVXdVNaUFFLTEgzYjV2Z1VRcw?oc=5",
-     "date": "2026-11-19T19:15:00+09:00"
-    },
-    {
      "title": "所得連動給付の対象、年収下限56万円程度 片山財務相が検討表明",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MdGFSQmNPMFVqTTFUQkp3Skg4WmRiVjNNQ2MtWUFHTW0tRVV6Z0pNSlp1Ni1fQUwwQTV1QXMwalBnSTNZY2ctNHR6SFJjMVlsM2p2U1oxLUZNNVB5Qldud1Q4QThiT0tjdUJ4eA?oc=5",
      "date": "2026-11-19T20:40:00+09:00"
+    },
+    {
+     "title": "米中ロが核対話の枠組み 初の首脳会談、習氏「定例的に」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90MlRQX3p1YWhkcnhSZ21tX2twd1FqSHRvRlVzcENKREpMRnp5T3ZwZEp3WlFEVzlhbG1Fdjg4QnloQlFrX2MtR1ZKWTZETTlmZE9WSnVYZlItMnVRYTFyaDVrWFJpdVBYMFpvTw?oc=5",
+     "date": "2026-11-19T19:26:05+09:00"
+    },
+    {
+     "title": "NVIDIA、ムーディーズが格付け見通し下げ 不倫で信用力にもキズ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RMk1YTlc0bjB6UnBhcVZWQ1lqeEgtcE9DazVzWFpoNkNrX1VENWVoVWlBYkJuWGg3b3NmRWw0TElmVkJRUlRtck5XOW1rNWdyNHNDbkZiTHFoSkRWMjVRTm9aSnNOdkUxbGFwUA?oc=5",
+     "date": "2026-11-19T17:33:51+09:00"
     },
     {
      "title": "「防衛費抑制」で関連株に冷や水 政策期待の買いにストップ",
@@ -114,12 +120,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RWc3QW9nenpObU5EWnBtbEFVVE40ZUhsT0FTc2Zucjc0eWZ6SHZMTEJyQ3UzM3ZXckZUbnRySkg3X1ZOVGNzc2pVUk45aktlWEFaRU5xZTBCSEpiWXVmODRKZ25VaUplUi1NeQ?oc=5",
      "date": "2026-11-19T16:50:00+09:00"
-    },
-    {
-     "title": "通勤用ロープウエー「ジッパー」に推進協議会 東京・稲城市など参画",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUnVsRHk5TmlXZThEYTM4a1dMYmlTVGNxbUhscjhKVU4yVGsyY1cySEtYM0NBOURfN19qcTF0cHp0dEpDaDlHdHVhTy1kUWUzRTFLUmpNV1FqN3NoU2gyN241dUtoOHdfdmtncw?oc=5",
-     "date": "2026-11-19T18:45:00+09:00"
     }
    ]
   },
@@ -257,16 +257,16 @@
      "date": "2026-11-19T18:12:34+09:00"
     },
     {
-     "title": "バークシャーもヘッジファンドも銀行株売却 高金利の遅行リスク警戒",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aEZneWZMQVo4anNhYVNkZzdYUzJyaXdLbWxQQkdJeVZaU1RzM0lXMnR4cThxNHVTWTFLSktCZXZNenp0VjFzWHd0U0ZtU0pGVE9KSWJLRHlES2xfcmdFbmVidVZoYzhRaFNILQ?oc=5",
-     "date": "2026-11-18T06:53:54+09:00"
-    },
-    {
      "title": "債券15時 長期金利、2.820%に低下 米金利低下や原油安が支え",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNzRIMnk0NzJnZVlUYnpwVm91eHQ2aElHQ3R5c0pURklpZG9iSHlpUHRFeWs2a09wN3pRdXotN0dHd2c1V2J5V29pYUFTOG1lRjMxM0Vkd3pXaW5NYTc2WlFod3lYYWdaZ2gyTw?oc=5",
      "date": "2026-11-19T15:39:35+09:00"
+    },
+    {
+     "title": "自民が郵便貯金の限度額上げへ布石 国債税優遇見送り､地銀懸念を緩和",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95MWhLb0prUmpOcWJiQktWTXN0amVIOVlGbzdMenpvZ2tDOXpiS3A0bG9lVlk2dTloLW8xaTNjV3p3N0ZIekliSTJwZ2xFNTFWOHRSdldrOEJRNFlhcEkwcXZBbjk5QnZpTnA4Zg?oc=5",
+     "date": "2026-11-19T18:40:00+09:00"
     },
     {
      "title": "欧州国債概況19日 独10年債利回り上昇、欧州株の下落は下支え",
