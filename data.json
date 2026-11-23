@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:15:07+09:00",
+ "updated": "2026-11-24T07:40:09+09:00",
  "categories": [
   {
    "id": "asa",
@@ -7,63 +7,63 @@
    "emoji": "🌅",
    "items": [
     {
+     "title": "イギリスは8人に1人がニート 政府が就労支援、若者採用の企業に助成",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qXzZUOVJldTFzaEtFcVV4UHVtb0xlRl9HcVg4Sjk4UUx4aFJyZWxwZ0NnWGxNMG9nelpTOFZxS0VoQVhwQzZRM2s2X1VHdGdMQ2twc1h1Q0FjR252TTU1WEhkcXdlQ2ZSNzk1cw?oc=5",
+     "date": "2026-11-24T05:00:00+09:00"
+    },
+    {
+     "title": "NYダウ一時1300ドル高 テック関連が大幅高、インテル2割上昇",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IMEc4THRMS210bVRHTDdlR19xZDhLM3h6OUF3NlR3WE55UW5fbUtlY0kxUnFidXdBSGpNVVEtSEROWEwzV0x1MWRSWm1lV3p3b1dFUUJWYzBYeng2d0JkTG1SeW4wT1pTelZJeg?oc=5",
+     "date": "2026-11-24T00:45:00+09:00"
+    },
+    {
+     "title": "ファン氏復帰でNVIDIA31%急騰 AI総崩れが一転、ナスダック7%高",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tc29wS211bkc5eUlwa2NJdW5wR2hKZFZJV1lwNkdpUDY1TkpucVVtSmFTNlVSU2FyOFNVR09ia1FhMjRmRnJaWDg3ZFNQMmw0b19BblJlNjM5X2h5RDl1VVA2cDhoNGs5MzVrQg?oc=5",
+     "date": "2026-11-24T06:11:16+09:00"
+    },
+    {
+     "title": "クラウドストライク、ゼットスケーラー7兆円買収 サイバー2強統合",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZjBMc0xLdnRuXy1XbjRGMVR0Zko3VHdqZnBJbTVDYUNTR1FQWk82TnNrcmJsTXF5eEpqRFVSeWRIMjhtY1haUkpBVWhqNnlWWmdnZ2NuZVJJVWVlMGNDd1JPSkIxS3RWTWZPeg?oc=5",
+     "date": "2026-11-24T01:24:42+09:00"
+    },
+    {
      "title": "VCのアノバカ、元本割れで一部返金の新制度 60億円の新ファンド",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCbkZDSkxJcmNfRkxwQWMxWXJkME01LTR1N2I2eWw2WXJ4dklibndrSE1uRFY0RkVPMllqbXYzRVhNaldfVkQ1VFNxR1MwUk9Eb093N05LWEVHX0tsY3NqYzdLcHpMZDJibHF2Qw?oc=5",
      "date": "2026-11-24T02:00:00+09:00"
     },
     {
-     "title": "ロケットや衛星の量産・発射場整備、JAXAの改組や新法人設立で推進 自民党の宇宙政策提言案",
+     "title": "SDGsへの取り組み評価、豊田通商やソフトバンクなど上位",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Yld5bW14eUJQN2JGUU52b1RIZjJEamN2dmFkWFRFMk1RM0Jtcl80eF9sUUJpSmx5TjMtYXU1Z0N6QWxYMnBEZjFCd3psT1RaYUZzZG9vMVRBM0hUdlFITW02T0lWMkxyV0prWQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRG4wcjhldUVDRnhsbzNtWk5HWnYwZFVYWGQxZVlKendHME1CQUxfeGNsbUhjMkRiQjREbkNaeW94bzY4T2VPSGVFbzd4bWd4aVo0NHo2RFBlb19sZzhjeTlpR08zaVp1MHJacA?oc=5",
      "date": "2026-11-24T02:00:00+09:00"
     },
     {
-     "title": "編集者の視点 「COP31閉幕、もう一つの〝決裂〟」",
+     "title": "フォード、次世代宇宙船の開発を支援 米スタートアップに出資",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rZ3Y3Z0NER25nX2pwSDVWY2ZTbGFQVjJFY2NRV2hBN1FrMUxVcjQyYTYtSzhvblM5QzFZRkRPNTR4QVgzWXJxSVJ1OXJ0ZElrQzRPblN0R3hzVmlCTThzZl9XdGJid0MwQTVaMTBqb1pVcGtWUFRV?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGTlpGUlJEaV9FM2MyYThRclo1R2lXTktpaWh2aldtN2ltd2VzMFM3ZjkwS2dMenpDMzg0cVYzd1l2Zi1iZVF6VFJmSjY0TGxBd1NtbE4xalpiZ0VUVTBMWnNHNExhUnB4MzlhTA?oc=5",
+     "date": "2026-11-24T05:47:57+09:00"
+    },
+    {
+     "title": "三菱自の協力会社組合の昼田理事長「タイで生産減、撤退する企業も」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRTd3bm5UNG9BRnhBZm5PUkJlZUZSbVd5eTd5eUtHN0xXWmJwQ3RVa1l0THlQRDN2Nm9BOURUVWNLYnpwSk9YQ2RFMk1HbWVac21OaTdpdDVYTTVWMFZBTE56ZmR4aDkzVkNXdg?oc=5",
      "date": "2026-11-24T05:00:00+09:00"
     },
     {
-     "title": "編集者の視点 ｢テスラのサイバーキャブ購入者は所有者なのか｣ - 日経モビリティ",
+     "title": "伊藤忠、ファミマ無き「第8カンパニー」 近づく縦割り打破の本懐",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNmREMWhqRmZ4Z184QTlRbU50MTh6bm84c1V4OGN6YVFyeU90NHYtUjJxYzFQdkpENDh3NFdsS3Q0NldCRmxDSjYyTTVoNE9TQ3ZyaVkzLS01bEZZeW1mTEdvU0RIbXY3dTZpTERGOHRMME1aaVpwVEVTQXZvbXM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PWDJ1Y1hkTEF1RnNBcFZoSGR3TzhFS1pVS01HYnc2dmxpV0xMTVA1WUNjMXM3VlN6eXc0QW1PUncwc2FaMTNCamJFWE8zdDJfZDU0Wl9CRjhCVHV3TFdhcGsyZkFFZUYySDJzSA?oc=5",
      "date": "2026-11-24T05:00:00+09:00"
     },
     {
-     "title": "編集者の視点「インドが半導体に続き量子も、IBM存在感」",
+     "title": "消費者物価の家賃、民間データ採用で精度向上 2030年改定で検討",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU1sZ0VFYnFSUkstLXRJaC1sVjhhaGV0ZmhmdXhzTGZ4UGYtTDlOOEg1YnY4cDAzX0d5UWtTTlZtaUkwSy1fNEdVdWhleER1VEw0c3EyUGd1QVdpUk15OHNQMnBWSExWVWV3dTdyRlF5R2d1RkIxeTl6NXhWNW9OckFpVm1kSXM?oc=5",
-     "date": "2026-11-24T05:00:00+09:00"
-    },
-    {
-     "title": "【特許】ブリヂストン、再生材の配分で偏摩耗防ぐタイヤ",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONU9Ia1ZTSmxHNUZSVHhCLUZNLU9PcVQxNlZ6MzZ6YjVvVzlNV3pudmtpYzJmZ3hnU0NpNW5hOEp3WGhucURRaVZ1MVNmRDl4S2kyd1ZUZ2s4am9EOUxSUWp4VHNHY0ZBSEFtY1BERXpmNUtZT3VqYkpINDBlUmt3T0w3SHZjV1k?oc=5",
-     "date": "2026-11-24T05:00:00+09:00"
-    },
-    {
-     "title": "高齢者医療制度とは 65歳以上を対象とした医療保険の仕組み",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByeEhxUDR4eEtvS2dXdnItMDBzRWdiYVhiZ0lJUlg4S04zTlMyVHlhd1Y0YWRhQkpyZldfS3FjQk1qWXZXRUdvNnQ1MlhSbU9FVWJBR29BS0kyV2NyOEZVeGFSeWczNk8wb2hCZEFpem5aci12YmdxUG02cXlZUQ?oc=5",
-     "date": "2026-11-24T05:00:01+09:00"
-    },
-    {
-     "title": "BYDが前払いする日系企業 牧野フライス､高精度の加工",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSV9uQU56NDBtX29XRVdfSlNoQTE1X0N5MHR5Z1NpN3JBemlwQ0p1UWN3Z1JFOU56QXQ5eFROcElpaTVjcVZBbUoxVUkzdVhQV1UyZEF3eUd6WDV4c2lkOWk1QVoxTEo5eXpXZG1zbl9YQ1pVMzZGNk1jbXhNd0htRktXUmFELXhjQ3hiQzAxbFk0NWN6LUVDeWF3cG5HN09qcnVEZw?oc=5",
-     "date": "2026-11-24T05:00:00+09:00"
-    },
-    {
-     "title": "大手銀、データセンター債権売却に動く 世論反発で事業遅延警戒",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yNlgwUkt0U2l5NHNSM3ZsblpVaTRrX3J6SHNNNWNrV3lBN1FGY1hwZUl1NnZISi1KUU9OSGxqQjgySjltMHpuaGY0V21qWGEzZ2w0VkVBSkRMNmJIbWphaW1rYUhHQVRVOHl5Vi1CYndoTVBpZlNv?oc=5",
-     "date": "2026-11-24T00:00:00+09:00"
-    },
-    {
-     "title": "光電融合、コネクターで標準化争い 日米2勢力の違い解説",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUxmRmhxcTNEQXFwWFNFVXd4UTZveWN4SHNnZGR4OEU0UlV1bk95RW1UQUdVZVFvNTBTNnAxaUxkOVdzTnY2WTg5SEpUaFVSQlFkclRYYWpfajc1enBaU19iVHZZTmJ3RWxsUGNpNE5UWDFucFY3WGNkbmNrUmtDcDZhTnYyelU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLVUZwaXBTQXhFMm1nVXZ4NS16YnZNNEFySE1qOE1FSTZSQW9pMzVBUDRKYThHd2FteVFTc2Q5cDd3U2tLT2t0QWhDVjl4Q096ajFvQ09KQmtsTjFUemVMZlNxeElaTEpWdFBweA?oc=5",
      "date": "2026-11-24T05:00:00+09:00"
     }
    ]
@@ -73,6 +73,12 @@
    "label": "本日のトップ",
    "emoji": "🗞",
    "items": [
+    {
+     "title": "米ナスダック総合、一時7%急騰 NVIDIAがファン氏CEO復帰で3割高",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pcm1KT0d5SFRLRW5wcklweWgzS3JyRnVBVklnR2h6VDd2RVdGWDJDamZVVDlfUVdjRnY2eU5OZ1FYRFZYZFhvLWhINWtyMmVtYkxuZm1LdllyMGc2SHlMNVRTS3dIQ2F2VFJlTw?oc=5",
+     "date": "2026-11-23T23:36:34+09:00"
+    },
     {
      "title": "住友商事が中小企業投資の新ファンド 450億円、出資先にAI知見注入",
      "source": "日本経済新聞",
@@ -86,10 +92,22 @@
      "date": "2026-11-23T22:00:43+09:00"
     },
     {
+     "title": "トランプ氏、NVIDIAファンCEO復帰「私が話まとめた」",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZUsyUGlEcHRFTXdSb0UyZDJobEQySDB6WG5NdXJtZEZfNWlSR2dyYzBBcElTN0VMWmMzZGJMYWpuUVhtVTJWZkVJVE9VZVZxLWhEbjVGcVJHUkg3WGpDYWl2T2dzNTF6aGhIeQ?oc=5",
+     "date": "2026-11-23T23:44:43+09:00"
+    },
+    {
      "title": "首里城正殿を一般公開、「沖縄の象徴」火災から復元 伝統芸能で祝う",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pX0JOT3luTGpOMkRmUU8xV1BsdXE2UUZNTU42NUVMVy1QZ1BGbDdCZmk0czFlXzQzMlRQS2YxNno4MmJxT1ZXNXZzZHo4QzEtMFdiQzJCMm1HQklBOXlYZ0I4NTdoWGRra05FQQ?oc=5",
      "date": "2026-11-23T10:31:36+09:00"
+    },
+    {
+     "title": "福島廃炉・復興で「新本社」 東電、組織再編で専門人材の採用拡大",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsa29vSi0xOURfRGFzR2dORFJNNmN4eUtxR01LRGVwRVJkVFZlWFRuUjNmcnlCOUFESlYySFJiWDNObGQtRVdlYjFEYjIxVFJOVTZXWWp5ODBYRG51WkV4WmdSTk9mR3I1MVctUQ?oc=5",
+     "date": "2026-11-23T17:30:00+09:00"
     },
     {
      "title": "新薬開発を政投銀が支援 国際競争力引き上げへ、最終治験に共同投資",
@@ -98,28 +116,10 @@
      "date": "2026-11-23T17:00:00+09:00"
     },
     {
-     "title": "NVIDIA、CEOにジェンスン・ファン氏復帰 「安保上のリスクなし」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pam9JRnR2ODg3UkZkaXJxbnNLTWdkNDZ4Z1Fab1VuV1R4Y2dyVjZ5empVd0poUC1zQWIwZndFSjcyX3FBWFJibHFfTGt6MFlaZW9Ra3V6aWdpRHdPR3pwdWUyMDBBU25mMGlDRA?oc=5",
-     "date": "2026-11-23T23:15:06+09:00"
-    },
-    {
-     "title": "原子力潜水艦を動画解説 建造費用高額、日本保有なら安保の転換点に",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Z01mbTJPeXBFNUxpZndiWHV5aHNzR19DNVM4Znp0by1GYWN0a19nSFRZUVJidkZtNHJ3SGZ2enFmbThxZjZZSGpjbmVnRFdRLVJCR2tRaHA3RW8xMU4xSkszMjVkLUVUREhhNg?oc=5",
-     "date": "2026-11-23T11:00:00+09:00"
-    },
-    {
      "title": "［社説］美容医療は地域医療へ負担を",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtT0p1bjVZcFhhUGRQelhOdkR5MGpVdk04NlZXU1B2UDExS2pyTlgxMElTbVVjRzFtVk9fLTlocXh1dDJZblpQYVVSSFl6NGV6WEFGV211SW5HWnlqY0pZc0x3ZUllUmxvbEo4ZA?oc=5",
      "date": "2026-11-23T19:00:00+09:00"
-    },
-    {
-     "title": "ウクライナ、リビアでロシア軍艦攻撃か AP報道",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNjNmNmREZlNmaDRFWUV3V0F2YW9aa0JlZVZ0akF2UmlQM3VFV0M1WHBSSFU3S3BNQ0w5Wm85QTZENExjMlFSQkVFSlZSVHcxaDNsdWtwYVFzbWxmY3NVWEdfZkZfQXBtd2xDaA?oc=5",
-     "date": "2026-11-23T09:10:50+09:00"
     }
    ]
   },
@@ -129,16 +129,40 @@
    "emoji": "📈",
    "items": [
     {
+     "title": "今日の株価材料（新聞など、21〜24日）SKハイニックス、キオクシアの筆頭株主へ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kZ05jbFk4cDAwS0ZIM0EtWTd3Nl80WC1WTXROTHRvZnFyN2tmNHBfQjBxSGRaM1J2UGxmT0F0bmU1alh3QkF0cHVXWEdNeHY5NkxjazlaVzhFVG9HVEluWG5CaFM0bkVTYWZ4RA?oc=5",
+     "date": "2026-11-24T07:26:11+09:00"
+    },
+    {
+     "title": "AI相場から消えた「わくわく感」 日経平均に底入れ感薄く",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fUVJmd2xISy12X2xTQ21zSVZPZmxEdXo3R0RBU0RrNTMwUzBNMU1HUFF3V0FFM2JIcDJOYlRzSEplMVFzMHN4SG9tUFFiZGtGd2d0MVQyTGZYck9temFKQVlKVDJVUFM4dE9FRDNMdU1EaHVDaFdUZk91a3BHQQ?oc=5",
+     "date": "2026-11-24T05:00:00+09:00"
+    },
+    {
      "title": "日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oc0xqWnlYdndfbGtyREVpYzY2c1g1RlJJT3dqd3NZbHg2Z3dOUm1Zb0kwcEQ0SVpKbGlLbEZPTWtacVJBWFU2V2pGMmlWamx1bjVkQ2ZLemE5YXQ4MlBjeDU0bWRySDZqUkFSUQ?oc=5",
      "date": "2026-11-22T18:00:00+09:00"
     },
     {
+     "title": "エバーリ・グローバル・ホールディングス A 株価[EVRL/EverliGlobalHo]最新ニュース 日経会社情報DIGITAL",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zTkJIM2xUNXd3M1YxeVNkbmVGazhvSmZKQ1NnSW5YOXFDbjAxVHR2UWRQZzVYUUdhekRTakI4b0J6NDRKdzBpd3d2NkljeTNDQkhuMzB3?oc=5",
+     "date": "2026-11-24T06:49:21+09:00"
+    },
+    {
      "title": "投資に役立つ日経電子版 株価・検索ランキングで新たな銘柄発見",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51ZUpEdi0zZERpVk9QN1BPV0hlcVFKTy1BTTUzb3NyOG1CMElPVkJKbFRXTGY1T0hjTWt2VDNvZEdwZ1BDQ3VNYzFtd2ROVGtsWjByYk9INHZBYXhhdTF3dXBZNDE2aEJlOERfWA?oc=5",
      "date": "2026-11-23T05:00:00+09:00"
+    },
+    {
+     "title": "日本株ADR23日、全面高 みずほFGと野村の上げ目立つ",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45MVRlWkhMLTk5bHN2WHpRQi1wQ0lfUmZzaGdQUHFlYmtSRUYtYmJ5eW1vZ2FTc2VXZEZOSWhQcFZ3ME4xZnBteUxYZHQ3bU5MRjBFalJ2ZElJc3ZwWDBKX09CVXZrZVRpblFldA?oc=5",
+     "date": "2026-11-24T06:16:01+09:00"
     },
     {
      "title": "ロンドン株23日 反発、米ハイテク株上昇が心理支える",
@@ -151,30 +175,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zY3dOal83c1BQOEMzMU5sTzBCa3IyWHF1bTl4TlJaaTRRM3Q3ejg0RXFkYkZVd3B1Uy0zbWQ4MnQ0SGtUQzQzaGw1UUw5bzJYRk9hX1pwNXhSM0RxeHNKczhjbDFoR0pDQWNJVA?oc=5",
      "date": "2026-11-24T03:37:55+09:00"
-    },
-    {
-     "title": "ロンドン外為23日 ユーロ、対ドルで下落 米ハイテク株上昇でドル買い 英ポンドは一時約1年ぶり安値",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSYjItRnZmd3lHRVJKYzA0empwZ2ZSQmo2dTRieGhTeVhxTVFIYnNqbDQ1dlk1d2x4MTl2eG1PcmdwNVI0bGdCQkpoM1pqWjJQTC1UanF1SVJTOE1VcFM2R016Ullob3lyQjBjbw?oc=5",
-     "date": "2026-11-24T02:02:02+09:00"
-    },
-    {
-     "title": "JR東日本株、高値へタッチ Suica刷新でさらに跳べるか",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BUlVQWF9QS2NEeWtJRVNoVWZkQmhJb0l2T2x4c3JyZFRmVC1LbGJiWjJKMG9yc0RoMXc1UHhaNGg4VXQyMlc1cTFYZEtEdFl3RWc4T0c2Z3o3VE0wWl95MDhxaGctbW9iNzF3TDE4Y1BrYUJ4ZUVROVlGTG4zZw?oc=5",
-     "date": "2026-11-24T05:00:00+09:00"
-    },
-    {
-     "title": "多様化する半導体関連株投信・ETF 23年以降に一気に選択肢が拡大",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2OWZ2QmQxZzRxejJRZDJJQ3FpR3VuaTV4Y0tvZ2pNQTBMUG1xMkJPcWNRN1Z2Qks0R1FWSXZXc1NnQ21FbWhzOTIwZTZGSi1XSndfaGNtcEhSX3JSbzdZYjZDV3ptTVQ3bHFETw?oc=5",
-     "date": "2026-11-23T04:00:00+09:00"
-    },
-    {
-     "title": "米国株15時、ダウ反発し一時1600ドル高 エヌビディア急伸や自律反発狙いの買いで",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03Ml8zeExONW1adks0YmVZNTFHd2xEY21hMm5uendSaEZEOWd4OVp6eEhELUF6SnRxbUdpMGxRb0lMaE43ano5cHdPbVRHMnZJblVEYU9Vc19ObnhsMnlOa3FlQk5kSlZVQzVuMA?oc=5",
-     "date": "2026-11-24T05:06:52+09:00"
     }
    ]
   },
@@ -196,6 +196,12 @@
      "date": "2026-11-23T02:00:00+09:00"
     },
     {
+     "title": "NY円相場、反落 1ドル=158円95銭〜159円05銭 米株高で",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQXM5U3UwRWRXMWN5MjVSejhza2gtWHdYY004Qm9uTWtnbkE3UDRGWTVoY2VDaXZKLWlQc2pIUmJTNmRXVlh2OWFyTzRIVElWZzRtZmw1VVdiWFdSUXl1cUlWVDIwbkdFYmlqSA?oc=5",
+     "date": "2026-11-24T07:34:21+09:00"
+    },
+    {
      "title": "経済",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1leWhNMS1kby1KSVdGME56TldES3ZpczVWSklURU9kcU03bHlQMHFyQ3pfZFFOQ1pvaUNhQ0NkNWhkUmt4YVlqWkVscmlvTTBYZDNQN0tnUkRHejhEZjhfMW9XRVdQUThhWm5GcnVB?oc=5",
@@ -208,6 +214,12 @@
      "date": "2026-11-24T00:03:47+09:00"
     },
     {
+     "title": "ロンドン外為23日 ユーロ、対ドルで下落 米ハイテク株上昇でドル買い 英ポンドは一時約1年ぶり安値",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSYjItRnZmd3lHRVJKYzA0empwZ2ZSQmo2dTRieGhTeVhxTVFIYnNqbDQ1dlk1d2x4MTl2eG1PcmdwNVI0bGdCQkpoM1pqWjJQTC1UanF1SVJTOE1VcFM2R016Ullob3lyQjBjbw?oc=5",
+     "date": "2026-11-24T02:02:02+09:00"
+    },
+    {
      "title": "ＨｉＪｏＪｏ Ｐａｒｔｎｅｒｓ[657A]の株価・株主優待など。",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GNW1kQ2ZFYTU3QjNvTF9KUkNnN3B0VDMtMUk1Mjl1ZDM0bmd3VWQ5eU95bjR1NDhJZlFLZEFMQTk4UWd1bjZwekNtRmR4TnJoT3Vla250MEk0dw?oc=5",
@@ -218,18 +230,6 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xc2FDSzY0ZnFWTm5tWkpfcHlYX01FZnFMc0hXVEdJcW5oZjdxb3JNNldaam80Tm80STdTbzNFZURsZWEtTnN6dlhYYk95bWhfWWxJNGoxN0w5RUU5a09lX1FVdFBOMGtnYkRQcg?oc=5",
      "date": "2026-11-24T02:55:47+09:00"
-    },
-    {
-     "title": "消費税減税、防衛費増と「トレードオフ」 成長投資は財源を先行確保",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTZmhzQk1uQWZsVWJmSTloZDFrd0RxY3FzdnRqZHRZWEVvNFRkR19ENUVjZUp4WWNMZ3JNUzhYSDFyWDM0VDVZeHh0RDIxWEZvU3d6QVZYM05YV0hxU2dNenNhSlRJbkIyVUg1Sg?oc=5",
-     "date": "2026-11-23T05:00:00+09:00"
-    },
-    {
-     "title": "在日フランス商工会議所のシュシャン会頭「日本をアジア事業のハブに」",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bzlvX0FvLXNKVFRJZE01TV8xRzMteWFvUGRzVTFzcEYxMnpSSGZiUVZYN3pDMGFrUU1LM0tMQjBIbkJkUDRyd1VuaExVR3lkV2hQZ2xEWk5mcGFVMTF1RVNSN01SRU9nSDJsUg?oc=5",
-     "date": "2026-11-23T11:00:00+09:00"
     }
    ]
   },
@@ -257,6 +257,12 @@
      "date": "2026-11-23T05:00:00+09:00"
     },
     {
+     "title": "NY債券、長期債横ばい 10年債利回り4.94% 原油安が支え",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55WEpfd3VtTi10LVFBa2RBX2lab0RJdktzLUU2MFR5a2lPTmc4bUZjZmR4d3JKWG9vcmpoMFU1YUlwdTRPN0w0bTkwZkY5SzNybnVuU3dvWjgzLXFmS2hfMU5qRXViMVdKOElvYw?oc=5",
+     "date": "2026-11-24T07:17:34+09:00"
+    },
+    {
      "title": "証券化が開く貸し出し余力、預金以外の調達手段整えよ 植杉威一郎氏",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQS1nTjY0dU80amo2cTdTeXdCVENMSkdGbW9acEc0QTJGUHBjZWw1Ny1iY21oMU1hWUk4TVF2cTg3eTA1ZEhjRDRLSFU2ZDdtbHU2clAtWFJuQnMxSm55MFc5VkdUaVhNaXIyUw?oc=5",
@@ -269,22 +275,16 @@
      "date": "2026-11-24T05:00:00+09:00"
     },
     {
-     "title": "建設の手持ち工事高、過去最大 それでも「施工余力は十分」の根拠は",
+     "title": "スマホやパソコンだけじゃない「消費者物価に半導体インフレ波及」など3本をお届けします",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rc3hiX1liXzJyOFRmQVBxaXlpRHppTjNtbjl5bzBHMWpjUEJvRk8xX1JEbl84dlJJN2ltTTdvNzBIS29BUk9DSzlEMXlOaWMxNnp3YW1xY3pJWFFiSTNqdlBDc1dJQ2hIVkstWQ?oc=5",
-     "date": "2026-11-24T05:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OMXlEbDNxQ2NWbVlscWNSUzZONmk0V0IwdjY4ejROXy0yLU5PVy03cGdjWG9rTUVvNUdGcF9hbUI2bkpNREJBV2poWl9JUTBCdzJmZ1lkdmZnaW9RVV83anhreUZWRm44MWZqcjRlUF9vblhaTDhWYm5NR29NUQ?oc=5",
+     "date": "2026-11-24T05:00:02+09:00"
     },
     {
-     "title": "マンション大規模修繕、談合の手口は コンサルまで不正に関与",
+     "title": "高齢者医療制度とは 65歳以上を対象とした医療保険の仕組み",
      "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iSUdEbEJwVHVjQ083MzhwM1ZFcnhKRFAtc290dWtDamJiQjBpTUd1aEpkZGhIZ0JOeEF5TGdqXzRMRk13Vy1KUHVGLUo2NkI0dkxGMXBSQWxRVHI5MlNYZWtUcTYybXFnNXhRbA?oc=5",
-     "date": "2026-11-24T04:00:00+09:00"
-    },
-    {
-     "title": "AIは企業の何を変えたか アンソロピックの理想郷にハードル",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTzNNeEp6V2ZGa0FoYTVmZHpNUVM3TEJBbGNfSFFHa1NWaTBiSzRUR2NTb05UUVpBM2I2SDJhZ3I0Q1hvM2RSeFN1RHJOYjVLSUFfVDdhaVctdlo2dDhHVnVGa2RMTElHOW0yWQ?oc=5",
-     "date": "2026-11-22T11:00:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByeEhxUDR4eEtvS2dXdnItMDBzRWdiYVhiZ0lJUlg4S04zTlMyVHlhd1Y0YWRhQkpyZldfS3FjQk1qWXZXRUdvNnQ1MlhSbU9FVWJBR29BS0kyV2NyOEZVeGFSeWczNk8wb2hCZEFpem5aci12YmdxUG02cXlZUQ?oc=5",
+     "date": "2026-11-24T05:00:01+09:00"
     }
    ]
   },
@@ -294,16 +294,16 @@
    "emoji": "💵",
    "items": [
     {
-     "title": "NY債券、長期債続伸 10年債利回り4.94% 米AI株安でリスク回避の買い",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvTW16NlFYMzhCUW9tbnhiN1hOcGVkVmtyRHVaRW1CeHJhV18wNTBrMzRuMnYwZHdWZGdVelRjdlZsdXpBZUFhOFE4RUxpbzFfSERYbkt0N1E4UlhBc0VfQWdGNTZ3UnNnRTZtZw?oc=5",
-     "date": "2026-11-21T07:30:29+09:00"
-    },
-    {
      "title": "NY円相場、反発 1ドル=158円40〜50銭 米株安や金利低下で",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VRWtaeEFxbkpCbU50SmFySGdnTC12TUZLXzU0azNuRWJrRE1vdWRUbEJBcWZpdUxyTlF4clVZdXlHZVlLUmo0MGlrVFk0ZDg5NmxWV19tQU9mcDVKMW9OS0VKUm03ZG5Say1WcQ?oc=5",
      "date": "2026-11-21T07:58:11+09:00"
+    },
+    {
+     "title": "はじめに：『株式投資2027 激変する市場と新・投資マネー 日本株の現在を読む（日経プレミアシリーズ）』",
+     "source": "日経BOOKプラス",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55V293MTZoUG8zYVFNSm8yejBXbDNWRjBsQXowaXpDb0ZfeXY2OFlrM0c3RUhfVngzQ3ZTSkJQbkNCbzlZWDdldVJCbE5xc1JVdHpZUzBjUDZEM25DTmF0SXRjTkV5ZHhvS0tlSw?oc=5",
+     "date": "2026-11-24T05:00:00+09:00"
     },
     {
      "title": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声",
@@ -312,22 +312,10 @@
      "date": "2026-11-21T17:41:47+09:00"
     },
     {
-     "title": "アンソロピック急落9%安 テック株全体に波及、ナスダック5%安",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVjZYOXVtTEhKM0cybG5QN0VCTEIwZEtOMEtCV3ZLQzhOUzNPQ2ZiNFVCdllqdTFSdmVPMHhYLU5iNlNyQWxEdlY3X0lpTFZlaWFEZk9GSmVEejYzODhJTHM3cWpoTU1lRDNPeA?oc=5",
-     "date": "2026-11-21T06:20:18+09:00"
-    },
-    {
      "title": "グローバルＸ 超長期米国債 ＥＴＦ[180A]の市場価格は「日経会社情報DIGITAL」。",
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTjEteER1ZVE4aFlJak1nN01MckgtUzNPb2IzdlVMOWRUX0J1UTAxaWdvQVhMTnJ2V2hKS3Y2ekNSSmJZX0dEQzZZaHktMmR1eU9Ha1Bsbkhyb3ctRk1ZdU13?oc=5",
      "date": "2024-04-17T05:28:15+09:00"
-    },
-    {
-     "title": "ｉシェアーズ 米国債２０年超 ＥＴＦ（為替ヘッジあり）[2621]の市場価格は「日経会社情報DIGITAL」。",
-     "source": "日本経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBbjc4VDkzcURKVktTMjA2VnNFZ25rSjRqZU84RWlMSkZkOGNjZm9oUVJZaGdaYTdmN1NMMXVNeWhPNm5SUnJPWHZmTjh4VVg5QkZmU29tUlN6dw?oc=5",
-     "date": "2020-10-16T06:31:49+09:00"
     },
     {
      "title": "ｉシェアーズ 米国債２０年超 ＥＴＦ[2255]の市場価格は「日経会社情報DIGITAL」。",
@@ -340,6 +328,18 @@
      "source": "日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsX0Etano1TWVFOElkbGJOeVhHQVVqbUNFY0xzVl9QYlp4VHFZUmIyWUdOaUQ5czI2ZnFHQnMwN29BMzRfem12WUZoRWVXSmJzRFl4cHg2eHVpZFNMbVBVaS0tc1p4QzVmRUJWS25B?oc=5",
      "date": "2024-01-31T12:48:21+09:00"
+    },
+    {
+     "title": "ｉシェアーズ 米国債２０年超 ＥＴＦ（為替ヘッジあり）[2621]の市場価格は「日経会社情報DIGITAL」。",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DWlZqWm56WjRNb2JVam9oWG5MVFRxSVItM2VRUWNxQ2xhMFI4SDNyN1FTTkwweWNzeEItVXh4dnlHV0F4LXlaQkttamdJZkVzSGI2d2Yyajg0WkttalFfbnRR?oc=5",
+     "date": "2020-10-16T06:32:17+09:00"
+    },
+    {
+     "title": "ｉシェアーズ 米国債１－３年 ＥＴＦ[2620]の市場価格は「日経会社情報DIGITAL」。",
+     "source": "日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2cHhWdVlrbnZtU0ZpcnRrU2VtemV1TDhqSEpnczV0OHBEbDBXS09HMFV1MTV6anpmRnQzQ00yNzhSRTlqQ1B0QzhnSnpkUGVQT2R3M1psMUljZw?oc=5",
+     "date": "2020-10-18T21:33:48+09:00"
     }
    ]
   },
@@ -349,28 +349,22 @@
    "emoji": "🛡",
    "items": [
     {
+     "title": "生保・損保 最前線 2027（東洋経済SPECIAL）",
+     "source": "東洋経済STORE",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiWmVwOGdrallsdThnVGpIUHBFWGFHVzFCNjE5Rng1ZU45UWlpVTVaV2VQTjNGUkRPTC1VZ3Nnd2RoTThFYmEtQXdLd0tJNHotcU1xWVZSWElOZ0tZUFR1aHpQUEhLYnVGTzlLNGdHQQ?oc=5",
+     "date": "2026-11-23T11:04:38+09:00"
+    },
+    {
+     "title": "第8回どさんこ北海道自慢サラ川（川柳）募集のお知らせ",
+     "source": "北海道のホームページ",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN2pDcllpU094Y1Q0Y3g3eEdWSHBqUTFISm5scDZkOUxfVXBEWHhhYThVUm5xdGxTeEgtR3A1eTZGU3lBT1I3YzdzaGtOMHRJeFpjdmpTNjRYdTAzRjlV?oc=5",
+     "date": "2026-11-20T17:26:24+09:00"
+    },
+    {
      "title": "日本生命保険相互会社山口支社と連携協定を締結",
      "source": "長門市ホームページ",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QdE9ON3d6LWpyR1BmXzdGbG5penBYVVJTUnJJdVpYc194RGxDMGNaNG1LemxFak9aYTdZbTVveDlaNzd6ajlzSGxTajJtOXNtcXcweV96aWUtenp6bkFlSkhnemd5M3haUjl4NVowNGJkOV9Rc3N3Q3ZLQQ?oc=5",
      "date": "2026-11-18T16:35:22+09:00"
-    },
-    {
-     "title": "人的資源管理論において、アフラック生命保険株式会社上席常務執行役員 伊藤道博氏による講演を実施",
-     "source": "中央大学",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTFtTkFKeVZ5Z3d2alcxRlBxSnFpazR6Y1dxaEpZMjExUGtyNnNfMnVzVGh5V0lqTmF4V1o5UUhvb3BtVmJrSDJGSXF1c1NCU2NoUURKZEh6Y25aYVBaZXBYc3JLbTZnS2QxblVzZXkzcHhLaXhXY3JNTTJOLXNRNG8zMG1yWTJOM0E?oc=5",
-     "date": "2026-11-18T15:29:07+09:00"
-    },
-    {
-     "title": "【商業科】ビジネス講話（ソニー生命保険株式会社）を実施",
-     "source": "市立船橋高等学校",
-     "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQTk1OHhFbXRiZ3V0RUJJY1plc2NsWHdqOTZBYU9JanJ6czZRNXpLR2Q4VVJGSkhsbTZGS08wR1NCamkwTUcyRXdEa0FZdmRaWncyUk12cVF0c1V0TTF1QmNZTjZHdVhMZFgzYUY4Q2NLak5yY080Q013bE5kOEV0OWxwemw5WmR3RFFqd1RUY2JxenV6NDFOLVZZSTJqTkdYeERjaXMwREpuVm9zWVk2M19GZS1jTFNyTkpXckZrS3JnclQyLWY4bHBZTEVweW1tYlNSX3RWSHhrbVZSbXB2TVN1TUFBeHBFVGE5UFBYcFozaERTUTBTa1lqZGtSSVdwaENfdGp6eHQyekhvYUMtdVlmMjQ2eEloRDJDUHpGTDlKb1M0ZVpvN3JWR0RVTWlkaVNST1k5QlpYN0QyZmFkMTJQelhOSlN2X2twaW5oWVdvUQ?oc=5",
-     "date": "2026-11-18T10:57:35+09:00"
-    },
-    {
-     "title": "地銀の円建て生保販売、26年度下期は減速も 国債・投信と競合",
-     "source": "ニッキンONLINE",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uUVBEbWRRdnd0YXFqZmJrSTFoVXZPZVJPbHBIUlc4RnZiWGdqOWNpZ05KNlZxM1ltRVhsdzRRcUVZZEJiM2w1UXdYT1ZPdUM5NEhqS21B?oc=5",
-     "date": "2026-11-23T04:50:00+09:00"
     },
     {
      "title": "東京都、11年ぶりに個人向け円建て都債発行 金利上昇で",
@@ -379,22 +373,28 @@
      "date": "2026-11-20T17:03:28+09:00"
     },
     {
-     "title": "MS＆AD傘下の生保2社、2028年めどに合併 グループ効率化",
-     "source": "朝日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUOThmYWsxMHVnMHY4dmRaUnFqUXRSN0xIRS1jeW1IUkV5eU1VVkhIbjhTUDBfNGRNMUM0b1pSMVBMcXA5aTkzNEFwSFQwQkdqdXBwM0Nxb1kzdG9UMmRielVvbTdVR1E?oc=5",
-     "date": "2026-11-19T18:09:01+09:00"
+     "title": "【商業科】ビジネス講話（ソニー生命保険株式会社）を実施",
+     "source": "市立船橋高等学校",
+     "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQTk1OHhFbXRiZ3V0RUJJY1plc2NsWHdqOTZBYU9JanJ6czZRNXpLR2Q4VVJGSkhsbTZGS08wR1NCamkwTUcyRXdEa0FZdmRaWncyUk12cVF0c1V0TTF1QmNZTjZHdVhMZFgzYUY4Q2NLak5yY080Q013bE5kOEV0OWxwemw5WmR3RFFqd1RUY2JxenV6NDFOLVZZSTJqTkdYeERjaXMwREpuVm9zWVk2M19GZS1jTFNyTkpXckZrS3JnclQyLWY4bHBZTEVweW1tYlNSX3RWSHhrbVZSbXB2TVN1TUFBeHBFVGE5UFBYcFozaERTUTBTa1lqZGtSSVdwaENfdGp6eHQyekhvYUMtdVlmMjQ2eEloRDJDUHpGTDlKb1M0ZVpvN3JWR0RVTWlkaVNST1k5QlpYN0QyZmFkMTJQelhOSlN2X2twaW5oWVdvUQ?oc=5",
+     "date": "2026-11-18T10:57:35+09:00"
     },
     {
-     "title": "コールセンターでAIと協調【挑戦する企業・日本生命保険】",
+     "title": "保証の枠超えた価値提供【挑戦する企業・日本生命保険】",
      "source": "ニュースイッチ by 日刊工業新聞社",
-     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40eUkxbGozd0F5Z2Etc2E5dGZxM0hBdDh3M3Z1bXdMR29LT1J4czZ6R1lPeXV6M09hNTZ2aWZpVDFVdw?oc=5",
-     "date": "2026-11-17T06:01:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05Q25uTng0azlQMDNZck9DX1BWT2NIVHZWYktEdnR2SWQ3azRBMzE1U29rSkNUUEFuTUU5bWkyZmo0UQ?oc=5",
+     "date": "2026-11-19T06:00:00+09:00"
     },
     {
-     "title": "8割近くが生命保険・共済に加入！オレンジページ「ほぼ1000人にききました」が調査結果を発表。～重視するのは「手厚い保障」よりも「手ごろな保険料」",
-     "source": "Newscast.jp",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5wbU5ocUJYa2toc2U0Xy1lVGk4QXBXc1JIeXh1WkZfTnNaLTBIY2kwVzg1M2Y4aWdLYXo3VHp2YTZRTmRkMUFR?oc=5",
-     "date": "2026-11-17T10:00:00+09:00"
+     "title": "人的資源管理論において、アフラック生命保険株式会社上席常務執行役員 伊藤道博氏による講演を実施",
+     "source": "中央大学",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTFtTkFKeVZ5Z3d2alcxRlBxSnFpazR6Y1dxaEpZMjExUGtyNnNfMnVzVGh5V0lqTmF4V1o5UUhvb3BtVmJrSDJGSXF1c1NCU2NoUURKZEh6Y25aYVBaZXBYc3JLbTZnS2QxblVzZXkzcHhLaXhXY3JNTTJOLXNRNG8zMG1yWTJOM0E?oc=5",
+     "date": "2026-11-18T15:29:07+09:00"
+    },
+    {
+     "title": "地銀の円建て生保販売、26年度下期は減速も 国債・投信と競合",
+     "source": "ニッキンONLINE",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uUVBEbWRRdnd0YXFqZmJrSTFoVXZPZVJPbHBIUlc4RnZiWGdqOWNpZ05KNlZxM1ltRVhsdzRRcUVZZEJiM2w1UXdYT1ZPdUM5NEhqS21B?oc=5",
+     "date": "2026-11-23T04:50:00+09:00"
     }
    ]
   }
